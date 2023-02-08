@@ -1,0 +1,93 @@
+List of atom-atom interactions across protein-protein interface
+---------------------------------------------------------------
+
+
+                 PDB code: 5ctg   Chains A }{ B
+                 ------------------------------
+
+
+
+Hydrogen bonds
+--------------
+
+       <----- A T O M   1 ----->       <----- A T O M   2 ----->
+
+       Atom Atom Res  Res              Atom Atom Res  Res
+        no. name name no.  Chain        no. name name no.  Chain  Distance
+  1.    728  NE  ARG   98    A   <-->  3240  OH  TYR  213    B      2.89
+  2.    740  NZ  LYS   99    A   <-->  2812  O   ARG  159    B      3.18
+  3.    930  O   PHE  125    A   <-->  3048  NH2 ARG  189    B      2.43
+
+Non-bonded contacts
+-------------------
+
+       <----- A T O M   1 ----->       <----- A T O M   2 ----->
+
+       Atom Atom Res  Res              Atom Atom Res  Res
+        no. name name no.  Chain        no. name name no.  Chain  Distance
+  1.    727  CD  ARG   98    A   <-->  3240  OH  TYR  213    B      3.55
+  2.    728  NE  ARG   98    A   <-->  3237  CE1 TYR  213    B      3.73
+  3.    728  NE  ARG   98    A   <-->  3239  CZ  TYR  213    B      3.77
+  4.    728  NE  ARG   98    A   <-->  3240  OH  TYR  213    B      2.89
+  5.    729  CZ  ARG   98    A   <-->  3240  OH  TYR  213    B      3.84
+  6.    729  CZ  ARG   98    A   <-->  3271  OD1 ASN  217    B      3.71
+  7.    731  NH2 ARG   98    A   <-->  3237  CE1 TYR  213    B      3.61
+  8.    731  NH2 ARG   98    A   <-->  3249  CE1 TYR  214    B      3.86
+  9.    731  NH2 ARG   98    A   <-->  3269  CB  ASN  217    B      3.86
+ 10.    731  NH2 ARG   98    A   <-->  3270  CG  ASN  217    B      3.46
+ 11.    731  NH2 ARG   98    A   <-->  3271  OD1 ASN  217    B      2.98
+ 12.    735  O   LYS   99    A   <-->  2807  CG2 ILE  158    B      3.56
+ 13.    737  CG  LYS   99    A   <-->  2804  O   ILE  158    B      3.79
+ 14.    738  CD  LYS   99    A   <-->  2812  O   ARG  159    B      3.64
+ 15.    739  CE  LYS   99    A   <-->  2812  O   ARG  159    B      3.76
+ 16.    740  NZ  LYS   99    A   <-->  2812  O   ARG  159    B      3.18
+ 17.    763  CB  MET  102    A   <-->  2807  CG2 ILE  158    B      3.55
+ 18.    763  CB  MET  102    A   <-->  3252  OH  TYR  214    B      3.80
+ 19.    764  CG  MET  102    A   <-->  3252  OH  TYR  214    B      3.41
+ 20.    766  CE  MET  102    A   <-->  3211  CD2 LEU  210    B      3.78
+ 21.    795  O   GLY  106    A   <-->  3181  CE  MET  206    B      3.41
+ 22.    823  CB  LEU  110    A   <-->  3180  SD  MET  206    B      3.76
+ 23.    823  CB  LEU  110    A   <-->  3181  CE  MET  206    B      3.85
+ 24.    843  C   CYS  113    A   <-->  3156  CD1 ILE  202    B      3.59
+ 25.    844  O   CYS  113    A   <-->  3156  CD1 ILE  202    B      3.37
+ 26.    845  CB  CYS  113    A   <-->  3155  CG2 ILE  202    B      3.68
+ 27.    845  CB  CYS  113    A   <-->  3156  CD1 ILE  202    B      3.51
+ 28.    873  CD1 LEU  117    A   <-->  3096  CE2 TYR  194    B      3.81
+ 29.    873  CD1 LEU  117    A   <-->  3097  CZ  TYR  194    B      3.63
+ 30.    873  CD1 LEU  117    A   <-->  3098  OH  TYR  194    B      3.16
+ 31.    874  CD2 LEU  117    A   <-->  3102  O   PHE  195    B      3.83
+ 32.    874  CD2 LEU  117    A   <-->  3107  CE1 PHE  195    B      3.86
+ 33.    874  CD2 LEU  117    A   <-->  3127  C   GLY  198    B      3.76
+ 34.    874  CD2 LEU  117    A   <-->  3129  N   LEU  199    B      3.57
+ 35.    874  CD2 LEU  117    A   <-->  3130  CA  LEU  199    B      3.88
+ 36.    874  CD2 LEU  117    A   <-->  3135  CD1 LEU  199    B      3.73
+ 37.    879  CB  VAL  118    A   <-->  3107  CE1 PHE  195    B      3.82
+ 38.    894  ND1 HIS  120    A   <-->  3098  OH  TYR  194    B      3.76
+ 39.    902  CB  ALA  121    A   <-->  3065  CE1 PHE  191    B      3.48
+ 40.    925  CE2 PHE  124    A   <-->  3020  CD1 LEU  186    B      3.36
+ 41.    926  CZ  PHE  124    A   <-->  3020  CD1 LEU  186    B      3.65
+ 42.    928  CA  PHE  125    A   <-->  3048  NH2 ARG  189    B      3.68
+ 43.    929  C   PHE  125    A   <-->  3048  NH2 ARG  189    B      3.06
+ 44.    930  O   PHE  125    A   <-->  3046  CZ  ARG  189    B      3.59
+ 45.    930  O   PHE  125    A   <-->  3048  NH2 ARG  189    B      2.43
+ 46.    933  CD1 PHE  125    A   <-->  3040  C   ARG  189    B      3.70
+ 47.    933  CD1 PHE  125    A   <-->  3041  O   ARG  189    B      3.69
+ 48.    934  CD2 PHE  125    A   <-->  3063  CD1 PHE  191    B      3.74
+ 49.    935  CE1 PHE  125    A   <-->  3039  CA  ARG  189    B      3.51
+ 50.    935  CE1 PHE  125    A   <-->  3040  C   ARG  189    B      3.41
+ 51.    935  CE1 PHE  125    A   <-->  3041  O   ARG  189    B      3.85
+ 52.    935  CE1 PHE  125    A   <-->  3049  N   ASP  190    B      3.61
+ 53.    935  CE1 PHE  125    A   <-->  3051  C   ASP  190    B      3.78
+ 54.    936  CE2 PHE  125    A   <-->  3092  CG  TYR  194    B      3.80
+ 55.    936  CE2 PHE  125    A   <-->  3094  CD2 TYR  194    B      3.22
+ 56.    936  CE2 PHE  125    A   <-->  3096  CE2 TYR  194    B      3.49
+ 57.    937  CZ  PHE  125    A   <-->  3020  CD1 LEU  186    B      3.75
+ 58.    937  CZ  PHE  125    A   <-->  3091  CB  TYR  194    B      3.82
+ 59.    937  CZ  PHE  125    A   <-->  3092  CG  TYR  194    B      3.65
+ 60.    937  CZ  PHE  125    A   <-->  3094  CD2 TYR  194    B      3.58
+ 61.   1020  CZ  PHE  134    A   <-->  3067  CZ  PHE  191    B      3.51
+
+Number of hydrogen bonds:          3
+
+Number of non-bonded contacts:    61
+

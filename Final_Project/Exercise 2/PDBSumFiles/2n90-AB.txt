@@ -1,0 +1,106 @@
+List of atom-atom interactions across protein-protein interface
+---------------------------------------------------------------
+
+
+                 PDB code: 2n90   Chains A }{ B
+                 ------------------------------
+
+
+
+Hydrogen bonds
+--------------
+
+       <----- A T O M   1 ----->       <----- A T O M   2 ----->
+
+       Atom Atom Res  Res              Atom Atom Res  Res
+        no. name name no.  Chain        no. name name no.  Chain  Distance
+  1.    537  O   ARG   36    A   <-->  1161  NH1 ARG  136    B      2.96
+
+Non-bonded contacts
+-------------------
+
+       <----- A T O M   1 ----->       <----- A T O M   2 ----->
+
+       Atom Atom Res  Res              Atom Atom Res  Res
+        no. name name no.  Chain        no. name name no.  Chain  Distance
+  1.    121  CB  PHE    8    A   <-->   755  N   GLY  109    B      3.42
+  2.    121  CB  PHE    8    A   <-->   756  CA  GLY  109    B      3.85
+  3.    122  CG  PHE    8    A   <-->   755  N   GLY  109    B      3.78
+  4.    137  N   GLY    9    A   <-->   741  CD1 PHE  108    B      3.71
+  5.    222  C   LEU   16    A   <-->   845  CD2 LEU  116    B      3.60
+  6.    223  O   LEU   16    A   <-->   845  CD2 LEU  116    B      3.75
+  7.    224  CB  LEU   16    A   <-->   842  CB  LEU  116    B      3.69
+  8.    224  CB  LEU   16    A   <-->   843  CG  LEU  116    B      3.77
+  9.    224  CB  LEU   16    A   <-->   844  CD1 LEU  116    B      3.46
+ 10.    224  CB  LEU   16    A   <-->   845  CD2 LEU  116    B      3.63
+ 11.    225  CG  LEU   16    A   <-->   842  CB  LEU  116    B      3.80
+ 12.    226  CD1 LEU   16    A   <-->   842  CB  LEU  116    B      3.55
+ 13.    226  CD1 LEU   16    A   <-->   844  CD1 LEU  116    B      3.73
+ 14.    227  CD2 LEU   16    A   <-->   840  C   LEU  116    B      3.68
+ 15.    227  CD2 LEU   16    A   <-->   841  O   LEU  116    B      3.89
+ 16.    227  CD2 LEU   16    A   <-->   842  CB  LEU  116    B      3.63
+ 17.    227  CD2 LEU   16    A   <-->   857  N   ALA  117    B      3.62
+ 18.    227  CD2 LEU   16    A   <-->   858  CA  ALA  117    B      3.82
+ 19.    239  N   ALA   17    A   <-->   845  CD2 LEU  116    B      3.59
+ 20.    240  CA  ALA   17    A   <-->   845  CD2 LEU  116    B      3.79
+ 21.    268  O   PHE   19    A   <-->   950  CD2 PHE  123    B      3.72
+ 22.    272  CD2 PHE   19    A   <-->   904  CA  ALA  120    B      3.59
+ 23.    272  CD2 PHE   19    A   <-->   906  O   ALA  120    B      3.81
+ 24.    272  CD2 PHE   19    A   <-->   907  CB  ALA  120    B      3.29
+ 25.    272  CD2 PHE   19    A   <-->   950  CD2 PHE  123    B      3.63
+ 26.    274  CE2 PHE   19    A   <-->   906  O   ALA  120    B      3.46
+ 27.    274  CE2 PHE   19    A   <-->   950  CD2 PHE  123    B      3.45
+ 28.    274  CE2 PHE   19    A   <-->   968  CG  LEU  124    B      3.66
+ 29.    275  CZ  PHE   19    A   <-->   968  CG  LEU  124    B      3.51
+ 30.    275  CZ  PHE   19    A   <-->   970  CD2 LEU  124    B      3.89
+ 31.    286  CA  ALA   20    A   <-->   890  CD2 PHE  119    B      3.60
+ 32.    288  O   ALA   20    A   <-->   890  CD2 PHE  119    B      3.83
+ 33.    288  O   ALA   20    A   <-->   892  CE2 PHE  119    B      3.47
+ 34.    289  CB  ALA   20    A   <-->   890  CD2 PHE  119    B      3.33
+ 35.    310  CB  LEU   22    A   <-->   952  CE2 PHE  123    B      3.81
+ 36.    326  CA  PHE   23    A   <-->   948  CG  PHE  123    B      3.84
+ 37.    326  CA  PHE   23    A   <-->   949  CD1 PHE  123    B      3.73
+ 38.    326  CA  PHE   23    A   <-->   951  CE1 PHE  123    B      3.89
+ 39.    329  CB  PHE   23    A   <-->   947  CB  PHE  123    B      3.50
+ 40.    329  CB  PHE   23    A   <-->   948  CG  PHE  123    B      3.40
+ 41.    329  CB  PHE   23    A   <-->   949  CD1 PHE  123    B      3.67
+ 42.    329  CB  PHE   23    A   <-->   950  CD2 PHE  123    B      3.86
+ 43.    330  CG  PHE   23    A   <-->   944  CA  PHE  123    B      3.86
+ 44.    330  CG  PHE   23    A   <-->   947  CB  PHE  123    B      3.41
+ 45.    330  CG  PHE   23    A   <-->   948  CG  PHE  123    B      3.64
+ 46.    330  CG  PHE   23    A   <-->   949  CD1 PHE  123    B      3.66
+ 47.    331  CD1 PHE   23    A   <-->   944  CA  PHE  123    B      3.77
+ 48.    331  CD1 PHE   23    A   <-->   947  CB  PHE  123    B      3.70
+ 49.    331  CD1 PHE   23    A   <-->   948  CG  PHE  123    B      3.68
+ 50.    331  CD1 PHE   23    A   <-->   949  CD1 PHE  123    B      3.18
+ 51.    332  CD2 PHE   23    A   <-->   886  O   PHE  119    B      3.72
+ 52.    332  CD2 PHE   23    A   <-->   890  CD2 PHE  119    B      3.64
+ 53.    332  CD2 PHE   23    A   <-->   892  CE2 PHE  119    B      3.43
+ 54.    332  CD2 PHE   23    A   <-->   947  CB  PHE  123    B      3.86
+ 55.    334  CE2 PHE   23    A   <-->   928  CB  LEU  122    B      3.89
+ 56.    350  CG  LEU   24    A   <-->   892  CE2 PHE  119    B      3.65
+ 57.    350  CG  LEU   24    A   <-->   893  CZ  PHE  119    B      3.51
+ 58.    352  CD2 LEU   24    A   <-->   893  CZ  PHE  119    B      3.84
+ 59.    535  CA  ARG   36    A   <-->  1161  NH1 ARG  136    B      3.75
+ 60.    536  C   ARG   36    A   <-->  1161  NH1 ARG  136    B      3.24
+ 61.    537  O   ARG   36    A   <-->  1160  CZ  ARG  136    B      3.69
+ 62.    537  O   ARG   36    A   <-->  1161  NH1 ARG  136    B      2.96
+ 63.    537  O   ARG   36    A   <-->  1162  NH2 ARG  136    B      3.67
+ 64.    538  CB  ARG   36    A   <-->  1161  NH1 ARG  136    B      3.11
+ 65.    543  NH1 ARG   36    A   <-->  1070  CG2 VAL  130    B      3.80
+ 66.    544  NH2 ARG   36    A   <-->  1157  CG  ARG  136    B      3.35
+ 67.    558  N   ARG   37    A   <-->  1161  NH1 ARG  136    B      3.85
+ 68.    560  C   ARG   37    A   <-->  1161  NH1 ARG  136    B      3.86
+ 69.    582  N   ASN   38    A   <-->  1160  CZ  ARG  136    B      3.81
+ 70.    582  N   ASN   38    A   <-->  1161  NH1 ARG  136    B      3.78
+ 71.    583  CA  ASN   38    A   <-->  1158  CD  ARG  136    B      3.74
+ 72.    583  CA  ASN   38    A   <-->  1159  NE  ARG  136    B      3.65
+ 73.    583  CA  ASN   38    A   <-->  1160  CZ  ARG  136    B      3.89
+ 74.    586  CB  ASN   38    A   <-->  1158  CD  ARG  136    B      3.81
+ 75.    586  CB  ASN   38    A   <-->  1159  NE  ARG  136    B      3.29
+ 76.    586  CB  ASN   38    A   <-->  1160  CZ  ARG  136    B      3.67
+
+Number of hydrogen bonds:          1
+
+Number of non-bonded contacts:    76
+

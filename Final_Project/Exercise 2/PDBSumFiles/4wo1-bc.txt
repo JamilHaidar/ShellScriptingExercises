@@ -1,0 +1,72 @@
+List of atom-atom interactions across protein-protein interface
+---------------------------------------------------------------
+
+
+                 PDB code: 4wo1   Chains B }{ C
+                 ------------------------------
+
+
+
+Hydrogen bonds
+--------------
+
+       <----- A T O M   1 ----->       <----- A T O M   2 ----->
+
+       Atom Atom Res  Res              Atom Atom Res  Res
+        no. name name no.  Chain        no. name name no.  Chain  Distance
+  1.    224  O   SER    9    B   <-->   453  OG1 THR   10    C      2.58
+  2.    236  O   VAL   11    B   <-->   453  OG1 THR   10    C      3.34
+  3.    236  O   VAL   11    B   <-->   455  N   VAL   11    C      2.77
+
+Non-bonded contacts
+-------------------
+
+       <----- A T O M   1 ----->       <----- A T O M   2 ----->
+
+       Atom Atom Res  Res              Atom Atom Res  Res
+        no. name name no.  Chain        no. name name no.  Chain  Distance
+  1.    223  C   SER    9    B   <-->   453  OG1 THR   10    C      3.44
+  2.    224  O   SER    9    B   <-->   452  CB  THR   10    C      3.32
+  3.    224  O   SER    9    B   <-->   453  OG1 THR   10    C      2.58
+  4.    230  CB  THR   10    B   <-->   453  OG1 THR   10    C      3.14
+  5.    230  CB  THR   10    B   <-->   458  O   VAL   11    C      3.50
+  6.    231  OG1 THR   10    B   <-->   453  OG1 THR   10    C      3.48
+  7.    231  OG1 THR   10    B   <-->   458  O   VAL   11    C      3.48
+  8.    232  CG2 THR   10    B   <-->   458  O   VAL   11    C      3.28
+  9.    233  N   VAL   11    B   <-->   453  OG1 THR   10    C      3.56
+ 10.    236  O   VAL   11    B   <-->   449  CA  THR   10    C      3.42
+ 11.    236  O   VAL   11    B   <-->   450  C   THR   10    C      3.56
+ 12.    236  O   VAL   11    B   <-->   452  CB  THR   10    C      3.88
+ 13.    236  O   VAL   11    B   <-->   453  OG1 THR   10    C      3.34
+ 14.    236  O   VAL   11    B   <-->   455  N   VAL   11    C      2.77
+ 15.    236  O   VAL   11    B   <-->   456  CA  VAL   11    C      3.75
+ 16.    236  O   VAL   11    B   <-->   459  CB  VAL   11    C      3.59
+ 17.    236  O   VAL   11    B   <-->   461  CG2 VAL   11    C      3.61
+ 18.    238  CG1 VAL   11    B   <-->   459  CB  VAL   11    C      3.81
+ 19.    241  CA  SER   12    B   <-->   446  O   SER    9    C      3.56
+ 20.    244  CB  SER   12    B   <-->   446  O   SER    9    C      3.66
+ 21.    246  N   PRO   13    B   <-->   461  CG2 VAL   11    C      3.84
+ 22.    247  CA  PRO   13    B   <-->   461  CG2 VAL   11    C      3.64
+ 23.    252  CD  PRO   13    B   <-->   445  C   SER    9    C      3.78
+ 24.    252  CD  PRO   13    B   <-->   446  O   SER    9    C      3.25
+ 25.    271  CD2 LEU   16    B   <-->   492  CD1 LEU   16    C      3.89
+ 26.    294  CG1 VAL   20    B   <-->   536  OD2 ASP   23    C      3.70
+ 27.    295  CG2 VAL   20    B   <-->   509  CG2 ILE   19    C      3.78
+ 28.    311  CB  ASP   23    B   <-->   536  OD2 ASP   23    C      3.76
+ 29.    312  CG  ASP   23    B   <-->   536  OD2 ASP   23    C      3.62
+ 30.    314  OD2 ASP   23    B   <-->   534  CG  ASP   23    C      3.29
+ 31.    314  OD2 ASP   23    B   <-->   535  OD1 ASP   23    C      3.09
+ 32.    314  OD2 ASP   23    B   <-->   536  OD2 ASP   23    C      2.71
+ 33.    320  CG  LEU   24    B   <-->   536  OD2 ASP   23    C      3.57
+ 34.    321  CD1 LEU   24    B   <-->   536  OD2 ASP   23    C      3.81
+ 35.    322  CD2 LEU   24    B   <-->   536  OD2 ASP   23    C      3.80
+ 36.    322  CD2 LEU   24    B   <-->   565  OG1 THR   27    C      3.76
+ 37.    372  CB  ALA   31    B   <-->   588  CG2 ILE   30    C      3.78
+ 38.    372  CB  ALA   31    B   <-->   614  CG2 VAL   34    C      3.57
+ 39.    401  CE1 TYR   35    B   <-->   641  O   LEU   37    C      3.76
+ 40.    401  CE1 TYR   35    B   <-->   642  CB  LEU   37    C      3.88
+
+Number of hydrogen bonds:          3
+
+Number of non-bonded contacts:    40
+

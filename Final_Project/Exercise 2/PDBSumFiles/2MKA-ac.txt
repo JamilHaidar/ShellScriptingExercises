@@ -1,0 +1,44 @@
+List of atom-atom interactions across protein-protein interface
+---------------------------------------------------------------
+
+
+                 PDB code: 2mka   Chains A }{ C
+                 ------------------------------
+
+
+
+Non-bonded contacts
+-------------------
+
+       <----- A T O M   1 ----->       <----- A T O M   2 ----->
+
+       Atom Atom Res  Res              Atom Atom Res  Res
+        no. name name no.  Chain        no. name name no.  Chain  Distance
+  1.    215  CG2 THR   14    A   <-->  1494  CZ  PHE  220    C      3.74
+  2.    257  CB  LEU   17    A   <-->  1493  CE2 PHE  220    C      3.78
+  3.    277  CG  LEU   18    A   <-->  1493  CE2 PHE  220    C      3.62
+  4.    277  CG  LEU   18    A   <-->  1494  CZ  PHE  220    C      3.40
+  5.    279  CD2 LEU   18    A   <-->  1493  CE2 PHE  220    C      3.33
+  6.    279  CD2 LEU   18    A   <-->  1494  CZ  PHE  220    C      3.16
+  7.    336  CG2 ILE   21    A   <-->  1567  CG1 VAL  224    C      3.17
+  8.    337  CD1 ILE   21    A   <-->  1491  CD2 PHE  220    C      3.30
+  9.    337  CD1 ILE   21    A   <-->  1493  CE2 PHE  220    C      3.89
+ 10.    357  CE1 PHE   22    A   <-->  1642  CD2 HIS  228    C      3.62
+ 11.    357  CE1 PHE   22    A   <-->  1697  O   TRP  232    C      3.38
+ 12.    359  CZ  PHE   22    A   <-->  1697  O   TRP  232    C      3.41
+ 13.    408  CB  LEU   25    A   <-->  1643  CE1 HIS  228    C      3.69
+ 14.    408  CB  LEU   25    A   <-->  1644  NE2 HIS  228    C      3.77
+ 15.    410  CD1 LEU   25    A   <-->  1585  CD2 LEU  225    C      3.58
+ 16.    410  CD1 LEU   25    A   <-->  1639  CB  HIS  228    C      3.85
+ 17.    410  CD1 LEU   25    A   <-->  1640  CG  HIS  228    C      3.50
+ 18.    410  CD1 LEU   25    A   <-->  1641  ND1 HIS  228    C      3.41
+ 19.    410  CD1 LEU   25    A   <-->  1643  CE1 HIS  228    C      3.86
+ 20.    429  CD1 LEU   26    A   <-->  1644  NE2 HIS  228    C      3.80
+ 21.    485  CD2 PHE   29    A   <-->  1643  CE1 HIS  228    C      3.64
+ 22.    487  CE2 PHE   29    A   <-->  1660  CE1 PHE  229    C      3.61
+ 23.    487  CE2 PHE   29    A   <-->  1662  CZ  PHE  229    C      3.51
+ 24.    488  CZ  PHE   29    A   <-->  1660  CE1 PHE  229    C      3.27
+ 25.    488  CZ  PHE   29    A   <-->  1662  CZ  PHE  229    C      3.36
+
+Number of non-bonded contacts:    25
+

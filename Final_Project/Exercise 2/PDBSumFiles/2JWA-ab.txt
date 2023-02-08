@@ -1,0 +1,67 @@
+List of atom-atom interactions across protein-protein interface
+---------------------------------------------------------------
+
+
+                 PDB code: 2jwa   Chains A }{ B
+                 ------------------------------
+
+
+
+Non-bonded contacts
+-------------------
+
+       <----- A T O M   1 ----->       <----- A T O M   2 ----->
+
+       Atom Atom Res  Res              Atom Atom Res  Res
+        no. name name no.  Chain        no. name name no.  Chain  Distance
+  1.     58  N   GLN   46    A   <-->   854  CD1 LEU  151    B      3.52
+  2.     59  CA  GLN   46    A   <-->   854  CD1 LEU  151    B      3.44
+  3.     59  CA  GLN   46    A   <-->   855  CD2 LEU  151    B      3.81
+  4.     60  C   GLN   46    A   <-->   854  CD1 LEU  151    B      3.12
+  5.     61  O   GLN   46    A   <-->   854  CD1 LEU  151    B      3.33
+  6.     75  N   ARG   47    A   <-->   854  CD1 LEU  151    B      3.45
+  7.     79  CB  ARG   47    A   <-->   854  CD1 LEU  151    B      3.69
+  8.     80  CG  ARG   47    A   <-->   852  CB  LEU  151    B      3.86
+  9.     80  CG  ARG   47    A   <-->   854  CD1 LEU  151    B      3.38
+ 10.     81  CD  ARG   47    A   <-->   796  NE  ARG  147    B      3.88
+ 11.     82  NE  ARG   47    A   <-->   795  CD  ARG  147    B      3.87
+ 12.     82  NE  ARG   47    A   <-->   796  NE  ARG  147    B      3.11
+ 13.     82  NE  ARG   47    A   <-->   797  CZ  ARG  147    B      3.62
+ 14.     82  NE  ARG   47    A   <-->   799  NH2 ARG  147    B      3.68
+ 15.     82  NE  ARG   47    A   <-->   828  OG  SER  149    B      3.45
+ 16.     83  CZ  ARG   47    A   <-->   796  NE  ARG  147    B      3.60
+ 17.     83  CZ  ARG   47    A   <-->   797  CZ  ARG  147    B      3.63
+ 18.     83  CZ  ARG   47    A   <-->   799  NH2 ARG  147    B      3.32
+ 19.     85  NH2 ARG   47    A   <-->   796  NE  ARG  147    B      3.66
+ 20.     85  NH2 ARG   47    A   <-->   797  CZ  ARG  147    B      3.31
+ 21.     85  NH2 ARG   47    A   <-->   798  NH1 ARG  147    B      3.90
+ 22.     85  NH2 ARG   47    A   <-->   799  NH2 ARG  147    B      3.09
+ 23.    114  OG  SER   49    A   <-->   796  NE  ARG  147    B      3.45
+ 24.    138  CB  LEU   51    A   <-->   793  CB  ARG  147    B      3.90
+ 25.    138  CB  LEU   51    A   <-->   794  CG  ARG  147    B      3.90
+ 26.    140  CD1 LEU   51    A   <-->   772  N   GLN  146    B      3.54
+ 27.    140  CD1 LEU   51    A   <-->   773  CA  GLN  146    B      3.39
+ 28.    140  CD1 LEU   51    A   <-->   774  C   GLN  146    B      3.10
+ 29.    140  CD1 LEU   51    A   <-->   775  O   GLN  146    B      3.39
+ 30.    140  CD1 LEU   51    A   <-->   789  N   ARG  147    B      3.37
+ 31.    140  CD1 LEU   51    A   <-->   793  CB  ARG  147    B      3.63
+ 32.    140  CD1 LEU   51    A   <-->   794  CG  ARG  147    B      3.39
+ 33.    141  CD2 LEU   51    A   <-->   773  CA  GLN  146    B      3.88
+ 34.    159  CG2 THR   52    A   <-->   917  CG2 ILE  155    B      3.83
+ 35.    159  CG2 THR   52    A   <-->   918  CD1 ILE  155    B      3.47
+ 36.    203  CG2 ILE   55    A   <-->   873  CG2 THR  152    B      3.83
+ 37.    204  CD1 ILE   55    A   <-->   873  CG2 THR  152    B      3.47
+ 38.    217  CA  SER   56    A   <-->   931  CA  SER  156    B      3.58
+ 39.    217  CA  SER   56    A   <-->   934  CB  SER  156    B      3.62
+ 40.    219  O   SER   56    A   <-->   933  O   SER  156    B      3.89
+ 41.    219  O   SER   56    A   <-->   972  CG1 VAL  159    B      3.83
+ 42.    220  CB  SER   56    A   <-->   931  CA  SER  156    B      3.62
+ 43.    220  CB  SER   56    A   <-->   973  CG2 VAL  159    B      3.65
+ 44.    221  OG  SER   56    A   <-->   973  CG2 VAL  159    B      3.86
+ 45.    258  CG1 VAL   59    A   <-->   933  O   SER  156    B      3.84
+ 46.    259  CG2 VAL   59    A   <-->   934  CB  SER  156    B      3.65
+ 47.    259  CG2 VAL   59    A   <-->   935  OG  SER  156    B      3.86
+ 48.    270  CA  GLY   60    A   <-->   984  CA  GLY  160    B      3.41
+
+Number of non-bonded contacts:    48
+

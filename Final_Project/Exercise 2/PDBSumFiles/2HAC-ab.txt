@@ -1,0 +1,71 @@
+List of atom-atom interactions across protein-protein interface
+---------------------------------------------------------------
+
+
+                 PDB code: 2hac   Chains A }{ B
+                 ------------------------------
+
+
+
+Hydrogen bonds
+--------------
+
+       <----- A T O M   1 ----->       <----- A T O M   2 ----->
+
+       Atom Atom Res  Res              Atom Atom Res  Res
+        no. name name no.  Chain        no. name name no.  Chain  Distance
+  1.    317  OG1 THR   17    A   <-->   786  OH  TYR   12    B      2.67
+
+Non-bonded contacts
+-------------------
+
+       <----- A T O M   1 ----->       <----- A T O M   2 ----->
+
+       Atom Atom Res  Res              Atom Atom Res  Res
+        no. name name no.  Chain        no. name name no.  Chain  Distance
+  1.     66  CA  CYS    2    A   <-->   615  SG  CYS    2    B      3.84
+  2.     69  CB  CYS    2    A   <-->   614  CB  CYS    2    B      3.73
+  3.     70  SG  CYS    2    A   <-->   611  CA  CYS    2    B      3.88
+  4.    119  CB  LEU    5    A   <-->   685  OD1 ASP    6    B      3.80
+  5.    135  CA  ASP    6    A   <-->   723  CD1 LEU    9    B      3.80
+  6.    138  CB  ASP    6    A   <-->   723  CD1 LEU    9    B      3.77
+  7.    139  CG  ASP    6    A   <-->   685  OD1 ASP    6    B      3.61
+  8.    139  CG  ASP    6    A   <-->   723  CD1 LEU    9    B      3.74
+  9.    140  OD1 ASP    6    A   <-->   684  CG  ASP    6    B      3.60
+ 10.    140  OD1 ASP    6    A   <-->   685  OD1 ASP    6    B      2.41
+ 11.    140  OD1 ASP    6    A   <-->   723  CD1 LEU    9    B      3.60
+ 12.    141  OD2 ASP    6    A   <-->   664  CB  LEU    5    B      3.56
+ 13.    141  OD2 ASP    6    A   <-->   667  CD2 LEU    5    B      3.34
+ 14.    176  CB  LEU    9    A   <-->   721  CB  LEU    9    B      3.67
+ 15.    178  CD1 LEU    9    A   <-->   685  OD1 ASP    6    B      3.67
+ 16.    239  CE2 TYR   12    A   <-->   797  CA  GLY   13    B      3.79
+ 17.    240  CZ  TYR   12    A   <-->   862  OG1 THR   17    B      3.88
+ 18.    241  OH  TYR   12    A   <-->   862  OG1 THR   17    B      2.92
+ 19.    252  CA  GLY   13    A   <-->   782  CD2 TYR   12    B      3.89
+ 20.    252  CA  GLY   13    A   <-->   784  CE2 TYR   12    B      3.56
+ 21.    299  CD1 LEU   16    A   <-->   844  CD1 LEU   16    B      3.78
+ 22.    316  CB  THR   17    A   <-->   786  OH  TYR   12    B      3.81
+ 23.    317  OG1 THR   17    A   <-->   784  CE2 TYR   12    B      3.64
+ 24.    317  OG1 THR   17    A   <-->   785  CZ  TYR   12    B      3.59
+ 25.    317  OG1 THR   17    A   <-->   786  OH  TYR   12    B      2.67
+ 26.    318  CG2 THR   17    A   <-->   786  OH  TYR   12    B      3.85
+ 27.    340  CB  LEU   19    A   <-->   908  CE1 PHE   20    B      3.86
+ 28.    359  CB  PHE   20    A   <-->   844  CD1 LEU   16    B      3.84
+ 29.    363  CE1 PHE   20    A   <-->   885  CB  LEU   19    B      3.87
+ 30.    423  CG1 VAL   23    A   <-->   968  CG1 VAL   23    B      3.64
+
+Disulphide bonds
+----------------
+
+       <----- A T O M   1 ----->       <----- A T O M   2 ----->
+
+       Atom Atom Res  Res              Atom Atom Res  Res
+        no. name name no.  Chain        no. name name no.  Chain  Distance
+  1.     70  SG  CYS    2    A   <-->   615  SG  CYS    2    B      2.02
+
+Number of disulphide bonds:        1
+
+Number of hydrogen bonds:          1
+
+Number of non-bonded contacts:    30
+

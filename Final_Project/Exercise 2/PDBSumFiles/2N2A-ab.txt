@@ -1,0 +1,53 @@
+List of atom-atom interactions across protein-protein interface
+---------------------------------------------------------------
+
+
+                 PDB code: 2n2a   Chains A }{ B
+                 ------------------------------
+
+
+
+Non-bonded contacts
+-------------------
+
+       <----- A T O M   1 ----->       <----- A T O M   2 ----->
+
+       Atom Atom Res  Res              Atom Atom Res  Res
+        no. name name no.  Chain        no. name name no.  Chain  Distance
+  1.    171  CG2 ILE   12    A   <-->  1142  CG2 ILE  112    B      3.17
+  2.    226  CG1 VAL   16    A   <-->  1197  CG1 VAL  116    B      3.29
+  3.    226  CG1 VAL   16    A   <-->  1198  CG2 VAL  116    B      3.74
+  4.    227  CG2 VAL   16    A   <-->  1197  CG1 VAL  116    B      3.69
+  5.    227  CG2 VAL   16    A   <-->  1198  CG2 VAL  116    B      3.22
+  6.    282  N   LEU   20    A   <-->  1260  CD2 LEU  120    B      3.77
+  7.    283  CA  LEU   20    A   <-->  1260  CD2 LEU  120    B      3.45
+  8.    287  CG  LEU   20    A   <-->  1258  CG  LEU  120    B      3.60
+  9.    287  CG  LEU   20    A   <-->  1260  CD2 LEU  120    B      3.40
+ 10.    289  CD2 LEU   20    A   <-->  1253  N   LEU  120    B      3.86
+ 11.    289  CD2 LEU   20    A   <-->  1254  CA  LEU  120    B      3.52
+ 12.    289  CD2 LEU   20    A   <-->  1258  CG  LEU  120    B      3.43
+ 13.    289  CD2 LEU   20    A   <-->  1260  CD2 LEU  120    B      3.52
+ 14.    289  CD2 LEU   20    A   <-->  1310  CG2 VAL  123    B      3.55
+ 15.    339  CG2 VAL   23    A   <-->  1260  CD2 LEU  120    B      3.60
+ 16.    356  CD2 LEU   24    A   <-->  1327  CD2 LEU  124    B      3.15
+ 17.    396  CG1 VAL   27    A   <-->  1386  CE1 PHE  128    B      3.75
+ 18.    396  CG1 VAL   27    A   <-->  1388  CZ  PHE  128    B      3.90
+ 19.    459  CD1 LEU   31    A   <-->  1430  CD1 LEU  131    B      3.28
+ 20.    547  NH2 ARG   35    A   <-->  1660  CD2 TYR  142    B      3.77
+ 21.    569  NE2 GLN   36    A   <-->  1760  CD2 LEU  147    B      3.76
+ 22.    569  NE2 GLN   36    A   <-->  1815  OE1 GLU  150    B      3.24
+ 23.    709  CG2 THR   43    A   <-->  1695  CE  MET  144    B      3.25
+ 24.    721  CB  MET   44    A   <-->  1759  CD1 LEU  147    B      3.80
+ 25.    722  CG  MET   44    A   <-->  1759  CD1 LEU  147    B      3.44
+ 26.    723  SD  MET   44    A   <-->  1759  CD1 LEU  147    B      3.90
+ 27.    723  SD  MET   44    A   <-->  1760  CD2 LEU  147    B      3.81
+ 28.    724  CE  MET   44    A   <-->  1680  CG2 THR  143    B      3.25
+ 29.    788  CD1 LEU   47    A   <-->  1692  CB  MET  144    B      3.84
+ 30.    788  CD1 LEU   47    A   <-->  1693  CG  MET  144    B      3.46
+ 31.    788  CD1 LEU   47    A   <-->  1694  SD  MET  144    B      3.90
+ 32.    788  CD1 LEU   47    A   <-->  1759  CD1 LEU  147    B      3.39
+ 33.    789  CD2 LEU   47    A   <-->  1694  SD  MET  144    B      3.84
+ 34.    858  CG2 THR   51    A   <-->  1829  CG2 THR  151    B      3.17
+
+Number of non-bonded contacts:    34
+

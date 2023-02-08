@@ -1,0 +1,196 @@
+List of atom-atom interactions across protein-protein interface
+---------------------------------------------------------------
+
+
+                 PDB code: 6eti   Chains A }{ B
+                 ------------------------------
+
+
+
+Hydrogen bonds
+--------------
+
+       <----- A T O M   1 ----->       <----- A T O M   2 ----->
+
+       Atom Atom Res  Res              Atom Atom Res  Res
+        no. name name no.  Chain        no. name name no.  Chain  Distance
+  1.   2586  NE2 GLN  424    A   <-->  8002  O   LEU  554    B      3.23
+  2.   3596  O   LEU  554    A   <-->  6992  NE2 GLN  424    B      3.18
+  3.   3922  O   PRO  593    A   <-->  8416  OH  TYR  605    B      2.94
+  4.   4010  OH  TYR  605    A   <-->  8328  O   PRO  593    B      2.96
+
+Non-bonded contacts
+-------------------
+
+       <----- A T O M   1 ----->       <----- A T O M   2 ----->
+
+       Atom Atom Res  Res              Atom Atom Res  Res
+        no. name name no.  Chain        no. name name no.  Chain  Distance
+  1.   1275  OG  SER  218    A   <-->  6326  ND2 ASN  299    B      3.24
+  2.   1280  CB  SER  219    A   <-->  6323  CB  ASN  299    B      3.79
+  3.   1280  CB  SER  219    A   <-->  6324  CG  ASN  299    B      3.68
+  4.   1280  CB  SER  219    A   <-->  6326  ND2 ASN  299    B      3.80
+  5.   1492  CG  ARG  246    A   <-->  6264  OD2 ASP  292    B      3.60
+  6.   1493  CD  ARG  246    A   <-->  6261  CB  ASP  292    B      3.78
+  7.   1493  CD  ARG  246    A   <-->  6262  CG  ASP  292    B      3.89
+  8.   1502  CB  TYR  247    A   <-->  6220  O   TYR  287    B      3.79
+  9.   1503  CG  TYR  247    A   <-->  6220  O   TYR  287    B      3.71
+ 10.   1505  CD2 TYR  247    A   <-->  6211  OE2 GLU  285    B      3.86
+ 11.   1717  CD2 LEU  274    A   <-->  6225  CE1 TYR  287    B      3.68
+ 12.   1717  CD2 LEU  274    A   <-->  6227  CZ  TYR  287    B      3.61
+ 13.   1717  CD2 LEU  274    A   <-->  6228  OH  TYR  287    B      3.82
+ 14.   1796  SG  CYS  284    A   <-->  6223  CD1 TYR  287    B      3.80
+ 15.   1796  SG  CYS  284    A   <-->  6225  CE1 TYR  287    B      3.62
+ 16.   1805  OE2 GLU  285    A   <-->  5911  CD2 TYR  247    B      3.89
+ 17.   1812  CA  TYR  287    A   <-->  6232  O   ASN  288    B      3.27
+ 18.   1813  C   TYR  287    A   <-->  6231  C   ASN  288    B      3.85
+ 19.   1813  C   TYR  287    A   <-->  6232  O   ASN  288    B      3.23
+ 20.   1814  O   TYR  287    A   <-->  5908  CB  TYR  247    B      3.74
+ 21.   1814  O   TYR  287    A   <-->  5909  CG  TYR  247    B      3.68
+ 22.   1814  O   TYR  287    A   <-->  5910  CD1 TYR  247    B      3.89
+ 23.   1814  O   TYR  287    A   <-->  6231  C   ASN  288    B      3.62
+ 24.   1814  O   TYR  287    A   <-->  6232  O   ASN  288    B      3.01
+ 25.   1814  O   TYR  287    A   <-->  6237  N   ASN  289    B      3.90
+ 26.   1814  O   TYR  287    A   <-->  6238  CA  ASN  289    B      3.69
+ 27.   1814  O   TYR  287    A   <-->  6251  CD  PRO  290    B      3.45
+ 28.   1815  CB  TYR  287    A   <-->  6232  O   ASN  288    B      3.53
+ 29.   1817  CD1 TYR  287    A   <-->  6202  SG  CYS  284    B      3.80
+ 30.   1817  CD1 TYR  287    A   <-->  6232  O   ASN  288    B      3.70
+ 31.   1819  CE1 TYR  287    A   <-->  6123  CD2 LEU  274    B      3.66
+ 32.   1819  CE1 TYR  287    A   <-->  6202  SG  CYS  284    B      3.61
+ 33.   1821  CZ  TYR  287    A   <-->  6123  CD2 LEU  274    B      3.58
+ 34.   1822  OH  TYR  287    A   <-->  6123  CD2 LEU  274    B      3.77
+ 35.   1825  C   ASN  288    A   <-->  6219  C   TYR  287    B      3.87
+ 36.   1825  C   ASN  288    A   <-->  6220  O   TYR  287    B      3.63
+ 37.   1826  O   ASN  288    A   <-->  6218  CA  TYR  287    B      3.30
+ 38.   1826  O   ASN  288    A   <-->  6219  C   TYR  287    B      3.24
+ 39.   1826  O   ASN  288    A   <-->  6220  O   TYR  287    B      3.00
+ 40.   1826  O   ASN  288    A   <-->  6221  CB  TYR  287    B      3.56
+ 41.   1826  O   ASN  288    A   <-->  6223  CD1 TYR  287    B      3.75
+ 42.   1832  CA  ASN  289    A   <-->  6220  O   TYR  287    B      3.73
+ 43.   1845  CD  PRO  290    A   <-->  6220  O   TYR  287    B      3.46
+ 44.   1855  CB  ASP  292    A   <-->  5899  CD  ARG  246    B      3.79
+ 45.   1858  OD2 ASP  292    A   <-->  5898  CG  ARG  246    B      3.61
+ 46.   1917  CB  ASN  299    A   <-->  5686  CB  SER  219    B      3.81
+ 47.   1918  CG  ASN  299    A   <-->  5686  CB  SER  219    B      3.74
+ 48.   1920  ND2 ASN  299    A   <-->  5681  OG  SER  218    B      3.24
+ 49.   1920  ND2 ASN  299    A   <-->  5686  CB  SER  219    B      3.84
+ 50.   2447  CD1 LEU  405    A   <-->  7951  CE1 PHE  547    B      3.88
+ 51.   2447  CD1 LEU  405    A   <-->  7953  CZ  PHE  547    B      3.68
+ 52.   2466  CG1 VAL  408    A   <-->  7951  CE1 PHE  547    B      3.72
+ 53.   2475  CD1 ILE  409    A   <-->  7977  CD1 ILE  550    B      3.80
+ 54.   2491  CG2 ILE  412    A   <-->  8021  CG2 VAL  556    B      3.89
+ 55.   2492  CD1 ILE  412    A   <-->  7987  CE2 PHE  551    B      3.86
+ 56.   2492  CD1 ILE  412    A   <-->  7988  CZ  PHE  551    B      3.69
+ 57.   2501  CE1 TYR  413    A   <-->  8010  O   LEU  555    B      3.88
+ 58.   2501  CE1 TYR  413    A   <-->  8019  CB  VAL  556    B      3.65
+ 59.   2501  CE1 TYR  413    A   <-->  8021  CG2 VAL  556    B      3.80
+ 60.   2503  CZ  TYR  413    A   <-->  8019  CB  VAL  556    B      3.69
+ 61.   2504  OH  TYR  413    A   <-->  8009  C   LEU  555    B      3.38
+ 62.   2504  OH  TYR  413    A   <-->  8010  O   LEU  555    B      3.41
+ 63.   2504  OH  TYR  413    A   <-->  8011  CB  LEU  555    B      3.48
+ 64.   2504  OH  TYR  413    A   <-->  8015  N   VAL  556    B      3.53
+ 65.   2504  OH  TYR  413    A   <-->  8016  CA  VAL  556    B      3.88
+ 66.   2504  OH  TYR  413    A   <-->  8019  CB  VAL  556    B      3.59
+ 67.   2563  CB  THR  421    A   <-->  8029  ND2 ASN  557    B      3.75
+ 68.   2564  OG1 THR  421    A   <-->  8051  CG2 THR  560    B      3.71
+ 69.   2565  CG2 THR  421    A   <-->  8029  ND2 ASN  557    B      3.33
+ 70.   2581  O   GLN  424    A   <-->  8010  O   LEU  555    B      3.29
+ 71.   2583  CG  GLN  424    A   <-->  8002  O   LEU  554    B      3.74
+ 72.   2585  OE1 GLN  424    A   <-->  8026  CB  ASN  557    B      3.63
+ 73.   2585  OE1 GLN  424    A   <-->  8027  CG  ASN  557    B      3.73
+ 74.   2585  OE1 GLN  424    A   <-->  8029  ND2 ASN  557    B      3.78
+ 75.   2585  OE1 GLN  424    A   <-->  8507  OE1 GLN  617    B      3.85
+ 76.   2585  OE1 GLN  424    A   <-->  8508  NE2 GLN  617    B      3.61
+ 77.   2586  NE2 GLN  424    A   <-->  7998  O   GLY  553    B      3.41
+ 78.   2586  NE2 GLN  424    A   <-->  8001  C   LEU  554    B      3.83
+ 79.   2586  NE2 GLN  424    A   <-->  8002  O   LEU  554    B      3.23
+ 80.   2586  NE2 GLN  424    A   <-->  8507  OE1 GLN  617    B      3.37
+ 81.   2594  ND2 ASN  425    A   <-->  8016  CA  VAL  556    B      3.38
+ 82.   2594  ND2 ASN  425    A   <-->  8017  C   VAL  556    B      3.71
+ 83.   2594  ND2 ASN  425    A   <-->  8021  CG2 VAL  556    B      3.44
+ 84.   2594  ND2 ASN  425    A   <-->  8022  N   ASN  557    B      3.06
+ 85.   2612  CA  GLY  428    A   <-->  8010  O   LEU  555    B      3.51
+ 86.   2614  O   GLY  428    A   <-->  8014  CD2 LEU  555    B      3.88
+ 87.   2637  CD2 PHE  431    A   <-->  8014  CD2 LEU  555    B      3.82
+ 88.   3545  CE1 PHE  547    A   <-->  6872  CG1 VAL  408    B      3.70
+ 89.   3547  CZ  PHE  547    A   <-->  6853  CD1 LEU  405    B      3.72
+ 90.   3571  CD1 ILE  550    A   <-->  6881  CD1 ILE  409    B      3.83
+ 91.   3582  CZ  PHE  551    A   <-->  6898  CD1 ILE  412    B      3.77
+ 92.   3592  O   GLY  553    A   <-->  6992  NE2 GLN  424    B      3.40
+ 93.   3595  C   LEU  554    A   <-->  6992  NE2 GLN  424    B      3.77
+ 94.   3596  O   LEU  554    A   <-->  6989  CG  GLN  424    B      3.69
+ 95.   3596  O   LEU  554    A   <-->  6992  NE2 GLN  424    B      3.18
+ 96.   3603  C   LEU  555    A   <-->  6910  OH  TYR  413    B      3.44
+ 97.   3604  O   LEU  555    A   <-->  6910  OH  TYR  413    B      3.47
+ 98.   3604  O   LEU  555    A   <-->  6987  O   GLN  424    B      3.27
+ 99.   3604  O   LEU  555    A   <-->  7018  CA  GLY  428    B      3.56
+100.   3605  CB  LEU  555    A   <-->  6910  OH  TYR  413    B      3.49
+101.   3608  CD2 LEU  555    A   <-->  7020  O   GLY  428    B      3.89
+102.   3608  CD2 LEU  555    A   <-->  7043  CD2 PHE  431    B      3.86
+103.   3609  N   VAL  556    A   <-->  6910  OH  TYR  413    B      3.60
+104.   3610  CA  VAL  556    A   <-->  7000  ND2 ASN  425    B      3.36
+105.   3611  C   VAL  556    A   <-->  7000  ND2 ASN  425    B      3.73
+106.   3613  CB  VAL  556    A   <-->  6907  CE1 TYR  413    B      3.71
+107.   3613  CB  VAL  556    A   <-->  6909  CZ  TYR  413    B      3.76
+108.   3613  CB  VAL  556    A   <-->  6910  OH  TYR  413    B      3.66
+109.   3615  CG2 VAL  556    A   <-->  6907  CE1 TYR  413    B      3.87
+110.   3615  CG2 VAL  556    A   <-->  7000  ND2 ASN  425    B      3.42
+111.   3616  N   ASN  557    A   <-->  7000  ND2 ASN  425    B      3.10
+112.   3620  CB  ASN  557    A   <-->  6991  OE1 GLN  424    B      3.61
+113.   3621  CG  ASN  557    A   <-->  6991  OE1 GLN  424    B      3.74
+114.   3623  ND2 ASN  557    A   <-->  6969  CB  THR  421    B      3.78
+115.   3623  ND2 ASN  557    A   <-->  6971  CG2 THR  421    B      3.32
+116.   3623  ND2 ASN  557    A   <-->  6991  OE1 GLN  424    B      3.81
+117.   3645  CG2 THR  560    A   <-->  6970  OG1 THR  421    B      3.72
+118.   3917  CB  CYS  592    A   <-->  8412  CD2 TYR  605    B      3.53
+119.   3917  CB  CYS  592    A   <-->  8414  CE2 TYR  605    B      3.81
+120.   3918  SG  CYS  592    A   <-->  8409  CB  TYR  605    B      3.78
+121.   3918  SG  CYS  592    A   <-->  8410  CG  TYR  605    B      3.86
+122.   3918  SG  CYS  592    A   <-->  8412  CD2 TYR  605    B      3.64
+123.   3922  O   PRO  593    A   <-->  8414  CE2 TYR  605    B      3.71
+124.   3922  O   PRO  593    A   <-->  8415  CZ  TYR  605    B      3.75
+125.   3922  O   PRO  593    A   <-->  8416  OH  TYR  605    B      2.94
+126.   3924  CG  PRO  593    A   <-->  8416  OH  TYR  605    B      3.45
+127.   3925  CD  PRO  593    A   <-->  8415  CZ  TYR  605    B      3.83
+128.   3925  CD  PRO  593    A   <-->  8416  OH  TYR  605    B      3.62
+129.   3989  CB  CYS  603    A   <-->  8395  CB  CYS  603    B      2.94
+130.   3989  CB  CYS  603    A   <-->  8396  SG  CYS  603    B      2.97
+131.   3990  SG  CYS  603    A   <-->  8395  CB  CYS  603    B      3.00
+132.   3990  SG  CYS  603    A   <-->  8396  SG  CYS  603    B      2.02
+133.   4002  O   TYR  605    A   <-->  8418  CA  ALA  606    B      3.52
+134.   4002  O   TYR  605    A   <-->  8419  C   ALA  606    B      3.74
+135.   4002  O   TYR  605    A   <-->  8420  O   ALA  606    B      3.07
+136.   4002  O   TYR  605    A   <-->  8421  CB  ALA  606    B      3.86
+137.   4003  CB  TYR  605    A   <-->  8324  SG  CYS  592    B      3.81
+138.   4006  CD2 TYR  605    A   <-->  8323  CB  CYS  592    B      3.59
+139.   4006  CD2 TYR  605    A   <-->  8324  SG  CYS  592    B      3.70
+140.   4008  CE2 TYR  605    A   <-->  8323  CB  CYS  592    B      3.87
+141.   4008  CE2 TYR  605    A   <-->  8328  O   PRO  593    B      3.71
+142.   4009  CZ  TYR  605    A   <-->  8328  O   PRO  593    B      3.77
+143.   4010  OH  TYR  605    A   <-->  8328  O   PRO  593    B      2.96
+144.   4010  OH  TYR  605    A   <-->  8330  CG  PRO  593    B      3.52
+145.   4010  OH  TYR  605    A   <-->  8331  CD  PRO  593    B      3.70
+146.   4012  CA  ALA  606    A   <-->  8408  O   TYR  605    B      3.53
+147.   4013  C   ALA  606    A   <-->  8408  O   TYR  605    B      3.71
+148.   4014  O   ALA  606    A   <-->  8408  O   TYR  605    B      3.03
+149.   4015  CB  ALA  606    A   <-->  8408  O   TYR  605    B      3.88
+150.   4101  OE1 GLN  617    A   <-->  6991  OE1 GLN  424    B      3.86
+151.   4101  OE1 GLN  617    A   <-->  6992  NE2 GLN  424    B      3.42
+152.   4102  NE2 GLN  617    A   <-->  6991  OE1 GLN  424    B      3.66
+
+Disulphide bonds
+----------------
+
+       <----- A T O M   1 ----->       <----- A T O M   2 ----->
+
+       Atom Atom Res  Res              Atom Atom Res  Res
+        no. name name no.  Chain        no. name name no.  Chain  Distance
+  1.   3990  SG  CYS  603    A   <-->  8396  SG  CYS  603    B      2.02
+
+Number of disulphide bonds:        1
+
+Number of hydrogen bonds:          4
+
+Number of non-bonded contacts:   152
+

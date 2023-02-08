@@ -1,0 +1,67 @@
+List of atom-atom interactions across protein-protein interface
+---------------------------------------------------------------
+
+
+                 PDB code: 2mka   Chains A }{ B
+                 ------------------------------
+
+
+
+Hydrogen bonds
+--------------
+
+       <----- A T O M   1 ----->       <----- A T O M   2 ----->
+
+       Atom Atom Res  Res              Atom Atom Res  Res
+        no. name name no.  Chain        no. name name no.  Chain  Distance
+  1.    571  O   ILE   34    A   <-->  1138  NE  ARG  133    B      2.73
+  2.    571  O   ILE   34    A   <-->  1141  NH2 ARG  133    B      3.29
+
+Non-bonded contacts
+-------------------
+
+       <----- A T O M   1 ----->       <----- A T O M   2 ----->
+
+       Atom Atom Res  Res              Atom Atom Res  Res
+        no. name name no.  Chain        no. name name no.  Chain  Distance
+  1.    127  CE1 PHE    9    A   <-->   714  CE1 PHE  109    B      3.80
+  2.    200  CG  ASN   13    A   <-->   788  OD1 ASN  113    B      3.37
+  3.    201  OD1 ASN   13    A   <-->   787  CG  ASN  113    B      3.70
+  4.    201  OD1 ASN   13    A   <-->   788  OD1 ASN  113    B      2.85
+  5.    202  ND2 ASN   13    A   <-->   714  CE1 PHE  109    B      3.74
+  6.    202  ND2 ASN   13    A   <-->   716  CZ  PHE  109    B      3.67
+  7.    202  ND2 ASN   13    A   <-->   788  OD1 ASN  113    B      3.39
+  8.    237  O   ILE   16    A   <-->   846  CD1 LEU  117    B      3.76
+  9.    260  CD2 LEU   17    A   <-->   845  CG  LEU  117    B      3.61
+ 10.    260  CD2 LEU   17    A   <-->   847  CD2 LEU  117    B      3.45
+ 11.    314  CB  PHE   20    A   <-->   847  CD2 LEU  117    B      3.90
+ 12.    314  CB  PHE   20    A   <-->   924  CD1 ILE  121    B      3.63
+ 13.    315  CG  PHE   20    A   <-->   924  CD1 ILE  121    B      3.17
+ 14.    316  CD1 PHE   20    A   <-->   924  CD1 ILE  121    B      3.18
+ 15.    317  CD2 PHE   20    A   <-->   924  CD1 ILE  121    B      3.60
+ 16.    318  CE1 PHE   20    A   <-->   924  CD1 ILE  121    B      3.63
+ 17.    335  CG1 ILE   21    A   <-->   906  CE2 PHE  120    B      3.75
+ 18.    394  CG2 VAL   24    A   <-->   923  CG2 ILE  121    B      3.56
+ 19.    468  CD2 HIS   28    A   <-->  1053  CG  HIS  128    B      3.65
+ 20.    468  CD2 HIS   28    A   <-->  1054  ND1 HIS  128    B      3.17
+ 21.    468  CD2 HIS   28    A   <-->  1056  CE1 HIS  128    B      3.20
+ 22.    468  CD2 HIS   28    A   <-->  1057  NE2 HIS  128    B      3.65
+ 23.    470  NE2 HIS   28    A   <-->  1053  CG  HIS  128    B      3.12
+ 24.    470  NE2 HIS   28    A   <-->  1054  ND1 HIS  128    B      3.15
+ 25.    470  NE2 HIS   28    A   <-->  1055  CD2 HIS  128    B      3.06
+ 26.    470  NE2 HIS   28    A   <-->  1056  CE1 HIS  128    B      3.12
+ 27.    470  NE2 HIS   28    A   <-->  1057  NE2 HIS  128    B      3.06
+ 28.    523  O   TRP   32    A   <-->  1056  CE1 HIS  128    B      3.35
+ 29.    523  O   TRP   32    A   <-->  1075  CZ  PHE  129    B      3.62
+ 30.    545  CA  ARG   33    A   <-->  1056  CE1 HIS  128    B      3.67
+ 31.    548  CB  ARG   33    A   <-->  1057  NE2 HIS  128    B      3.68
+ 32.    570  C   ILE   34    A   <-->  1138  NE  ARG  133    B      3.90
+ 33.    571  O   ILE   34    A   <-->  1137  CD  ARG  133    B      3.74
+ 34.    571  O   ILE   34    A   <-->  1138  NE  ARG  133    B      2.73
+ 35.    571  O   ILE   34    A   <-->  1139  CZ  ARG  133    B      3.41
+ 36.    571  O   ILE   34    A   <-->  1141  NH2 ARG  133    B      3.29
+
+Number of hydrogen bonds:          2
+
+Number of non-bonded contacts:    36
+

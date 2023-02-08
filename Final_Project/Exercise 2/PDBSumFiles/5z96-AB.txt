@@ -1,0 +1,372 @@
+List of atom-atom interactions across protein-protein interface
+---------------------------------------------------------------
+
+
+                 PDB code: 5z96   Chains A }{ B
+                 ------------------------------
+
+
+
+Hydrogen bonds
+--------------
+
+       <----- A T O M   1 ----->       <----- A T O M   2 ----->
+
+       Atom Atom Res  Res              Atom Atom Res  Res
+        no. name name no.  Chain        no. name name no.  Chain  Distance
+  1.     20  O   ARG   17    A   <-->  6385  NE  ARG  170    B      2.64
+  2.     24  NE  ARG   17    A   <-->  6363  OG  SER  167    B      2.98
+  3.     27  NH2 ARG   17    A   <-->  6363  OG  SER  167    B      2.58
+  4.     86  NH1 ARG   24    A   <-->  6615  O   SER  213    B      2.70
+  5.     87  NH2 ARG   24    A   <-->  6621  O   GLU  214    B      2.40
+  6.     87  NH2 ARG   24    A   <--> 10205  OE1 GLN  707    B      2.80
+  7.    407  O   PRO   68    A   <--> 10273  NZ  LYS  715    B      2.58
+  8.    489  OE2 GLU   79    A   <--> 10363  NZ  LYS  726    B      3.05
+  9.    819  O   GLU  138    A   <-->  7010  NH2 ARG  260    B      3.31
+ 10.    828  O   PHE  139    A   <-->  7009  NH1 ARG  260    B      2.95
+ 11.   1105  N   ASP  188    A   <-->  7020  O   SER  262    B      2.80
+ 12.   4165  ND2 ASN  585    A   <-->  9207  O   ARG  553    B      3.16
+ 13.   4440  OD1 ASN  621    A   <-->  9754  ND2 ASN  621    B      2.35
+ 14.   5118  OG1 THR  732    A   <--> 10358  O   LYS  726    B      2.67
+ 15.   5120  N   GLU  733    A   <--> 10358  O   LYS  726    B      3.21
+ 16.   5243  NE  ARG  747    A   <--> 10553  OE1 GLU  749    B      3.17
+ 17.   5246  NH2 ARG  747    A   <--> 10553  OE1 GLU  749    B      2.71
+ 18.   5312  NH2 ARG  755    A   <--> 10554  OE2 GLU  749    B      3.12
+
+Non-bonded contacts
+-------------------
+
+       <----- A T O M   1 ----->       <----- A T O M   2 ----->
+
+       Atom Atom Res  Res              Atom Atom Res  Res
+        no. name name no.  Chain        no. name name no.  Chain  Distance
+  1.      4  O   ARG   15    A   <-->  6384  CD  ARG  170    B      3.71
+  2.     15  O   ASP   16    A   <-->  6378  N   ARG  170    B      3.51
+  3.     15  O   ASP   16    A   <-->  6382  CB  ARG  170    B      3.76
+  4.     15  O   ASP   16    A   <-->  6383  CG  ARG  170    B      3.84
+  5.     19  C   ARG   17    A   <-->  6383  CG  ARG  170    B      3.85
+  6.     19  C   ARG   17    A   <-->  6385  NE  ARG  170    B      3.66
+  7.     20  O   ARG   17    A   <-->  6383  CG  ARG  170    B      3.50
+  8.     20  O   ARG   17    A   <-->  6384  CD  ARG  170    B      3.41
+  9.     20  O   ARG   17    A   <-->  6385  NE  ARG  170    B      2.64
+ 10.     20  O   ARG   17    A   <-->  6386  CZ  ARG  170    B      3.43
+ 11.     20  O   ARG   17    A   <-->  6388  NH2 ARG  170    B      3.54
+ 12.     24  NE  ARG   17    A   <-->  6362  CB  SER  167    B      3.68
+ 13.     24  NE  ARG   17    A   <-->  6363  OG  SER  167    B      2.98
+ 14.     25  CZ  ARG   17    A   <-->  6363  OG  SER  167    B      3.18
+ 15.     26  NH1 ARG   17    A   <-->  6376  CG  PRO  169    B      3.64
+ 16.     27  NH2 ARG   17    A   <-->  6361  O   SER  167    B      3.51
+ 17.     27  NH2 ARG   17    A   <-->  6362  CB  SER  167    B      3.75
+ 18.     27  NH2 ARG   17    A   <-->  6363  OG  SER  167    B      2.58
+ 19.     28  N   ILE   18    A   <-->  6367  O   VAL  168    B      3.37
+ 20.     31  O   ILE   18    A   <-->  6364  N   VAL  168    B      3.90
+ 21.     32  CB  ILE   18    A   <-->  6386  CZ  ARG  170    B      3.82
+ 22.     32  CB  ILE   18    A   <-->  6388  NH2 ARG  170    B      3.67
+ 23.     33  CG1 ILE   18    A   <-->  6388  NH2 ARG  170    B      3.63
+ 24.     34  CG2 ILE   18    A   <-->  6367  O   VAL  168    B      3.59
+ 25.     35  CD1 ILE   18    A   <-->  6388  NH2 ARG  170    B      3.77
+ 26.     46  O   LEU   20    A   <-->  6327  CG1 VAL  162    B      3.64
+ 27.     46  O   LEU   20    A   <-->  6350  O   GLY  165    B      3.88
+ 28.     47  CB  LEU   20    A   <-->  6354  O   VAL  166    B      3.87
+ 29.     49  CD1 LEU   20    A   <-->  6370  CG2 VAL  168    B      3.83
+ 30.     50  CD2 LEU   20    A   <-->  6610  CB  SER  212    B      3.75
+ 31.     54  O   ARG   21    A   <-->  6606  N   SER  212    B      3.67
+ 32.     54  O   ARG   21    A   <-->  6607  CA  SER  212    B      3.29
+ 33.     67  CG1 ILE   22    A   <-->  6327  CG1 VAL  162    B      3.71
+ 34.     74  CB  VAL   23    A   <-->  6615  O   SER  213    B      3.68
+ 35.     75  CG1 VAL   23    A   <-->  6615  O   SER  213    B      3.84
+ 36.     76  CG2 VAL   23    A   <-->  6612  N   SER  213    B      3.71
+ 37.     76  CG2 VAL   23    A   <-->  6614  C   SER  213    B      3.84
+ 38.     76  CG2 VAL   23    A   <-->  6615  O   SER  213    B      3.47
+ 39.     84  NE  ARG   24    A   <--> 10205  OE1 GLN  707    B      3.66
+ 40.     85  CZ  ARG   24    A   <-->  6615  O   SER  213    B      3.56
+ 41.     85  CZ  ARG   24    A   <-->  6621  O   GLU  214    B      3.48
+ 42.     85  CZ  ARG   24    A   <--> 10205  OE1 GLN  707    B      3.43
+ 43.     86  NH1 ARG   24    A   <-->  6596  O   ALA  210    B      3.83
+ 44.     86  NH1 ARG   24    A   <-->  6615  O   SER  213    B      2.70
+ 45.     86  NH1 ARG   24    A   <-->  6621  O   GLU  214    B      3.84
+ 46.     87  NH2 ARG   24    A   <-->  6615  O   SER  213    B      3.57
+ 47.     87  NH2 ARG   24    A   <-->  6620  C   GLU  214    B      3.42
+ 48.     87  NH2 ARG   24    A   <-->  6621  O   GLU  214    B      2.40
+ 49.     87  NH2 ARG   24    A   <-->  6624  CA  ASP  215    B      3.86
+ 50.     87  NH2 ARG   24    A   <-->  6637  CD  PRO  216    B      3.80
+ 51.     87  NH2 ARG   24    A   <--> 10204  CD  GLN  707    B      3.62
+ 52.     87  NH2 ARG   24    A   <--> 10205  OE1 GLN  707    B      2.80
+ 53.     87  NH2 ARG   24    A   <--> 10206  NE2 GLN  707    B      3.75
+ 54.    406  C   PRO   68    A   <--> 10273  NZ  LYS  715    B      3.38
+ 55.    407  O   PRO   68    A   <--> 10272  CE  LYS  715    B      3.85
+ 56.    407  O   PRO   68    A   <--> 10273  NZ  LYS  715    B      2.58
+ 57.    408  CB  PRO   68    A   <-->  6305  NZ  LYS  159    B      3.41
+ 58.    417  CD1 LEU   69    A   <--> 10302  CG1 VAL  718    B      3.67
+ 59.    417  CD1 LEU   69    A   <--> 10329  CD1 ILE  722    B      3.77
+ 60.    418  CD2 LEU   69    A   <-->  6280  OE2 GLU  156    B      3.63
+ 61.    418  CD2 LEU   69    A   <--> 10329  CD1 ILE  722    B      3.59
+ 62.    419  N   GLY   70    A   <--> 10273  NZ  LYS  715    B      3.78
+ 63.    489  OE2 GLU   79    A   <--> 10362  CE  LYS  726    B      3.32
+ 64.    489  OE2 GLU   79    A   <--> 10363  NZ  LYS  726    B      3.05
+ 65.    692  NE  ARG  105    A   <--> 10337  NE  ARG  723    B      3.79
+ 66.    693  CZ  ARG  105    A   <--> 10337  NE  ARG  723    B      3.45
+ 67.    695  NH2 ARG  105    A   <--> 10335  CG  ARG  723    B      3.71
+ 68.    695  NH2 ARG  105    A   <--> 10336  CD  ARG  723    B      3.30
+ 69.    695  NH2 ARG  105    A   <--> 10337  NE  ARG  723    B      3.06
+ 70.    805  CD1 PHE  136    A   <--> 10270  CG  LYS  715    B      3.88
+ 71.    807  CE1 PHE  136    A   <--> 10270  CG  LYS  715    B      3.57
+ 72.    807  CE1 PHE  136    A   <--> 10274  N   ARG  716    B      3.88
+ 73.    807  CE1 PHE  136    A   <--> 10275  CA  ARG  716    B      3.86
+ 74.    807  CE1 PHE  136    A   <--> 10278  CB  ARG  716    B      3.73
+ 75.    809  CZ  PHE  136    A   <--> 10270  CG  LYS  715    B      3.63
+ 76.    809  CZ  PHE  136    A   <--> 10275  CA  ARG  716    B      3.87
+ 77.    813  O   SER  137    A   <-->  7009  NH1 ARG  260    B      3.64
+ 78.    819  O   GLU  138    A   <-->  7010  NH2 ARG  260    B      3.31
+ 79.    824  OE2 GLU  138    A   <--> 10307  O   ALA  719    B      3.76
+ 80.    824  OE2 GLU  138    A   <--> 10308  CB  ALA  719    B      3.88
+ 81.    827  C   PHE  139    A   <-->  7009  NH1 ARG  260    B      3.32
+ 82.    828  O   PHE  139    A   <-->  7009  NH1 ARG  260    B      2.95
+ 83.    836  N   THR  140    A   <-->  7009  NH1 ARG  260    B      3.67
+ 84.    837  CA  THR  140    A   <-->  7009  NH1 ARG  260    B      3.83
+ 85.   1105  N   ASP  188    A   <-->  7020  O   SER  262    B      2.80
+ 86.   1105  N   ASP  188    A   <-->  7022  OG  SER  262    B      3.80
+ 87.   1113  N   SER  189    A   <-->  7022  OG  SER  262    B      3.78
+ 88.   1116  O   SER  189    A   <-->  7317  OE1 GLN  308    B      3.78
+ 89.   1118  OG  SER  189    A   <-->  7022  OG  SER  262    B      3.44
+ 90.   1119  N   LEU  190    A   <-->  7022  OG  SER  262    B      3.68
+ 91.   1125  CD1 LEU  190    A   <-->  6996  O   THR  259    B      3.83
+ 92.   1125  CD1 LEU  190    A   <-->  7017  N   SER  262    B      3.66
+ 93.   1126  CD2 LEU  190    A   <-->  7291  CB  ASN  305    B      3.71
+ 94.   1126  CD2 LEU  190    A   <-->  7292  CG  ASN  305    B      3.70
+ 95.   1126  CD2 LEU  190    A   <-->  7293  OD1 ASN  305    B      3.37
+ 96.   1126  CD2 LEU  190    A   <-->  7317  OE1 GLN  308    B      3.61
+ 97.   1132  CG  ARG  191    A   <-->  7012  CA  SER  261    B      3.88
+ 98.   1133  CD  ARG  191    A   <-->  7015  CB  SER  261    B      3.88
+ 99.   1152  CB  SER  193    A   <-->  7318  NE2 GLN  308    B      3.52
+100.   1153  OG  SER  193    A   <-->  7316  CD  GLN  308    B      3.80
+101.   1153  OG  SER  193    A   <-->  7317  OE1 GLN  308    B      3.55
+102.   1153  OG  SER  193    A   <-->  7318  NE2 GLN  308    B      3.21
+103.   1164  NH2 ARG  194    A   <-->  7293  OD1 ASN  305    B      3.70
+104.   1164  NH2 ARG  194    A   <-->  7294  ND2 ASN  305    B      3.77
+105.   1461  O   VAL  233    A   <-->  7435  O   ARG  322    B      3.63
+106.   1487  CG  GLU  236    A   <-->  7283  O   PRO  304    B      3.90
+107.   1487  CG  GLU  236    A   <-->  7305  CB  GLN  307    B      3.67
+108.   1490  OE2 GLU  236    A   <-->  7303  C   GLN  307    B      3.65
+109.   1490  OE2 GLU  236    A   <-->  7304  O   GLN  307    B      3.10
+110.   1490  OE2 GLU  236    A   <-->  7305  CB  GLN  307    B      3.87
+111.   1490  OE2 GLU  236    A   <-->  7339  CB  ALA  311    B      3.50
+112.   1498  CD2 PHE  237    A   <-->  7318  NE2 GLN  308    B      3.81
+113.   1500  CE2 PHE  237    A   <-->  7318  NE2 GLN  308    B      3.42
+114.   1501  CZ  PHE  237    A   <-->  7293  OD1 ASN  305    B      3.41
+115.   3624  O   LYS  518    A   <-->  8820  CD2 LEU  502    B      3.52
+116.   3638  CE1 PHE  519    A   <-->  8869  CD1 LEU  509    B      3.86
+117.   3656  CD2 PHE  521    A   <-->  8774  CE1 PHE  496    B      3.74
+118.   3656  CD2 PHE  521    A   <-->  8776  CZ  PHE  496    B      3.51
+119.   3656  CD2 PHE  521    A   <-->  8819  CD1 LEU  502    B      3.75
+120.   3658  CE2 PHE  521    A   <-->  8774  CE1 PHE  496    B      3.66
+121.   3658  CE2 PHE  521    A   <-->  8776  CZ  PHE  496    B      3.80
+122.   3665  CG1 ILE  522    A   <-->  8775  CE2 PHE  496    B      3.49
+123.   3667  CD1 ILE  522    A   <-->  8838  CD1 LEU  505    B      3.80
+124.   3692  CD1 LEU  525    A   <-->  8740  CB  LEU  492    B      3.82
+125.   3692  CD1 LEU  525    A   <-->  8776  CZ  PHE  496    B      3.60
+126.   3693  CD2 LEU  525    A   <-->  8742  CD1 LEU  492    B      3.89
+127.   3718  CA  ALA  529    A   <-->  8716  OG  SER  489    B      3.16
+128.   3720  O   ALA  529    A   <-->  8691  CG1 ILE  486    B      3.78
+129.   3720  O   ALA  529    A   <-->  8716  OG  SER  489    B      3.85
+130.   3721  CB  ALA  529    A   <-->  8716  OG  SER  489    B      3.41
+131.   3728  CD1 PHE  530    A   <-->  8693  CD1 ILE  486    B      3.54
+132.   3730  CE1 PHE  530    A   <-->  8692  CG2 ILE  486    B      3.87
+133.   3730  CE1 PHE  530    A   <-->  8693  CD1 ILE  486    B      3.74
+134.   3743  CG  ASN  532    A   <-->  7904  CD2 LEU  381    B      3.85
+135.   3744  OD1 ASN  532    A   <-->  7904  CD2 LEU  381    B      3.15
+136.   3745  ND2 ASN  532    A   <-->  7904  CD2 LEU  381    B      3.75
+137.   3747  CA  GLY  533    A   <-->  8663  O   ALA  482    B      3.83
+138.   3749  O   GLY  533    A   <-->  8664  CB  ALA  482    B      3.43
+139.   3763  CG  ASN  535    A   <-->  7923  OG  SER  384    B      3.88
+140.   3764  OD1 ASN  535    A   <-->  7923  OG  SER  384    B      3.42
+141.   3771  CG  GLN  536    A   <-->  8656  CD2 PHE  481    B      3.67
+142.   3771  CG  GLN  536    A   <-->  8658  CE2 PHE  481    B      3.77
+143.   3771  CG  GLN  536    A   <-->  8685  ND2 ASN  485    B      3.36
+144.   3772  CD  GLN  536    A   <-->  8658  CE2 PHE  481    B      3.62
+145.   3774  NE2 GLN  536    A   <-->  7892  O   LEU  380    B      3.84
+146.   3774  NE2 GLN  536    A   <-->  7917  CB  ALA  383    B      3.53
+147.   3774  NE2 GLN  536    A   <-->  7918  N   SER  384    B      3.90
+148.   3774  NE2 GLN  536    A   <-->  7922  CB  SER  384    B      3.88
+149.   3774  NE2 GLN  536    A   <-->  8658  CE2 PHE  481    B      3.82
+150.   3779  CB  LEU  537    A   <-->  8664  CB  ALA  482    B      3.81
+151.   3781  CD1 LEU  537    A   <-->  8637  CA  ALA  479    B      3.88
+152.   3781  CD1 LEU  537    A   <-->  8664  CB  ALA  482    B      3.80
+153.   3800  CG  PHE  539    A   <-->  7921  O   SER  384    B      3.71
+154.   3801  CD1 PHE  539    A   <-->  7922  CB  SER  384    B      3.88
+155.   3802  CD2 PHE  539    A   <-->  7921  O   SER  384    B      3.50
+156.   3802  CD2 PHE  539    A   <-->  7955  CB  ASP  388    B      3.43
+157.   3803  CE1 PHE  539    A   <-->  7919  CA  SER  384    B      3.85
+158.   3804  CE2 PHE  539    A   <-->  7921  O   SER  384    B      3.84
+159.   3804  CE2 PHE  539    A   <-->  7955  CB  ASP  388    B      3.60
+160.   3813  CD2 TYR  540    A   <-->  8633  CD  GLU  478    B      3.87
+161.   3813  CD2 TYR  540    A   <-->  8635  OE2 GLU  478    B      3.67
+162.   3815  CE2 TYR  540    A   <-->  8635  OE2 GLU  478    B      3.57
+163.   3987  CD2 LEU  564    A   <-->  7904  CD2 LEU  381    B      3.67
+164.   4111  O   ILE  579    A   <-->  9420  CD2 LEU  578    B      3.56
+165.   4128  CB  LEU  581    A   <-->  9205  CA  ARG  553    B      3.89
+166.   4130  CD1 LEU  581    A   <-->  9375  CG  TRP  573    B      3.79
+167.   4131  CD2 LEU  581    A   <-->  9377  CD2 TRP  573    B      3.82
+168.   4131  CD2 LEU  581    A   <-->  9379  CE2 TRP  573    B      3.73
+169.   4131  CD2 LEU  581    A   <-->  9381  CZ2 TRP  573    B      3.86
+170.   4136  CB  TYR  582    A   <-->  9217  C   CYS  554    B      3.68
+171.   4136  CB  TYR  582    A   <-->  9218  O   CYS  554    B      3.89
+172.   4136  CB  TYR  582    A   <-->  9221  N   GLU  555    B      3.83
+173.   4137  CG  TYR  582    A   <-->  9226  CG  GLU  555    B      3.83
+174.   4139  CD2 TYR  582    A   <-->  9218  O   CYS  554    B      3.83
+175.   4163  CG  ASN  585    A   <-->  9207  O   ARG  553    B      3.62
+176.   4164  OD1 ASN  585    A   <-->  9206  C   ARG  553    B      3.75
+177.   4164  OD1 ASN  585    A   <-->  9207  O   ARG  553    B      3.26
+178.   4165  ND2 ASN  585    A   <-->  9207  O   ARG  553    B      3.16
+179.   4182  CB  ALA  588    A   <-->  8531  OE1 GLU  466    B      3.28
+180.   4183  N   GLN  589    A   <-->  8531  OE1 GLU  466    B      3.87
+181.   4198  ND1 HIS  590    A   <-->  8613  CD1 LEU  475    B      3.27
+182.   4200  CE1 HIS  590    A   <-->  8527  O   GLU  466    B      3.01
+183.   4200  CE1 HIS  590    A   <-->  8613  CD1 LEU  475    B      3.80
+184.   4201  NE2 HIS  590    A   <-->  8527  O   GLU  466    B      3.19
+185.   4202  N   GLU  591    A   <-->  8566  CG  MET  470    B      3.63
+186.   4202  N   GLU  591    A   <-->  8567  SD  MET  470    B      3.79
+187.   4206  CB  GLU  591    A   <-->  8567  SD  MET  470    B      3.54
+188.   4207  CG  GLU  591    A   <-->  8567  SD  MET  470    B      3.82
+189.   4209  OE1 GLU  591    A   <-->  8567  SD  MET  470    B      3.78
+190.   4215  CB  PHE  592    A   <-->  8564  O   MET  470    B      3.59
+191.   4217  CD1 PHE  592    A   <-->  8581  CZ3 TRP  471    B      3.75
+192.   4217  CD1 PHE  592    A   <-->  8582  CH2 TRP  471    B      3.74
+193.   4219  CE1 PHE  592    A   <-->  8581  CZ3 TRP  471    B      3.72
+194.   4220  CE2 PHE  592    A   <-->  8616  CA  VAL  476    B      3.88
+195.   4220  CE2 PHE  592    A   <-->  8640  CB  ALA  479    B      3.55
+196.   4246  CE1 PHE  595    A   <-->  9311  CZ  PHE  565    B      3.82
+197.   4246  CE1 PHE  595    A   <-->  9344  NE2 GLN  569    B      3.84
+198.   4254  CG1 VAL  596    A   <-->  8640  CB  ALA  479    B      3.83
+199.   4254  CG1 VAL  596    A   <-->  8672  CD1 ILE  483    B      3.70
+200.   4263  O   ALA  598    A   <-->  9381  CZ2 TRP  573    B      3.64
+201.   4264  CB  ALA  598    A   <-->  9213  NH1 ARG  553    B      3.45
+202.   4277  CG  MET  600    A   <-->  8693  CD1 ILE  486    B      3.67
+203.   4279  CE  MET  600    A   <-->  8693  CD1 ILE  486    B      3.76
+204.   4287  CD2 PHE  601    A   <-->  9383  CH2 TRP  573    B      3.68
+205.   4291  N   GLY  602    A   <-->  9383  CH2 TRP  573    B      3.81
+206.   4292  CA  GLY  602    A   <-->  9383  CH2 TRP  573    B      3.62
+207.   4317  O   ASN  605    A   <-->  9408  CZ  PHE  576    B      3.82
+208.   4318  CB  ASN  605    A   <-->  9408  CZ  PHE  576    B      3.86
+209.   4321  ND2 ASN  605    A   <-->  9382  CZ3 TRP  573    B      3.32
+210.   4321  ND2 ASN  605    A   <-->  9383  CH2 TRP  573    B      3.78
+211.   4328  CG2 VAL  606    A   <-->  9367  CE1 PHE  572    B      3.61
+212.   4328  CG2 VAL  606    A   <-->  9369  CZ  PHE  572    B      3.60
+213.   4347  CB  LEU  609    A   <-->  9406  CE1 PHE  576    B      3.87
+214.   4349  CD1 LEU  609    A   <-->  9404  CD1 PHE  576    B      3.73
+215.   4349  CD1 LEU  609    A   <-->  9406  CE1 PHE  576    B      3.82
+216.   4385  CB  ASN  614    A   <-->  9746  CE  MET  620    B      3.55
+217.   4386  CG  ASN  614    A   <-->  9723  CG1 ILE  617    B      3.86
+218.   4387  OD1 ASN  614    A   <-->  9723  CG1 ILE  617    B      3.73
+219.   4387  OD1 ASN  614    A   <-->  9725  CD1 ILE  617    B      3.89
+220.   4394  CG  MET  615    A   <-->  8893  CE  MET  512    B      3.69
+221.   4394  CG  MET  615    A   <-->  9745  SD  MET  620    B      3.77
+222.   4395  SD  MET  615    A   <-->  8867  CB  LEU  509    B      3.68
+223.   4395  SD  MET  615    A   <-->  8870  CD2 LEU  509    B      3.70
+224.   4396  CE  MET  615    A   <-->  8866  O   LEU  509    B      3.32
+225.   4396  CE  MET  615    A   <-->  8901  CD2 LEU  513    B      3.85
+226.   4396  CE  MET  615    A   <-->  8925  CD1 ILE  516    B      3.73
+227.   4414  CA  ALA  618    A   <-->  9754  ND2 ASN  621    B      3.39
+228.   4416  O   ALA  618    A   <-->  9776  CD2 TYR  624    B      3.77
+229.   4417  CB  ALA  618    A   <-->  9741  C   MET  620    B      3.83
+230.   4417  CB  ALA  618    A   <-->  9742  O   MET  620    B      3.41
+231.   4417  CB  ALA  618    A   <-->  9754  ND2 ASN  621    B      3.82
+232.   4424  SD  MET  619    A   <-->  8839  CD2 LEU  505    B      3.75
+233.   4425  CE  MET  619    A   <-->  8838  CD1 LEU  505    B      3.62
+234.   4425  CE  MET  619    A   <-->  8839  CD2 LEU  505    B      3.70
+235.   4425  CE  MET  619    A   <-->  8870  CD2 LEU  509    B      3.77
+236.   4438  CB  ASN  621    A   <-->  9754  ND2 ASN  621    B      3.26
+237.   4439  CG  ASN  621    A   <-->  9754  ND2 ASN  621    B      2.99
+238.   4440  OD1 ASN  621    A   <-->  9752  CG  ASN  621    B      3.27
+239.   4440  OD1 ASN  621    A   <-->  9753  OD1 ASN  621    B      3.52
+240.   4440  OD1 ASN  621    A   <-->  9754  ND2 ASN  621    B      2.35
+241.   4446  CB  ASN  622    A   <-->  9776  CD2 TYR  624    B      3.49
+242.   4446  CB  ASN  622    A   <-->  9778  CE2 TYR  624    B      3.54
+243.   4448  OD1 ASN  622    A   <-->  9772  O   TYR  624    B      3.49
+244.   4448  OD1 ASN  622    A   <-->  9776  CD2 TYR  624    B      3.55
+245.   4448  OD1 ASN  622    A   <-->  9778  CE2 TYR  624    B      3.62
+246.   4448  OD1 ASN  622    A   <-->  9810  CB  ALA  628    B      3.26
+247.   4474  CD  GLN  625    A   <-->  9789  NE2 GLN  625    B      3.31
+248.   4475  OE1 GLN  625    A   <-->  9787  CD  GLN  625    B      3.73
+249.   4475  OE1 GLN  625    A   <-->  9789  NE2 GLN  625    B      2.76
+250.   4476  NE2 GLN  625    A   <-->  9789  NE2 GLN  625    B      3.32
+251.   5102  CA  GLY  730    A   <--> 10383  O   GLU  729    B      3.40
+252.   5108  O   LEU  731    A   <--> 10381  CA  GLU  729    B      3.89
+253.   5108  O   LEU  731    A   <--> 10382  C   GLU  729    B      3.64
+254.   5108  O   LEU  731    A   <--> 10389  N   GLY  730    B      3.36
+255.   5108  O   LEU  731    A   <--> 10390  CA  GLY  730    B      3.89
+256.   5108  O   LEU  731    A   <--> 10391  C   GLY  730    B      3.67
+257.   5108  O   LEU  731    A   <--> 10393  N   LEU  731    B      3.75
+258.   5108  O   LEU  731    A   <--> 10398  CG  LEU  731    B      3.30
+259.   5108  O   LEU  731    A   <--> 10400  CD2 LEU  731    B      3.64
+260.   5109  CB  LEU  731    A   <--> 10398  CG  LEU  731    B      3.78
+261.   5109  CB  LEU  731    A   <--> 10399  CD1 LEU  731    B      3.53
+262.   5111  CD1 LEU  731    A   <--> 10399  CD1 LEU  731    B      3.65
+263.   5114  CA  THR  732    A   <--> 10358  O   LYS  726    B      3.75
+264.   5116  O   THR  732    A   <--> 10400  CD2 LEU  731    B      3.59
+265.   5117  CB  THR  732    A   <--> 10358  O   LYS  726    B      3.57
+266.   5118  OG1 THR  732    A   <--> 10356  CA  LYS  726    B      3.84
+267.   5118  OG1 THR  732    A   <--> 10357  C   LYS  726    B      3.01
+268.   5118  OG1 THR  732    A   <--> 10358  O   LYS  726    B      2.67
+269.   5118  OG1 THR  732    A   <--> 10359  CB  LYS  726    B      3.84
+270.   5118  OG1 THR  732    A   <--> 10364  N   THR  727    B      3.43
+271.   5118  OG1 THR  732    A   <--> 10365  CA  THR  727    B      3.47
+272.   5120  N   GLU  733    A   <--> 10358  O   LYS  726    B      3.21
+273.   5121  CA  GLU  733    A   <--> 10400  CD2 LEU  731    B      3.66
+274.   5127  OE1 GLU  733    A   <--> 10353  O   ALA  725    B      3.62
+275.   5133  CB  GLU  734    A   <--> 10360  CG  LYS  726    B      3.77
+276.   5152  CG2 VAL  736    A   <--> 10399  CD1 LEU  731    B      3.61
+277.   5152  CG2 VAL  736    A   <--> 10400  CD2 LEU  731    B      3.76
+278.   5173  C   LEU  739    A   <--> 10466  CD2 LEU  739    B      3.83
+279.   5175  CB  LEU  739    A   <--> 10466  CD2 LEU  739    B      3.88
+280.   5177  CD1 LEU  739    A   <--> 10465  CD1 LEU  739    B      3.77
+281.   5179  N   LYS  740    A   <--> 10466  CD2 LEU  739    B      3.49
+282.   5180  CA  LYS  740    A   <--> 10466  CD2 LEU  739    B      3.60
+283.   5183  CB  LYS  740    A   <--> 10466  CD2 LEU  739    B      3.87
+284.   5184  CG  LYS  740    A   <--> 10492  OD2 ASP  742    B      3.40
+285.   5186  CE  LYS  740    A   <--> 10492  OD2 ASP  742    B      3.63
+286.   5211  CG2 ILE  743    A   <--> 10487  C   ASP  742    B      3.80
+287.   5211  CG2 ILE  743    A   <--> 10488  O   ASP  742    B      3.25
+288.   5212  CD1 ILE  743    A   <--> 10466  CD2 LEU  739    B      3.76
+289.   5212  CD1 ILE  743    A   <--> 10498  CG1 ILE  743    B      3.58
+290.   5232  CD2 PHE  746    A   <--> 10522  CE2 PHE  746    B      3.81
+291.   5232  CD2 PHE  746    A   <--> 10523  CZ  PHE  746    B      3.77
+292.   5234  CE2 PHE  746    A   <--> 10522  CE2 PHE  746    B      3.37
+293.   5234  CE2 PHE  746    A   <--> 10523  CZ  PHE  746    B      3.40
+294.   5237  CA  ARG  747    A   <--> 10521  CE1 PHE  746    B      3.58
+295.   5240  CB  ARG  747    A   <--> 10519  CD1 PHE  746    B      3.73
+296.   5240  CB  ARG  747    A   <--> 10521  CE1 PHE  746    B      3.86
+297.   5241  CG  ARG  747    A   <--> 10519  CD1 PHE  746    B      3.55
+298.   5243  NE  ARG  747    A   <--> 10553  OE1 GLU  749    B      3.17
+299.   5244  CZ  ARG  747    A   <--> 10553  OE1 GLU  749    B      3.26
+300.   5246  NH2 ARG  747    A   <--> 10552  CD  GLU  749    B      3.51
+301.   5246  NH2 ARG  747    A   <--> 10553  OE1 GLU  749    B      2.71
+302.   5246  NH2 ARG  747    A   <--> 10554  OE2 GLU  749    B      3.55
+303.   5280  CD1 LEU  751    A   <--> 10552  CD  GLU  749    B      3.61
+304.   5280  CD1 LEU  751    A   <--> 10553  OE1 GLU  749    B      3.67
+305.   5280  CD1 LEU  751    A   <--> 10554  OE2 GLU  749    B      3.26
+306.   5281  CD2 LEU  751    A   <--> 10551  CG  GLU  749    B      3.82
+307.   5281  CD2 LEU  751    A   <--> 10552  CD  GLU  749    B      3.57
+308.   5281  CD2 LEU  751    A   <--> 10554  OE2 GLU  749    B      3.48
+309.   5298  CB  LEU  754    A   <--> 10580  CD1 LEU  753    B      3.70
+310.   5300  CD1 LEU  754    A   <--> 10578  CB  LEU  753    B      3.89
+311.   5300  CD1 LEU  754    A   <--> 10580  CD1 LEU  753    B      3.74
+312.   5312  NH2 ARG  755    A   <--> 10554  OE2 GLU  749    B      3.12
+
+Salt bridges
+------------
+
+       <----- A T O M   1 ----->       <----- A T O M   2 ----->
+
+       Atom Atom Res  Res              Atom Atom Res  Res
+        no. name name no.  Chain        no. name name no.  Chain  Distance
+  1.    489  OE2 GLU   79    A   <--> 10363  NZ  LYS  726    B      3.05
+  2.   5246  NH2 ARG  747    A   <--> 10553  OE1 GLU  749    B      2.71
+  3.   5312  NH2 ARG  755    A   <--> 10554  OE2 GLU  749    B      3.12
+
+Number of salt bridges:            3
+
+Number of hydrogen bonds:         18
+
+Number of non-bonded contacts:   312
+

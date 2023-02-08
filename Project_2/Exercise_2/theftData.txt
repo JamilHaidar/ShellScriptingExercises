@@ -1,0 +1,3001 @@
+LastName	FirstName	ID	Residence	DateofBirth
+El Haddad	Louis	20172411	Amchit	15/7/1961
+Abi Chahine	Peter	20161726	Tripoli	23/4/1971
+Assaf	Serena	20164062	Zouk Mosbeh	21/7/1983
+Chayban	Joseph	20178629	Anfeh	9/1/1998
+Yaacoub	Yara	20154057	Adma	2/1/2000
+Haroun	Yasmine	20152751	Zouk Mosbeh	6/12/1961
+Hachem	Nour	20127040	Awkar	2/9/1950
+Rizk	Rimane	20119694	Tripoli	3/8/1968
+Abi Chahine	Joseph	20112254	Batroun	25/3/1946
+Frem	Jean	20174383	Dorms	17/12/1985
+El-Alam	Yasmina	20132084	Sahel Alma	31/5/1995
+Anastasiou Bountoktzi	Louis	20181341	Chekka	17/4/1953
+Sfeir	Mohamad	20156732	Amchit	31/7/1945
+Ishak	Lamia	20188965	Zouk Mosbeh	13/8/1975
+Rizk	Joe	20183058	Sahel Alma	3/3/1989
+Faour	Nour	20167658	Batroun	7/11/1979
+Alkhuder	Elisa	20189850	Amchit	17/9/1983
+El Teress	Maria	20177286	Naccache	1/1/1957
+Frem	Serena	20189412	Zouk Mikael	4/12/1977
+Medawar	Jean	20182864	Batroun	24/7/1999
+Chayban	Francesca	20132859	Zouk Mosbeh	2/3/1949
+Al Hallak	Tony	20123750	Byblos	29/8/1965
+Rizk	Francesca	20169378	Zouk Mosbeh	6/9/1975
+Al Hallak	Sarah	20163013	Zouk Mosbeh	9/2/1947
+Al Hallak	Louis	20129834	Byblos	14/6/1972
+Charbel	Francesca	20146452	Blat	3/3/1965
+Anastasiou Bountoktzi	John	20188188	Dorms	1/12/1954
+Youssef	Francesca	20159660	Nahr Ibrahim	5/5/1947
+Assaf	Ramza	20180996	Chekka	17/12/1946
+Al Rassi	John	20146821	Batroun	29/4/1977
+Frem	Marianne	20128442	Dbayeh	4/12/1974
+Bou-Khalil	Youmna	20132202	Zouk Mikael	6/8/1966
+Haroun	Nour	20173918	Naccache	28/8/1947
+Youssef	Ahed	20124178	Tripoli	21/9/1990
+Frem	Francesca	20147749	Batroun	7/3/1990
+Al Soueity	Yara	20167302	Zouk Mosbeh	23/5/1967
+Abi Akl	Ramza	20117402	Anfeh	22/8/1963
+Al Hallak	John	20151901	Sahel Alma	19/3/1976
+Assaf	Mohamad	20125865	Zouk Mikael	13/1/1946
+Frem	Serena	20186525	Jounieh	14/11/1947
+Al Hallak	Layla	20125307	Selaata	6/10/2000
+Sfeir	Serena	20171421	Amchit	9/12/1956
+Abou Younes	Jad	20181706	Chekka	18/7/1951
+Zarifeh	Farah	20141669	Blat	20/10/1969
+Kmeid	Louis	20162819	Adma	1/11/1959
+Abi Akl	Dennis	20148917	Tripoli	13/7/1970
+Issa	Gaelle	20142737	Jounieh	6/2/1948
+Elam	Marianne	20168407	Dorms	8/12/1963
+Ishak	Farah	20186067	Awkar	10/10/1975
+Abi Akl	Romy	20168711	Byblos	28/7/1986
+El Mouzawak	John	20131510	Blat	8/3/1997
+Alkhuder	Nour	20165423	Dorms	22/6/1989
+Anastasiou Bountoktzi	Farah	20113613	Sahel Alma	6/5/1952
+Charbel	Marilyne	20162734	Jounieh	1/11/1976
+Charbel	Joe	20120305	Jounieh	8/3/1962
+Samarani	Louis	20158830	Nahr Ibrahim	11/10/1984
+Abi Chahine	Joseph	20162966	Byblos	27/12/1972
+Zarifeh	John	20185153	Amchit	24/4/1959
+Daher	Ryan	20119481	Tripoli	25/1/1974
+Slaiby	Yasmina	20146558	Selaata	15/7/1964
+Rizk	Yara	20154824	Blat	1/12/1962
+El Haddad	Louis	20113527	Blat	5/5/1979
+Haroun	Yasmine	20165628	Selaata	21/9/1948
+Ghamrawi	Maria	20179036	Anfeh	15/1/1964
+El Mouzawak	Lea	20146129	Awkar	21/1/1974
+Kmeid	Sarah	20166975	Zouk Mosbeh	9/6/1953
+Hachem	Leah	20137443	Naccache	14/2/1985
+Elam	Lea	20125560	Selaata	1/10/1973
+Faour	Gaelle	20175104	Anfeh	31/10/1987
+Samarani	Romy	20128732	Tripoli	19/11/1965
+Yaacoub	Elisa	20159431	Blat	17/5/1946
+Zeina	Marilyne	20138871	Batroun	28/4/1948
+Al Hallak	Rimane	20153546	Adma	11/2/1993
+Daher	Peter	20148406	Batroun	24/8/1949
+Abi Chahine	Layla	20149226	Awkar	17/11/1980
+Frem	Tonia	20178110	Tripoli	20/8/1963
+Zarifeh	Serena	20183914	Zouk Mikael	7/11/1972
+Al Hallak	Marianne	20149983	Byblos	10/10/1989
+Yaacoub	Peter	20180048	Sahel Alma	26/8/1992
+Yaacoub	Lea	20184812	Jounieh	16/7/1992
+Faour	Jad	20171791	Chekka	14/2/1964
+Charbel	Alexandro	20178660	Batroun	14/10/1987
+El Teress	Gaelle	20146231	Tripoli	23/4/1970
+Rizk	Alexandro	20117191	Zouk Mosbeh	6/5/1975
+Charbel	Sarah	20182178	Anfeh	16/11/1975
+Bou-Khalil	Tony	20122162	Dbayeh	4/2/1999
+Frem	John	20139277	Dbayeh	2/9/1955
+Slaiby	Dennis	20165980	Byblos	27/4/1956
+Samarani	Ramza	20167980	Sahel Alma	26/2/1983
+Samarani	Alexandro	20126603	Zouk Mosbeh	12/4/1992
+Chayban	Farah	20148021	Blat	15/12/1990
+Ghamrawi	Mohamad	20161293	Adma	24/6/1996
+Charbel	Youmna	20128190	Amchit	27/5/1981
+Al Rassi	Serena	20184962	Anfeh	4/3/1954
+Bou-Khalil	Maria	20180738	Batroun	16/4/1970
+Elam	Christopher	20137352	Amchit	25/3/1968
+El Teress	Romy	20122568	Zouk Mosbeh	11/10/1983
+Al Soueity	Jad	20163688	Byblos	2/8/1985
+Ishak	Gaelle	20162371	Dbayeh	15/2/1949
+Abi Chahine	Ryan	20160878	Awkar	30/10/1990
+Zeina	Serena	20142654	Dbayeh	15/8/1945
+Assaf	Ahed	20164284	Dbayeh	11/6/1963
+Al Hallak	Yasmine	20176484	Byblos	15/7/1945
+Elam	Dennis	20171484	Adma	8/7/1946
+Hachem	Ramza	20129263	Dbayeh	31/7/1979
+Al Soueity	Jean	20186340	Jounieh	10/8/1999
+Issa	Yasmine	20139702	Amchit	20/8/1959
+El Teress	Jean	20172604	Byblos	17/11/1999
+Al Hallak	Sarah	20121761	Zouk Mikael	23/3/1962
+Haroun	Yasmine	20159313	Selaata	17/9/1973
+Charbel	Rouba	20169575	Chekka	14/12/1952
+Haroun	John	20154008	Tripoli	17/9/1963
+Samarani	Marianne	20111707	Naccache	27/2/1956
+El Haddad	Leah	20167317	Tripoli	28/4/1959
+Faour	Ramza	20154829	Naccache	1/2/1949
+El Haddad	Rouba	20188495	Dorms	31/11/1992
+Matta	Elisa	20131930	Zouk Mosbeh	17/12/1967
+Al Rassi	Maria	20149291	Dbayeh	18/10/1981
+Youssef	Yasmina	20173472	Nahr Ibrahim	22/4/1978
+Sfeir	Sarah	20188680	Tripoli	8/7/1995
+Slaiby	Romy	20132817	Zouk Mosbeh	3/6/1983
+Bou-Khalil	Lea	20136089	Dorms	29/3/1954
+Al Soueity	Ghady	20139127	Batroun	9/5/1998
+Samarani	Nour	20117208	Batroun	8/4/1972
+Daher	Tonia	20145430	Awkar	25/8/1949
+Abou Younes	Louis	20181963	Blat	18/12/1986
+Abou Younes	John	20149895	Selaata	12/1/1953
+Charbel	Christopher	20180348	Naccache	15/2/1956
+Abi Younes	Louis	20134318	Selaata	20/9/1997
+Ghamrawi	Yasmina	20151887	Zouk Mosbeh	23/1/1965
+Alkhuder	Yara	20156389	Byblos	22/9/1957
+Doumiati	Mohamad	20177443	Amchit	15/11/1992
+Yaacoub	Jad	20175486	Zouk Mikael	28/7/1982
+Al Hallak	Yara	20127498	Batroun	22/8/1948
+Assaf	Peter	20160635	Amchit	19/7/1995
+El Teress	Rimane	20122745	Dbayeh	13/4/1960
+El Teress	Yara	20125177	Dorms	8/12/1979
+Al Hallak	Lea	20161078	Amchit	21/8/1998
+Sfeir	Frederick	20154303	Anfeh	10/10/1991
+El-Alam	Leah	20117876	Dorms	1/5/1974
+Al Hallak	Francesca	20125292	Dorms	30/9/1953
+Al Soueity	Dennis	20160300	Zouk Mikael	3/6/1969
+Kmeid	Marilyne	20178457	Amchit	10/3/1953
+Zarifeh	Tonia	20168888	Anfeh	12/7/1982
+Rizk	Nour	20132588	Zouk Mikael	22/12/1985
+Al Hallak	Layla	20133214	Jounieh	20/5/1973
+Daher	Alexandro	20163364	Nahr Ibrahim	29/1/1962
+El Haddad	Maria	20159921	Dorms	22/3/1994
+Abi Akl	Ramza	20129228	Sahel Alma	21/2/1981
+Kmeid	Ryan	20123509	Awkar	8/6/1982
+Ghamrawi	Ahed	20186759	Jounieh	15/3/1967
+Chayban	Lea	20176754	Batroun	6/1/1981
+Sfeir	John	20185013	Awkar	11/1/1955
+Hachem	Layla	20176256	Chekka	22/12/1976
+Chayban	Yara	20180134	Sahel Alma	6/3/1947
+Zarifeh	Lamia	20189323	Blat	23/1/1965
+Chayban	Ghady	20152660	Sahel Alma	17/6/1986
+Charbel	Francesca	20157552	Anfeh	29/2/1981
+Matta	Serena	20129649	Dorms	28/12/1956
+Ishak	Dennis	20123744	Batroun	31/10/1976
+El-Alam	Marilyne	20120191	Adma	29/7/1978
+Kmeid	Dennis	20164222	Awkar	19/3/1969
+El Mouzawak	Yasmine	20138376	Awkar	16/8/1964
+Daher	Joseph	20129980	Sahel Alma	4/9/1972
+Samarani	Ghady	20153249	Anfeh	7/11/1980
+El Haddad	Gaelle	20188202	Amchit	20/9/1977
+Frem	Jean	20143709	Sahel Alma	10/6/1966
+El Teress	Ghady	20131208	Dbayeh	17/6/1952
+Abou Younes	Francesca	20123928	Nahr Ibrahim	27/12/1979
+El-Alam	Jean	20116054	Naccache	12/11/1949
+Al Soueity	Yasmine	20146515	Naccache	25/7/1946
+Abi Younes	Maria	20112284	Tripoli	5/11/1996
+El-Alam	Marilyne	20115153	Selaata	20/3/1979
+Al Hallak	Frederick	20149209	Nahr Ibrahim	26/9/1956
+Abi Chahine	Maria	20131968	Awkar	6/4/1996
+Sfeir	Lamia	20143647	Zouk Mikael	15/2/1998
+Frem	Alexandro	20152005	Adma	1/4/2000
+Medawar	Rimane	20182761	Zouk Mosbeh	26/3/1982
+Issa	Serena	20185067	Tripoli	17/6/1970
+Daher	Maria	20120996	Awkar	9/6/1983
+Doumiati	Rimane	20155290	Chekka	23/9/1975
+Abou Younes	Nour	20186884	Adma	11/7/1951
+Haroun	Marianne	20133291	Tripoli	24/12/1948
+Al Hallak	Rouba	20155735	Tripoli	6/1/1963
+Youssef	Tonia	20131133	Blat	16/9/1970
+Frem	Christopher	20188270	Selaata	12/1/1996
+Al Soueity	Alexandro	20118185	Chekka	2/12/1959
+El Teress	Ramza	20119245	Blat	25/3/1955
+Samarani	Mohamad	20124924	Tripoli	27/3/1982
+Issa	Christopher	20181374	Blat	5/4/1981
+Samarani	Joseph	20187725	Tripoli	17/10/1979
+Daher	Farah	20165820	Sahel Alma	3/9/1996
+Ghamrawi	Ryan	20142789	Anfeh	27/8/1947
+Slaiby	John	20113989	Adma	25/5/1951
+Chayban	Rouba	20159527	Sahel Alma	1/5/1983
+Abi Younes	Mohamad	20175663	Naccache	12/12/1989
+Al Soueity	Tonia	20185669	Batroun	8/3/1974
+Elam	Sarah	20116980	Zouk Mosbeh	6/10/1951
+Assaf	Layla	20155960	Chekka	15/1/1994
+Assaf	Joseph	20161664	Amchit	23/9/1952
+El Haddad	Serena	20171214	Byblos	30/11/1961
+Rizk	Joseph	20142607	Dbayeh	16/11/1988
+Youssef	Francesca	20115416	Zouk Mikael	16/7/1995
+Zeina	Ryan	20183140	Chekka	21/10/1974
+Al Rassi	Romy	20121357	Adma	2/7/1959
+Charbel	Alexandro	20157398	Byblos	16/6/1963
+El-Alam	Alexandro	20115604	Jounieh	11/11/1967
+Kmeid	Alexandro	20163833	Zouk Mosbeh	25/11/1975
+Matta	Romy	20135811	Anfeh	19/12/1998
+Samarani	Yara	20167579	Adma	14/12/1952
+Al Hallak	Lea	20187273	Batroun	6/4/1972
+Abou Younes	Serena	20110786	Zouk Mikael	17/9/1968
+Faour	Yasmine	20170659	Awkar	29/11/1996
+Youssef	Serena	20152157	Adma	26/5/1945
+Alkhuder	Joe	20118007	Sahel Alma	15/7/1953
+Alkhuder	Marilyne	20159297	Adma	27/12/1954
+Abou Younes	Ramza	20115018	Nahr Ibrahim	24/8/1968
+Alkadri	Dennis	20187446	Awkar	5/8/1980
+El Haddad	Youmna	20145232	Amchit	9/10/2000
+Faour	Serena	20171461	Zouk Mikael	4/1/1985
+Faour	Dennis	20175300	Nahr Ibrahim	9/10/1947
+Abi Akl	John	20135242	Dbayeh	31/10/1977
+Slaiby	Mohamad	20152436	Amchit	25/4/1998
+Ishak	Youmna	20118437	Naccache	14/3/1984
+Alkhuder	Lamia	20162751	Jounieh	6/4/1946
+Assaf	Ghady	20153782	Awkar	14/9/1946
+Faour	Ryan	20137034	Zouk Mosbeh	7/6/1999
+Youssef	Youmna	20118317	Awkar	22/10/1951
+Al Hallak	Romy	20160051	Sahel Alma	31/2/1961
+Kmeid	Louis	20111488	Dorms	2/4/1987
+Bou-Khalil	Rouba	20156786	Selaata	13/1/1992
+El-Alam	Gaelle	20175244	Batroun	8/5/1992
+Ishak	Alexandro	20163216	Anfeh	31/12/1999
+Alkadri	Yara	20178693	Dbayeh	8/6/1993
+Ghamrawi	Ryan	20154330	Dbayeh	14/2/1988
+Abi Chahine	Marianne	20164906	Naccache	15/5/1974
+Abou Younes	Christopher	20113899	Blat	6/1/1956
+Samarani	Yasmina	20137582	Jounieh	22/12/1990
+Ishak	Ahed	20140316	Selaata	20/3/1955
+Chayban	Gaelle	20129384	Tripoli	19/5/1979
+El Teress	Ahed	20121147	Dorms	30/8/1998
+Abi Akl	Gaelle	20180257	Anfeh	8/12/1977
+Rizk	Lea	20117748	Naccache	1/9/1945
+Slaiby	Tonia	20129085	Jounieh	22/6/1986
+Haroun	Christopher	20112787	Nahr Ibrahim	5/11/1981
+Abi Akl	Leah	20135263	Byblos	3/6/1945
+Ishak	Marianne	20171992	Nahr Ibrahim	17/9/1952
+Daher	Ahed	20168063	Blat	11/10/1980
+Ishak	Ryan	20172622	Selaata	8/6/1959
+El Teress	Serena	20167989	Zouk Mikael	16/9/1966
+Abi Akl	Mohamad	20128501	Nahr Ibrahim	27/1/1990
+Zarifeh	Tonia	20115437	Selaata	30/6/1963
+Medawar	Jean	20126606	Zouk Mikael	11/10/1983
+Assaf	Yasmina	20179094	Sahel Alma	28/1/1966
+Chayban	Layla	20111529	Batroun	31/6/1958
+Al Rassi	Gaelle	20116734	Batroun	17/4/1990
+Issa	Yasmina	20180270	Blat	25/11/1991
+Elam	Joe	20166197	Byblos	3/6/1967
+Al Rassi	Yasmine	20110908	Chekka	14/10/1977
+Faour	Rouba	20145954	Zouk Mikael	24/3/1986
+Yaacoub	Ryan	20171641	Adma	30/1/1981
+Abou Younes	Mohamad	20179506	Jounieh	13/9/1950
+Rizk	Ahed	20137442	Dorms	13/12/1969
+Hachem	Yara	20170296	Chekka	11/3/1965
+El-Alam	Tonia	20116454	Anfeh	26/6/1970
+Faour	Rimane	20184505	Zouk Mikael	14/2/1955
+Zarifeh	Rimane	20177961	Tripoli	1/8/1970
+Hachem	John	20162744	Anfeh	14/4/1950
+Faour	Frederick	20116754	Zouk Mikael	13/8/1994
+Frem	Ryan	20186856	Batroun	22/7/1986
+Al Rassi	Lamia	20168612	Zouk Mosbeh	27/6/1953
+Al Soueity	Lamia	20173887	Selaata	24/6/1999
+Frem	Layla	20139809	Awkar	22/10/1976
+Frem	Alexandro	20116960	Sahel Alma	25/6/1978
+Zeina	Romy	20163032	Tripoli	19/10/2000
+Sfeir	Jad	20162396	Batroun	22/11/1981
+Zarifeh	Layla	20180033	Dbayeh	30/8/1965
+Bou-Khalil	Leah	20164664	Amchit	2/4/1971
+Anastasiou Bountoktzi	Christopher	20113157	Selaata	21/9/1952
+Abi Younes	Francesca	20157660	Chekka	13/8/1965
+Slaiby	Frederick	20133894	Zouk Mikael	6/1/1984
+Slaiby	Maria	20161220	Nahr Ibrahim	24/9/1992
+Sfeir	Farah	20168509	Dorms	28/9/1954
+Zarifeh	Layla	20133870	Naccache	22/8/1976
+Medawar	John	20184787	Nahr Ibrahim	4/4/1979
+Bou-Khalil	Peter	20114529	Blat	17/6/1945
+Frem	Youmna	20112210	Adma	21/5/1962
+Rizk	Leah	20184680	Jounieh	11/7/1953
+Samarani	Nour	20137302	Dbayeh	29/11/1949
+Al Soueity	Lamia	20141442	Zouk Mikael	9/11/1979
+Abi Akl	Farah	20138950	Anfeh	25/11/1999
+Ishak	Yara	20126937	Tripoli	6/10/1978
+Bou-Khalil	Nour	20164701	Zouk Mosbeh	16/10/1990
+Doumiati	Romy	20141741	Awkar	10/9/1951
+Anastasiou Bountoktzi	Maria	20130162	Byblos	13/1/1969
+Frem	Elisa	20157597	Sahel Alma	20/5/1988
+Doumiati	Dennis	20186112	Dbayeh	26/8/1967
+Matta	Dennis	20185615	Sahel Alma	5/12/1971
+Samarani	Yasmina	20122983	Blat	10/12/1994
+Alkhuder	Serena	20157763	Chekka	25/10/1999
+Frem	Romy	20112310	Zouk Mosbeh	12/2/1948
+Assaf	Jad	20167576	Adma	7/8/1967
+Samarani	Serena	20115824	Tripoli	13/12/1956
+Frem	Peter	20180565	Sahel Alma	31/1/1980
+Abi Younes	Ahed	20157258	Naccache	5/7/1962
+El-Alam	Rouba	20110157	Zouk Mikael	23/1/1986
+Abi Younes	Ghady	20141378	Naccache	30/2/1962
+Rizk	Ramza	20158267	Blat	9/7/1947
+Youssef	Louis	20140001	Dbayeh	12/1/1980
+Al Rassi	Marilyne	20163049	Dbayeh	12/3/1985
+Zeina	Marianne	20125941	Nahr Ibrahim	29/12/1968
+Anastasiou Bountoktzi	Alexandro	20165629	Chekka	25/12/1997
+Faour	Farah	20152239	Byblos	17/8/1995
+Hachem	John	20178932	Naccache	8/12/1975
+Abi Chahine	Elisa	20158691	Amchit	18/8/1980
+Ghamrawi	Ramza	20177240	Tripoli	16/6/1991
+Elam	Tonia	20118668	Nahr Ibrahim	26/2/1966
+El-Alam	Marianne	20144249	Blat	13/8/1947
+Assaf	Alexandro	20177775	Anfeh	28/3/1956
+El-Alam	Jad	20176846	Sahel Alma	9/8/1983
+Daher	Yara	20126592	Zouk Mosbeh	31/7/1961
+Chayban	Mohamad	20166791	Anfeh	4/1/1971
+Sfeir	John	20168491	Tripoli	7/10/1952
+Sfeir	Tony	20158176	Chekka	21/1/1972
+Samarani	Francesca	20148841	Chekka	14/1/1993
+Al Soueity	Tony	20145028	Batroun	30/9/1968
+Matta	Ghady	20130125	Dorms	14/1/1999
+Matta	Gaelle	20164886	Zouk Mosbeh	13/6/1968
+Ishak	Christopher	20126841	Dbayeh	9/6/1978
+Sfeir	Yasmina	20189373	Awkar	20/10/1978
+Hachem	Rimane	20124859	Adma	2/6/1974
+Abi Younes	Joseph	20147544	Nahr Ibrahim	21/11/1963
+Abou Younes	Louis	20131783	Zouk Mikael	12/9/1989
+Zarifeh	Yara	20112157	Dorms	11/4/1960
+El Haddad	Frederick	20154437	Dbayeh	15/11/1994
+Assaf	Serena	20162613	Naccache	24/4/1980
+Abou Younes	Joe	20157625	Naccache	19/3/1951
+Slaiby	Tony	20111068	Awkar	3/12/1964
+Medawar	Ryan	20180628	Chekka	23/9/1975
+Abi Chahine	Lamia	20178653	Chekka	11/7/1948
+Haroun	Rimane	20123892	Adma	4/1/1969
+Daher	Serena	20113515	Byblos	22/11/1977
+Matta	Elisa	20154240	Naccache	24/1/1982
+Samarani	Ahed	20125631	Dorms	20/6/1956
+Abou Younes	Rimane	20183659	Selaata	25/3/1993
+Frem	Mohamad	20133131	Nahr Ibrahim	26/10/1981
+Medawar	Ryan	20153388	Sahel Alma	5/7/1998
+Abi Younes	Romy	20128186	Naccache	18/7/1963
+Ghamrawi	Joseph	20154533	Blat	22/12/1988
+Youssef	Tonia	20137374	Dorms	15/11/1966
+Abi Chahine	Youmna	20184403	Tripoli	22/8/1976
+El Mouzawak	Mohamad	20164752	Amchit	2/4/1990
+Haroun	Ghady	20127907	Nahr Ibrahim	3/3/1969
+Ishak	Ghady	20154200	Tripoli	8/10/1985
+Slaiby	Maria	20115662	Jounieh	10/12/1953
+Alkhuder	John	20164696	Chekka	28/8/1957
+Ishak	Serena	20182399	Zouk Mikael	17/10/1969
+Chayban	Peter	20128847	Tripoli	17/12/1963
+Ishak	Louis	20113949	Zouk Mosbeh	28/2/1970
+Slaiby	Farah	20140627	Blat	31/8/1995
+Frem	Tonia	20183060	Anfeh	18/10/1975
+Kmeid	Yasmina	20161291	Tripoli	19/7/1964
+Al Soueity	Marilyne	20112058	Tripoli	3/2/1985
+Kmeid	Yasmina	20140127	Anfeh	2/9/1986
+El Haddad	Marilyne	20162096	Dbayeh	16/5/1951
+Frem	Rimane	20155895	Zouk Mikael	28/6/1995
+Yaacoub	Youmna	20185550	Adma	21/6/1994
+El-Alam	Lea	20158552	Naccache	7/11/1951
+Al Rassi	Frederick	20153553	Amchit	30/4/1965
+Charbel	Jean	20136215	Dorms	25/10/1980
+Kmeid	Peter	20159491	Awkar	8/4/1991
+Kmeid	Jad	20144801	Blat	6/5/1958
+Abi Chahine	Louis	20156277	Jounieh	19/9/1970
+El Mouzawak	Nour	20124992	Naccache	17/1/1999
+Zeina	Tonia	20172278	Blat	25/7/1985
+Matta	Peter	20185264	Adma	18/1/1962
+Daher	Joe	20151373	Zouk Mikael	3/4/1983
+Al Soueity	Jad	20168123	Anfeh	7/3/1961
+Faour	Marianne	20135235	Sahel Alma	20/11/1947
+Doumiati	Ghady	20111587	Amchit	18/9/1976
+Youssef	Francesca	20143689	Jounieh	20/7/1962
+Medawar	Joseph	20138200	Selaata	3/12/1968
+Medawar	Lamia	20173534	Selaata	15/1/1981
+Alkhuder	Leah	20151215	Zouk Mikael	16/4/1970
+Frem	Alexandro	20171647	Byblos	26/4/1951
+El Haddad	Joseph	20169580	Jounieh	25/5/1945
+Youssef	Ramza	20178254	Chekka	12/3/1968
+Assaf	Jean	20117559	Selaata	2/6/1973
+Zarifeh	Frederick	20146415	Nahr Ibrahim	9/12/1968
+Elam	Christopher	20131584	Dorms	9/9/1998
+Al Rassi	Mohamad	20141595	Tripoli	4/3/1968
+Alkhuder	Ahed	20117070	Selaata	14/11/1997
+Bou-Khalil	Yara	20181735	Awkar	9/6/1953
+Al Rassi	Elisa	20120979	Zouk Mosbeh	27/6/1953
+Daher	Rouba	20165829	Byblos	30/2/1949
+Alkhuder	Farah	20113518	Adma	14/3/1982
+Samarani	Yara	20148462	Adma	6/2/1989
+Hachem	Lea	20175575	Naccache	29/5/1982
+Alkhuder	Louis	20153243	Zouk Mikael	20/12/1954
+Abi Chahine	Yasmine	20110810	Naccache	20/11/1958
+Sfeir	Louis	20137014	Selaata	9/11/1956
+Sfeir	Ramza	20187439	Amchit	29/7/1986
+El Mouzawak	Youmna	20147617	Amchit	10/1/1996
+Anastasiou Bountoktzi	Farah	20181874	Zouk Mikael	18/1/1962
+Faour	Romy	20170192	Anfeh	19/3/1956
+Chayban	Youmna	20153346	Naccache	21/4/1999
+Chayban	Joseph	20182870	Adma	22/8/1945
+Abou Younes	Gaelle	20187335	Anfeh	10/11/1985
+Abi Younes	Mohamad	20187384	Adma	18/5/1985
+Daher	Lamia	20165730	Anfeh	3/1/1963
+Abi Akl	Louis	20189131	Naccache	14/3/1966
+Frem	Rouba	20141032	Zouk Mosbeh	25/6/1981
+Sfeir	Frederick	20110783	Dorms	3/3/1977
+Al Soueity	Yara	20169613	Zouk Mosbeh	1/9/1950
+El Mouzawak	Tony	20115201	Awkar	30/12/1971
+Rizk	Maria	20176353	Batroun	7/12/1999
+Hachem	Serena	20134063	Blat	18/3/1945
+Kmeid	Marianne	20123925	Batroun	23/1/1996
+Al Soueity	Marianne	20141049	Blat	15/3/1984
+Zeina	Jad	20118700	Amchit	2/5/1993
+El-Alam	Joseph	20182788	Sahel Alma	26/11/1960
+Issa	Frederick	20184626	Adma	18/5/1985
+Ishak	Ramza	20181011	Jounieh	5/4/1957
+Frem	Sarah	20163106	Dbayeh	30/3/2000
+Samarani	Jean	20161218	Blat	8/6/1967
+Bou-Khalil	Sarah	20168529	Tripoli	21/8/1970
+Abi Chahine	Leah	20115967	Zouk Mikael	6/1/1969
+Daher	Frederick	20157351	Awkar	21/1/1980
+Alkadri	Lea	20123629	Byblos	17/8/1957
+Zarifeh	Farah	20116435	Dorms	24/1/1975
+Al Rassi	Leah	20138821	Tripoli	27/4/1993
+Hachem	Yasmine	20173723	Awkar	16/2/1978
+Alkhuder	Joe	20155365	Naccache	15/3/1969
+Charbel	Francesca	20179104	Naccache	26/6/1993
+Samarani	Layla	20133867	Chekka	8/4/1970
+El-Alam	Jean	20118081	Dbayeh	29/6/1993
+Haroun	Jean	20110264	Chekka	20/5/1996
+Abou Younes	Nour	20131323	Sahel Alma	1/2/1957
+Doumiati	Serena	20132390	Tripoli	28/2/1969
+Kmeid	Peter	20161085	Adma	13/10/1962
+Youssef	Leah	20113923	Naccache	31/2/1969
+Hachem	Maria	20164864	Blat	8/6/1987
+Matta	Ryan	20149528	Nahr Ibrahim	26/3/1986
+Sfeir	Lamia	20138762	Dbayeh	15/3/1977
+Yaacoub	Louis	20116802	Chekka	22/1/1962
+El-Alam	Leah	20124040	Anfeh	19/11/1994
+Abi Younes	Tonia	20178978	Byblos	28/2/1984
+Issa	John	20149915	Blat	9/2/1997
+Abi Chahine	Lamia	20145213	Blat	6/3/1992
+Sfeir	Dennis	20132710	Nahr Ibrahim	20/10/1990
+Alkhuder	Nour	20167750	Nahr Ibrahim	24/3/1976
+Abi Younes	Layla	20175273	Byblos	6/9/1959
+Alkhuder	Peter	20126524	Adma	19/11/1987
+Elam	Ahed	20122189	Amchit	29/10/1982
+El-Alam	Rouba	20176244	Adma	19/3/1949
+Abou Younes	Sarah	20182416	Tripoli	3/7/1973
+Doumiati	Alexandro	20185827	Amchit	1/5/2000
+Faour	Ramza	20159400	Sahel Alma	26/9/1995
+Frem	Maria	20126624	Sahel Alma	9/3/1993
+Abi Akl	Alexandro	20124726	Adma	4/11/1967
+Youssef	Yara	20154778	Anfeh	30/10/1988
+Slaiby	Farah	20184389	Blat	15/1/1950
+Al Rassi	Gaelle	20152635	Chekka	31/6/2000
+Haroun	Rouba	20187382	Amchit	31/11/1980
+Bou-Khalil	Louis	20140999	Anfeh	16/12/1988
+Al Hallak	Alexandro	20148747	Awkar	15/9/1956
+Assaf	Ahed	20148894	Sahel Alma	22/5/1982
+Abi Akl	Layla	20115292	Sahel Alma	16/1/1963
+Rizk	Maria	20141197	Amchit	1/1/1986
+Abi Akl	Ramza	20171975	Awkar	29/2/1969
+Kmeid	Mohamad	20165212	Zouk Mikael	27/3/1954
+Abi Younes	Ghady	20131388	Chekka	28/4/1980
+Al Hallak	Serena	20142866	Awkar	13/1/1994
+Al Rassi	Joe	20116531	Tripoli	28/4/1957
+Anastasiou Bountoktzi	Rimane	20121960	Byblos	22/5/1965
+Elam	Joe	20150940	Sahel Alma	6/5/1958
+Haroun	Yara	20157469	Zouk Mikael	7/10/1998
+Rizk	Gaelle	20152012	Selaata	29/9/1986
+Abi Younes	Dennis	20120083	Zouk Mosbeh	18/6/1995
+Medawar	Youmna	20138444	Amchit	1/3/1998
+El Haddad	Nour	20116382	Chekka	4/11/1977
+Frem	Yara	20161188	Nahr Ibrahim	19/7/1974
+El Mouzawak	Leah	20183592	Anfeh	5/11/1989
+Ishak	Lea	20127868	Blat	21/4/1958
+Alkadri	Romy	20182211	Blat	10/8/2000
+Faour	Sarah	20142184	Dbayeh	28/3/1968
+Abi Younes	Ryan	20117522	Nahr Ibrahim	2/4/1948
+Bou-Khalil	Mohamad	20162528	Chekka	5/8/1985
+Haroun	Christopher	20136604	Adma	9/11/1980
+Zarifeh	Frederick	20148963	Blat	10/8/1988
+Abi Chahine	Dennis	20142301	Adma	16/3/1982
+Alkadri	Christopher	20126550	Awkar	17/3/1955
+Charbel	Tonia	20151639	Zouk Mikael	21/6/1988
+Ishak	Maria	20141410	Dorms	12/6/1979
+Daher	Peter	20146799	Awkar	12/5/2000
+Anastasiou Bountoktzi	Tony	20155201	Awkar	1/4/1997
+Abi Younes	Youmna	20168525	Chekka	26/8/1986
+Charbel	Lamia	20158412	Selaata	9/7/1961
+Chayban	Mohamad	20186986	Amchit	30/7/1971
+Daher	Tonia	20180466	Sahel Alma	4/9/1990
+Issa	Marilyne	20169910	Sahel Alma	9/4/1959
+Faour	Marilyne	20158896	Nahr Ibrahim	11/6/1977
+Issa	Christopher	20116837	Dbayeh	27/12/1971
+Chayban	Marianne	20169708	Awkar	16/10/1964
+Doumiati	Yasmina	20146101	Dorms	4/7/1969
+Alkadri	Rimane	20163128	Naccache	5/7/1988
+Sfeir	Yasmina	20165682	Nahr Ibrahim	23/12/1961
+Rizk	Layla	20144592	Jounieh	25/9/1999
+Elam	Alexandro	20155699	Anfeh	31/9/1992
+Anastasiou Bountoktzi	Farah	20164762	Batroun	17/8/1977
+Hachem	Frederick	20130642	Chekka	20/7/1951
+Al Soueity	Louis	20180410	Nahr Ibrahim	12/12/1988
+Bou-Khalil	Yara	20171269	Amchit	22/6/1980
+Abi Chahine	Nour	20172847	Sahel Alma	30/9/1980
+Elam	Leah	20131035	Dbayeh	23/1/1957
+Charbel	Rimane	20160289	Naccache	17/2/1947
+Elam	Leah	20152624	Naccache	10/2/1961
+Abi Chahine	Christopher	20165810	Naccache	9/1/1961
+Assaf	Frederick	20128804	Nahr Ibrahim	11/7/1972
+Hachem	Tonia	20129876	Blat	10/10/1979
+Matta	Mohamad	20123271	Nahr Ibrahim	11/12/1945
+Chayban	Rouba	20110281	Awkar	13/1/1972
+Slaiby	Sarah	20187889	Zouk Mosbeh	29/11/1997
+El Mouzawak	Yara	20140641	Blat	10/8/1974
+Haroun	Maria	20180249	Byblos	1/9/1991
+Slaiby	Serena	20161176	Anfeh	2/12/1989
+Ishak	Christopher	20140862	Zouk Mosbeh	19/10/1969
+Abi Akl	Lamia	20141328	Naccache	26/1/1957
+Faour	Lea	20143224	Amchit	12/11/1994
+Ishak	Tonia	20168911	Selaata	20/3/1995
+Daher	Frederick	20181262	Byblos	28/6/1979
+Samarani	Farah	20138429	Zouk Mosbeh	31/6/1960
+Elam	Francesca	20117179	Dorms	25/6/1966
+Hachem	Tony	20159405	Sahel Alma	11/9/1960
+Issa	Maria	20148466	Anfeh	1/6/1975
+Abi Akl	Frederick	20112570	Awkar	1/7/1984
+Al Rassi	Leah	20182768	Zouk Mosbeh	3/12/1988
+El Teress	Yasmine	20153046	Selaata	15/4/1960
+Doumiati	John	20147723	Batroun	24/7/1963
+Zeina	Tony	20129098	Zouk Mikael	5/3/1987
+Daher	Yasmina	20151208	Chekka	7/1/1976
+Daher	Leah	20180177	Chekka	8/5/1993
+Frem	Frederick	20150669	Zouk Mosbeh	17/1/1961
+Frem	Ramza	20117308	Dorms	2/3/1959
+Zarifeh	Louis	20135824	Dbayeh	14/9/1992
+Chayban	Lea	20177954	Chekka	24/10/1946
+Bou-Khalil	Ghady	20134590	Dorms	12/8/1983
+Abou Younes	Frederick	20169677	Sahel Alma	25/8/1994
+Charbel	Maria	20187979	Selaata	10/10/1985
+Kmeid	Romy	20163769	Awkar	14/2/1994
+Ghamrawi	Jean	20142640	Nahr Ibrahim	31/8/1947
+Kmeid	Peter	20118024	Byblos	15/4/1956
+Alkadri	Maria	20131346	Byblos	22/8/1964
+Abou Younes	Lea	20145566	Naccache	23/11/1961
+Zarifeh	Ghady	20115687	Adma	30/5/2000
+Hachem	Yara	20119323	Batroun	24/6/1968
+Abi Akl	John	20183559	Zouk Mosbeh	29/7/1975
+Yaacoub	Jean	20133976	Awkar	30/11/1967
+Ishak	Joseph	20189605	Blat	24/9/1970
+Frem	Dennis	20127554	Awkar	2/4/1952
+Medawar	Jad	20170971	Blat	19/10/1994
+El Haddad	Yara	20119993	Byblos	12/1/1990
+Hachem	Gaelle	20159745	Awkar	26/2/1976
+Ghamrawi	Serena	20153627	Adma	25/10/1993
+Issa	John	20151197	Naccache	3/3/1975
+Zarifeh	John	20184373	Nahr Ibrahim	23/6/1993
+Anastasiou Bountoktzi	Leah	20187615	Batroun	4/2/1964
+Zeina	Lea	20149694	Blat	18/8/1949
+Faour	Tony	20171556	Awkar	17/11/2000
+Alkadri	Marilyne	20133573	Jounieh	17/6/1998
+Al Hallak	Gaelle	20183421	Jounieh	2/8/1987
+Abi Akl	Yara	20176902	Blat	8/3/1963
+Al Rassi	Ahed	20157723	Sahel Alma	10/6/1986
+Matta	Sarah	20165336	Selaata	23/1/1960
+Issa	Rimane	20124379	Sahel Alma	12/9/1974
+Medawar	Yasmine	20164551	Naccache	25/10/1974
+Doumiati	Christopher	20138936	Blat	11/12/1951
+Al Soueity	Serena	20126041	Blat	24/4/2000
+Issa	Mohamad	20182621	Dorms	16/8/1973
+Chayban	Youmna	20140952	Zouk Mosbeh	5/4/1961
+Bou-Khalil	Ahed	20132215	Jounieh	22/6/1947
+El Haddad	Gaelle	20172822	Tripoli	30/12/1995
+Doumiati	Joe	20148106	Naccache	31/2/1973
+Al Rassi	Nour	20189172	Naccache	26/9/1974
+El Teress	Romy	20118812	Zouk Mikael	17/5/1954
+El Mouzawak	Marianne	20142505	Adma	12/6/1969
+Ghamrawi	Marilyne	20154579	Jounieh	6/9/1961
+Abi Younes	Gaelle	20174961	Anfeh	18/12/1961
+Abi Chahine	Louis	20173528	Zouk Mikael	31/6/1984
+Slaiby	Ryan	20188717	Selaata	13/6/1973
+El Haddad	Mohamad	20132914	Adma	24/8/1958
+Haroun	Leah	20137137	Tripoli	15/12/1983
+Doumiati	Ahed	20189206	Tripoli	3/9/1957
+Frem	Rimane	20155825	Zouk Mosbeh	12/11/1977
+Frem	Gaelle	20173317	Adma	20/3/1976
+Charbel	Peter	20128435	Naccache	27/12/1975
+Daher	Dennis	20160415	Tripoli	4/10/1982
+El Teress	Joe	20170831	Adma	5/2/1994
+Haroun	Yara	20175582	Chekka	20/3/1975
+Abou Younes	Nour	20136466	Blat	18/10/1991
+Abi Younes	Ryan	20132062	Jounieh	24/4/1965
+Ishak	Rimane	20142052	Nahr Ibrahim	20/7/1998
+Ishak	Ramza	20172768	Zouk Mikael	12/2/1947
+Issa	Rouba	20180699	Selaata	29/1/1968
+Frem	Tony	20185754	Chekka	28/9/1980
+El Teress	Youmna	20124935	Byblos	17/12/2000
+Abi Younes	Lea	20157450	Dorms	28/6/1980
+Kmeid	Francesca	20111234	Blat	18/4/1949
+Elam	John	20123484	Chekka	30/9/1977
+Alkadri	Rouba	20155886	Amchit	12/10/1956
+Daher	Youmna	20133631	Blat	20/11/1956
+Sfeir	Yasmina	20120441	Tripoli	6/8/1962
+Chayban	Yara	20113326	Dbayeh	14/11/1966
+Issa	Yasmine	20185521	Nahr Ibrahim	13/5/1963
+Issa	Maria	20170649	Byblos	5/9/1997
+Bou-Khalil	Joe	20121342	Blat	26/4/1996
+Al Rassi	Layla	20130804	Zouk Mosbeh	8/5/2000
+Alkhuder	Joseph	20181056	Chekka	10/8/1947
+Abi Younes	Peter	20151712	Nahr Ibrahim	11/1/1999
+Issa	Joe	20123894	Zouk Mosbeh	23/6/1951
+Al Soueity	Marilyne	20119158	Selaata	23/9/1999
+Matta	Nour	20184830	Selaata	19/9/1977
+Al Soueity	Rouba	20116948	Batroun	5/11/1957
+Zarifeh	Yasmina	20138533	Naccache	16/1/1957
+Abi Akl	Ryan	20166174	Batroun	30/11/1985
+Haroun	Farah	20116384	Sahel Alma	12/3/1963
+Al Soueity	Christopher	20180377	Byblos	17/10/1995
+Alkhuder	Ahed	20123895	Byblos	17/2/1991
+Al Rassi	Yasmina	20186735	Tripoli	8/11/1975
+Abi Chahine	Layla	20151932	Anfeh	30/7/1958
+Abi Akl	Lamia	20143492	Awkar	29/1/1991
+El Haddad	Tony	20178545	Amchit	6/7/1987
+Haroun	Youmna	20172661	Chekka	20/10/1966
+Faour	Nour	20125914	Dorms	14/5/1971
+El Teress	Frederick	20111581	Blat	17/10/1966
+Issa	Rimane	20117613	Tripoli	13/7/1979
+Alkadri	Jean	20188523	Dbayeh	6/1/1958
+Bou-Khalil	Christopher	20162940	Naccache	1/8/1991
+El-Alam	Marilyne	20164722	Naccache	15/2/1999
+Frem	Ghady	20132241	Jounieh	13/9/1998
+Al Soueity	Jean	20164989	Anfeh	6/6/1999
+Samarani	Lamia	20118564	Selaata	1/11/1961
+Youssef	Dennis	20120770	Awkar	23/10/1960
+Chayban	Ryan	20114899	Tripoli	31/10/1984
+Rizk	Frederick	20117422	Adma	8/10/1981
+Elam	Alexandro	20171667	Dbayeh	14/12/1961
+Daher	Romy	20125227	Jounieh	1/12/1966
+Doumiati	Lea	20114102	Jounieh	7/4/1968
+Chayban	Ryan	20118952	Byblos	31/3/1953
+Zeina	Alexandro	20186375	Adma	7/1/1996
+Frem	Christopher	20131705	Chekka	3/5/1972
+Medawar	Alexandro	20135521	Naccache	19/4/1947
+Assaf	Francesca	20120289	Tripoli	5/5/1960
+Daher	Christopher	20121381	Zouk Mikael	17/11/1997
+Slaiby	Marilyne	20117729	Tripoli	8/3/1999
+Faour	Layla	20136286	Byblos	29/11/1996
+Ishak	Romy	20168208	Blat	18/3/1973
+Abi Chahine	Peter	20111113	Naccache	19/3/1981
+El Mouzawak	Yara	20134976	Anfeh	4/7/1952
+El Teress	Serena	20157694	Dbayeh	26/4/1972
+Issa	Rimane	20111064	Amchit	15/3/1958
+Zeina	Lea	20164091	Zouk Mikael	25/1/1961
+Al Hallak	Marianne	20117888	Dbayeh	12/10/1994
+Alkhuder	Jean	20159436	Zouk Mikael	18/9/1970
+El Mouzawak	Rouba	20178060	Blat	22/5/1955
+Issa	Leah	20127128	Selaata	19/2/1992
+Doumiati	Romy	20175093	Sahel Alma	9/4/1994
+Elam	Youmna	20153222	Chekka	23/11/1989
+Assaf	Yasmine	20160310	Sahel Alma	5/2/1959
+Ishak	Frederick	20129304	Tripoli	3/10/1982
+Slaiby	Rouba	20146291	Byblos	25/4/1979
+El Teress	Leah	20184740	Awkar	16/4/1988
+Ishak	Francesca	20168872	Tripoli	29/6/1992
+Yaacoub	Tony	20164661	Tripoli	3/10/1964
+El Mouzawak	Yara	20173662	Byblos	29/7/1972
+Al Hallak	Maria	20184025	Selaata	20/3/1966
+Assaf	Elisa	20172684	Dorms	10/2/1964
+Charbel	Mohamad	20146806	Naccache	27/9/1991
+Doumiati	Jean	20148509	Zouk Mikael	25/2/1972
+Sfeir	Mohamad	20163469	Anfeh	19/5/1997
+Charbel	Alexandro	20185984	Sahel Alma	25/4/1947
+Daher	Alexandro	20165052	Byblos	11/11/1954
+Frem	Yara	20145445	Dorms	1/1/1950
+Daher	Tonia	20111880	Blat	17/3/1978
+Haroun	Alexandro	20148766	Anfeh	11/4/1981
+Sfeir	Mohamad	20126167	Naccache	12/5/1987
+Al Hallak	Joe	20166663	Blat	17/8/1952
+Abou Younes	Jean	20153370	Byblos	22/3/1983
+Elam	John	20116681	Dorms	24/1/1983
+Elam	Yasmina	20151972	Jounieh	28/2/1987
+Abi Akl	Youmna	20153196	Tripoli	3/12/1995
+Assaf	Francesca	20132584	Tripoli	30/7/1948
+Anastasiou Bountoktzi	Peter	20145695	Sahel Alma	7/10/1959
+Issa	Marianne	20184093	Sahel Alma	30/7/1984
+Al Rassi	Rimane	20158907	Dbayeh	19/9/1981
+Haroun	Layla	20138944	Blat	16/10/1957
+Anastasiou Bountoktzi	Yasmine	20182503	Amchit	14/7/1999
+Abou Younes	Ryan	20189466	Dbayeh	3/5/1949
+Yaacoub	Rimane	20167708	Sahel Alma	24/5/1991
+Samarani	Yasmina	20159963	Nahr Ibrahim	26/2/1980
+Youssef	Ahed	20148087	Selaata	19/11/2000
+Daher	Louis	20111315	Adma	21/12/1965
+Medawar	Elisa	20120269	Naccache	24/7/1973
+Kmeid	Yasmina	20137862	Tripoli	13/12/1966
+Bou-Khalil	Farah	20151528	Amchit	27/11/1971
+Anastasiou Bountoktzi	Peter	20119704	Dorms	1/4/1974
+El Teress	Ahed	20131377	Zouk Mosbeh	14/10/1947
+El Teress	Farah	20160852	Sahel Alma	6/2/1994
+Samarani	Yasmina	20176012	Amchit	23/3/1989
+Ghamrawi	Francesca	20165603	Adma	19/2/1947
+Doumiati	Mohamad	20161430	Amchit	7/1/1967
+Ghamrawi	Jean	20128428	Selaata	14/12/1960
+Al Hallak	Rouba	20188576	Blat	7/7/1965
+Ghamrawi	Ryan	20179584	Tripoli	26/4/1975
+Ghamrawi	Lamia	20131967	Dorms	3/2/1979
+Zeina	Gaelle	20174811	Batroun	9/8/1986
+Abi Chahine	Yasmine	20186925	Batroun	26/6/1990
+Haroun	Peter	20110591	Anfeh	5/3/1987
+Alkadri	Youmna	20132292	Awkar	3/10/1946
+Chayban	Serena	20148348	Nahr Ibrahim	9/9/1958
+Alkadri	Frederick	20122623	Awkar	12/11/1979
+Haroun	Elisa	20143364	Byblos	16/10/1947
+Al Hallak	Yasmina	20112487	Dbayeh	12/4/1964
+Sfeir	Christopher	20147169	Tripoli	29/9/1982
+Alkadri	Youmna	20133836	Nahr Ibrahim	16/5/1971
+Faour	Tony	20120898	Anfeh	15/4/1970
+Kmeid	Gaelle	20156413	Adma	22/3/1986
+Ishak	Alexandro	20115290	Zouk Mikael	15/1/1980
+Frem	Nour	20137542	Jounieh	21/6/1976
+Assaf	Lamia	20167686	Zouk Mikael	12/1/1966
+Daher	Louis	20136093	Amchit	31/8/1982
+Al Rassi	Frederick	20119125	Batroun	22/12/1981
+Al Rassi	Joe	20180172	Sahel Alma	17/7/1984
+Elam	John	20157464	Amchit	12/4/1957
+Abi Akl	Christopher	20119003	Dorms	29/11/1950
+Issa	Lamia	20114780	Blat	8/6/1964
+Bou-Khalil	Louis	20112264	Amchit	16/8/1965
+Yaacoub	Ahed	20170983	Sahel Alma	18/1/1996
+Charbel	Joseph	20119210	Zouk Mosbeh	13/5/1988
+Kmeid	Ahed	20174888	Blat	13/7/1973
+Haroun	Nour	20135160	Adma	5/9/1991
+Zeina	John	20128043	Selaata	10/12/1995
+Sfeir	Yara	20179054	Zouk Mosbeh	23/7/1966
+El-Alam	Lamia	20158659	Dbayeh	17/4/1989
+Abi Akl	Mohamad	20157635	Tripoli	30/11/1973
+Youssef	Marianne	20165160	Blat	11/6/1969
+Zarifeh	Louis	20118293	Zouk Mosbeh	27/9/1956
+Yaacoub	Rouba	20184466	Nahr Ibrahim	18/8/1958
+Al Soueity	Farah	20117796	Dorms	13/7/1970
+Daher	Yasmina	20187126	Adma	13/11/1948
+El Teress	Lea	20122768	Jounieh	28/7/1994
+Bou-Khalil	Jean	20125729	Byblos	31/11/1975
+Medawar	Tony	20158766	Dbayeh	5/7/1968
+Matta	Yara	20114362	Selaata	16/5/1992
+Hachem	Farah	20125179	Nahr Ibrahim	31/6/1970
+Slaiby	Yara	20150779	Zouk Mosbeh	19/10/1999
+Abi Akl	Leah	20115413	Nahr Ibrahim	8/5/1951
+Alkhuder	Ryan	20116332	Nahr Ibrahim	2/10/1957
+Faour	Jad	20152997	Adma	27/6/1987
+Kmeid	Ryan	20114566	Zouk Mikael	25/2/1980
+Faour	Tony	20149520	Nahr Ibrahim	1/6/1998
+Elam	Maria	20147430	Selaata	8/6/1993
+Al Rassi	Lamia	20159875	Byblos	3/2/1994
+Kmeid	John	20125358	Tripoli	11/9/1971
+Samarani	Dennis	20133415	Naccache	24/11/1974
+Matta	Lea	20161762	Zouk Mosbeh	2/6/1968
+Ghamrawi	Marianne	20126204	Dbayeh	20/9/1959
+Zeina	Ramza	20172036	Selaata	30/7/1946
+Abi Chahine	Ramza	20114648	Batroun	2/6/1982
+Abou Younes	Dennis	20181275	Nahr Ibrahim	11/10/1996
+Abi Chahine	Rouba	20142649	Dorms	31/8/1982
+Hachem	Yara	20112415	Dorms	22/5/1975
+Kmeid	Marianne	20142713	Zouk Mosbeh	23/12/1996
+Haroun	Ramza	20186509	Awkar	24/2/1988
+Alkhuder	Romy	20127410	Nahr Ibrahim	3/4/1948
+Al Hallak	Ramza	20112537	Adma	2/10/1995
+Charbel	Peter	20129625	Zouk Mikael	25/10/1946
+Charbel	Mohamad	20135972	Selaata	13/6/1990
+Sfeir	Alexandro	20172229	Dorms	1/10/1980
+El-Alam	Gaelle	20143267	Anfeh	10/11/1963
+Zeina	Frederick	20144808	Sahel Alma	16/7/2000
+Samarani	Jean	20169977	Batroun	28/2/1949
+El Haddad	Jean	20151108	Sahel Alma	31/10/1984
+Charbel	Sarah	20129274	Sahel Alma	21/10/1993
+Al Soueity	Jean	20147504	Zouk Mikael	10/4/2000
+Doumiati	Tonia	20189109	Sahel Alma	8/3/1974
+Rizk	Nour	20189695	Chekka	31/12/1963
+Alkadri	Yasmina	20162998	Chekka	21/6/1974
+Abi Chahine	Francesca	20167015	Selaata	12/10/1994
+Kmeid	Tony	20184883	Jounieh	30/3/1948
+Alkadri	Youmna	20149344	Dorms	5/9/1973
+Ishak	Jad	20144316	Dbayeh	6/7/1955
+Abou Younes	Joe	20124697	Chekka	27/12/1989
+Assaf	Rouba	20154841	Dbayeh	12/3/1954
+El-Alam	Serena	20142858	Batroun	6/7/1968
+Faour	Yasmine	20176869	Awkar	20/1/1999
+Assaf	Yasmine	20181384	Chekka	31/4/1972
+Abi Chahine	Tony	20131495	Tripoli	11/6/1959
+Frem	Mohamad	20175924	Byblos	16/4/1989
+Frem	Gaelle	20158219	Zouk Mikael	30/3/1993
+Matta	Gaelle	20126715	Selaata	13/8/1985
+Ishak	Yara	20181996	Naccache	6/6/1974
+Charbel	Nour	20131970	Dbayeh	8/11/1952
+Bou-Khalil	Rimane	20134945	Adma	2/9/1949
+Al Hallak	Lamia	20181659	Anfeh	28/7/1992
+Frem	Tony	20162287	Nahr Ibrahim	12/11/1996
+Charbel	Jean	20124790	Dorms	31/3/1996
+Al Soueity	Mohamad	20113310	Zouk Mosbeh	19/8/1956
+Abi Akl	Farah	20174038	Naccache	17/8/1990
+Issa	Layla	20140824	Selaata	13/2/2000
+Elam	Serena	20114198	Jounieh	2/10/1975
+Alkhuder	Youmna	20145117	Chekka	16/9/1998
+Charbel	Tonia	20179898	Zouk Mikael	5/4/1988
+Frem	Ahed	20132642	Anfeh	29/1/1998
+El Haddad	Dennis	20188395	Zouk Mikael	4/11/1998
+Sfeir	Ramza	20178655	Zouk Mikael	14/7/1960
+Youssef	Youmna	20114817	Anfeh	17/7/1976
+Matta	Alexandro	20152986	Batroun	1/9/1981
+Anastasiou Bountoktzi	Leah	20150049	Dorms	24/1/1987
+Rizk	Gaelle	20157093	Selaata	12/1/1985
+Youssef	Christopher	20132157	Selaata	27/10/1984
+Anastasiou Bountoktzi	Mohamad	20189786	Tripoli	12/7/1982
+Abi Chahine	Youmna	20180000	Blat	29/3/1981
+Slaiby	Ghady	20143746	Blat	6/12/1980
+Zarifeh	Yara	20168930	Nahr Ibrahim	1/3/1946
+Doumiati	Frederick	20134885	Nahr Ibrahim	19/12/1996
+Al Rassi	Dennis	20140569	Zouk Mikael	25/9/1955
+Yaacoub	Gaelle	20171903	Dbayeh	29/1/1952
+Al Rassi	Youmna	20173601	Tripoli	12/2/1983
+Samarani	Christopher	20183985	Nahr Ibrahim	22/5/1945
+Abi Younes	Ramza	20136208	Chekka	26/7/1954
+Youssef	Yara	20166884	Zouk Mikael	23/7/1991
+Hachem	Ghady	20185318	Adma	4/1/1947
+Matta	Yara	20122052	Anfeh	6/7/1973
+Ishak	Ryan	20123989	Zouk Mosbeh	10/10/1990
+El Haddad	Sarah	20163748	Awkar	18/7/1963
+Abi Younes	Rimane	20167287	Jounieh	7/7/1996
+Abi Akl	Lea	20130451	Sahel Alma	4/12/1994
+Yaacoub	Mohamad	20158188	Selaata	13/11/1977
+Hachem	Ahed	20141483	Zouk Mikael	2/3/1945
+Abi Chahine	Jean	20178867	Batroun	28/4/1999
+Charbel	Lamia	20112395	Dorms	14/5/1964
+Haroun	Jean	20125656	Anfeh	23/11/1948
+Alkadri	Youmna	20186968	Chekka	6/2/1983
+Alkhuder	Ramza	20153344	Blat	12/10/1948
+El Haddad	Ramza	20186018	Zouk Mikael	18/10/1986
+Chayban	Leah	20186206	Selaata	26/5/1969
+Samarani	Leah	20172682	Sahel Alma	15/3/1954
+Youssef	Serena	20170621	Sahel Alma	1/8/1999
+Charbel	Frederick	20169685	Chekka	20/12/1982
+Bou-Khalil	Jad	20165012	Anfeh	11/7/1969
+Assaf	Ramza	20183311	Naccache	24/7/1995
+Abi Akl	Romy	20127127	Dbayeh	21/2/1999
+Haroun	Joseph	20170486	Byblos	19/3/1996
+El Haddad	Sarah	20124983	Nahr Ibrahim	4/1/1956
+Al Rassi	Joseph	20159931	Jounieh	15/6/1954
+Daher	Yasmine	20156410	Dbayeh	6/9/1972
+Samarani	Layla	20126278	Jounieh	20/10/1964
+Faour	Alexandro	20118770	Blat	16/10/1963
+Elam	John	20121383	Dbayeh	25/6/1992
+Alkhuder	Joe	20155712	Dbayeh	23/3/1988
+Samarani	Youmna	20112002	Zouk Mosbeh	1/6/1993
+Alkhuder	Peter	20135747	Batroun	28/5/1976
+Frem	Ryan	20155417	Zouk Mosbeh	17/11/2000
+Frem	Peter	20156628	Batroun	14/1/1966
+Charbel	Louis	20177299	Dorms	2/3/1977
+Elam	Mohamad	20146031	Nahr Ibrahim	7/1/1974
+Samarani	Rimane	20159469	Dorms	23/9/1999
+Frem	Tonia	20121413	Awkar	23/10/1949
+Frem	Lea	20171961	Adma	1/8/1947
+Frem	Leah	20135276	Dbayeh	24/9/1977
+Yaacoub	Gaelle	20148640	Amchit	20/2/1973
+Matta	Yasmine	20164155	Byblos	24/10/1992
+Issa	Nour	20165058	Nahr Ibrahim	23/11/1949
+Doumiati	Ryan	20145441	Adma	12/12/2000
+Al Rassi	Peter	20160515	Byblos	19/2/1952
+Elam	Tony	20167088	Byblos	6/1/1971
+Matta	Marilyne	20157675	Dorms	1/7/1962
+Medawar	Tonia	20172603	Zouk Mosbeh	11/12/1995
+Charbel	Ghady	20155239	Anfeh	15/7/1955
+El Mouzawak	Ahed	20169860	Blat	29/12/1949
+Abi Akl	Lamia	20173120	Batroun	25/4/1970
+Al Soueity	Layla	20172848	Tripoli	16/10/1991
+Assaf	Lamia	20174194	Adma	30/4/1968
+Samarani	Sarah	20149046	Naccache	17/6/1983
+Zarifeh	Ramza	20125825	Sahel Alma	26/1/1955
+Anastasiou Bountoktzi	Youmna	20179089	Zouk Mikael	5/10/1948
+Slaiby	Yara	20132458	Nahr Ibrahim	14/5/1969
+Anastasiou Bountoktzi	Lamia	20160106	Awkar	3/1/1993
+Rizk	Yara	20149860	Zouk Mikael	27/11/1973
+Samarani	Yara	20152702	Jounieh	9/1/1968
+El-Alam	Marianne	20154407	Dorms	8/4/1962
+Ghamrawi	Yasmina	20131701	Selaata	9/4/1960
+Frem	Yasmine	20185505	Anfeh	2/12/1954
+Matta	Dennis	20115850	Selaata	13/10/1961
+Alkadri	Yasmine	20116496	Selaata	22/11/1979
+Youssef	Rouba	20133967	Nahr Ibrahim	21/7/1958
+Alkhuder	Yara	20136950	Adma	6/8/1982
+Abi Akl	Christopher	20118612	Byblos	15/4/1992
+Abi Younes	Yasmine	20176137	Naccache	27/5/1979
+El Haddad	Ahed	20183053	Jounieh	13/1/1957
+El Haddad	Leah	20121635	Byblos	23/1/1973
+Abi Chahine	Maria	20166161	Selaata	24/11/1991
+Elam	Joseph	20168009	Tripoli	21/9/1981
+Al Soueity	Leah	20176822	Adma	11/8/1992
+Hachem	Serena	20173066	Amchit	3/10/1980
+El-Alam	Rouba	20151325	Byblos	10/10/1946
+Samarani	Elisa	20124100	Dorms	20/7/1973
+Faour	Joseph	20140281	Dorms	27/12/1998
+Abi Akl	Farah	20146761	Zouk Mosbeh	10/6/1995
+Slaiby	Farah	20176042	Dbayeh	31/10/1987
+Rizk	Yara	20174601	Batroun	11/10/1958
+Al Soueity	Mohamad	20167829	Nahr Ibrahim	20/4/1986
+Doumiati	Maria	20161418	Tripoli	21/9/1977
+Youssef	Tony	20166353	Sahel Alma	8/1/1956
+El Mouzawak	Gaelle	20137123	Tripoli	21/4/1993
+Matta	Peter	20153039	Chekka	25/3/1981
+Kmeid	Sarah	20184697	Selaata	29/9/1981
+Faour	Francesca	20168590	Dorms	4/7/1957
+Zarifeh	Elisa	20174148	Tripoli	14/1/1996
+Sfeir	Ryan	20141814	Nahr Ibrahim	7/9/1953
+Abi Akl	Peter	20176776	Dorms	5/6/1992
+Yaacoub	Joe	20189596	Batroun	30/1/1976
+Kmeid	Ahed	20132165	Naccache	30/11/1991
+Frem	Christopher	20152830	Zouk Mosbeh	20/7/1997
+Zeina	Lamia	20125343	Chekka	10/4/1981
+Chayban	Peter	20138779	Dorms	27/10/1949
+Alkadri	Marianne	20118749	Amchit	5/2/1982
+Al Soueity	Yara	20115472	Anfeh	31/11/2000
+Samarani	Ramza	20130564	Chekka	25/2/1983
+Kmeid	Lamia	20124050	Jounieh	3/10/1989
+Anastasiou Bountoktzi	Mohamad	20112237	Tripoli	29/3/1998
+Al Rassi	Rouba	20174672	Naccache	28/7/1983
+Elam	Maria	20130483	Amchit	14/6/1986
+Rizk	Lamia	20181500	Byblos	20/6/1955
+Assaf	Francesca	20114009	Blat	26/8/1978
+Hachem	Romy	20161095	Jounieh	6/12/1973
+Ishak	Mohamad	20157909	Byblos	7/11/1988
+Daher	Yasmine	20141363	Dbayeh	3/10/1954
+Youssef	Tonia	20133305	Selaata	6/10/1973
+Abi Akl	John	20144187	Nahr Ibrahim	31/12/1957
+Zeina	Marianne	20141094	Blat	30/4/1955
+Frem	Yasmina	20151898	Adma	17/12/1975
+Zeina	Rouba	20168847	Sahel Alma	23/5/1951
+Abi Younes	Dennis	20135591	Dorms	4/7/1951
+Daher	Sarah	20171793	Awkar	6/1/1990
+Abi Chahine	Peter	20164451	Selaata	25/9/1991
+Elam	Gaelle	20146844	Anfeh	16/10/1954
+Abi Akl	Yara	20170711	Byblos	5/12/2000
+Issa	Tonia	20167855	Naccache	29/5/1985
+Abi Chahine	Yasmine	20160914	Amchit	1/4/1981
+Frem	Maria	20120085	Naccache	31/7/1971
+Zeina	Romy	20121990	Dbayeh	14/11/1952
+Abi Younes	Yara	20120825	Anfeh	8/9/1981
+Faour	Frederick	20111012	Awkar	28/3/1986
+Youssef	Rimane	20136933	Anfeh	13/6/1980
+Youssef	Dennis	20120841	Jounieh	4/2/1998
+Al Hallak	Yara	20165889	Blat	11/1/1980
+Alkadri	Jean	20155025	Adma	23/10/1983
+Zarifeh	Francesca	20184060	Zouk Mikael	2/2/1977
+Elam	Jean	20159612	Batroun	4/8/1959
+Frem	Leah	20164391	Batroun	2/11/1976
+Anastasiou Bountoktzi	Mohamad	20118922	Batroun	22/10/1956
+Faour	John	20124278	Jounieh	10/11/1984
+Abi Akl	Elisa	20149524	Batroun	11/7/1945
+El Mouzawak	Serena	20161206	Zouk Mikael	15/3/1961
+Yaacoub	John	20112557	Jounieh	29/2/1958
+Zarifeh	Ramza	20149490	Byblos	15/8/1947
+Frem	Serena	20185468	Chekka	25/1/1994
+Haroun	Joseph	20159176	Zouk Mikael	30/6/1952
+Daher	Tonia	20185344	Tripoli	18/3/1999
+Rizk	Francesca	20147259	Tripoli	12/3/1975
+Yaacoub	Joseph	20143038	Chekka	21/3/1961
+Samarani	Marilyne	20165695	Dorms	26/9/2000
+Issa	John	20148397	Tripoli	3/1/1971
+Matta	Joseph	20129784	Naccache	8/3/1981
+El Mouzawak	Joe	20135058	Dbayeh	19/9/1961
+Charbel	Serena	20111183	Nahr Ibrahim	6/1/1968
+El Haddad	Christopher	20112252	Jounieh	31/2/1983
+Issa	Ahed	20162765	Zouk Mikael	9/2/1979
+Slaiby	Yasmine	20173793	Sahel Alma	16/5/1961
+El-Alam	Lamia	20138872	Blat	5/5/1998
+Assaf	John	20128230	Dbayeh	11/6/1963
+Faour	Yasmina	20138409	Jounieh	4/11/1952
+Matta	Maria	20187077	Tripoli	26/9/1954
+Al Hallak	Nour	20128223	Adma	16/5/1998
+Zeina	Joe	20172158	Dorms	29/6/1963
+Al Soueity	Maria	20182706	Anfeh	25/7/1955
+Youssef	Jad	20144912	Zouk Mosbeh	24/5/1951
+Al Rassi	Jean	20138062	Adma	30/1/1975
+Samarani	Marianne	20165122	Anfeh	25/2/1999
+Zeina	Lamia	20165110	Zouk Mikael	17/6/1958
+Daher	Elisa	20125934	Dorms	14/11/1988
+El Teress	Joe	20157996	Nahr Ibrahim	16/11/1983
+Abi Akl	Joseph	20159483	Zouk Mikael	28/7/1987
+Slaiby	Yara	20150618	Amchit	9/7/1963
+Chayban	Frederick	20183480	Amchit	9/8/1991
+Al Rassi	Ryan	20133451	Jounieh	21/5/1988
+El-Alam	John	20148715	Dorms	24/4/1989
+Bou-Khalil	Jad	20154012	Zouk Mikael	14/10/1954
+Assaf	Frederick	20175553	Tripoli	29/7/1997
+Elam	Leah	20139430	Anfeh	12/5/1971
+Bou-Khalil	Gaelle	20188776	Chekka	2/1/1945
+Haroun	Jad	20129640	Tripoli	24/10/1983
+Hachem	Marilyne	20141430	Jounieh	17/5/1980
+Samarani	Farah	20140621	Sahel Alma	15/3/1979
+Frem	Marianne	20168769	Byblos	11/7/1983
+Bou-Khalil	Christopher	20128781	Adma	1/3/1962
+Al Soueity	Gaelle	20142891	Nahr Ibrahim	20/10/1981
+Al Soueity	Alexandro	20188394	Chekka	1/8/1951
+Samarani	Youmna	20117745	Byblos	12/12/1967
+Abi Chahine	Joe	20111600	Jounieh	22/11/1987
+Alkadri	Mohamad	20153347	Chekka	18/9/1968
+Youssef	Ghady	20135396	Selaata	27/9/1961
+Al Soueity	Tonia	20178128	Adma	19/7/1995
+Youssef	Serena	20189286	Zouk Mikael	3/4/1973
+Abi Younes	Romy	20112943	Naccache	30/5/1998
+Chayban	Christopher	20170851	Amchit	3/4/1960
+Abou Younes	Yara	20175050	Awkar	2/9/2000
+Sfeir	Ahed	20122093	Jounieh	22/8/1955
+Al Hallak	Marilyne	20166684	Zouk Mikael	9/11/1960
+El Haddad	Lea	20122759	Byblos	3/10/1960
+El Haddad	Louis	20141981	Chekka	5/8/1997
+Frem	Yara	20154988	Zouk Mosbeh	5/10/1982
+Zarifeh	Joseph	20128878	Blat	29/2/1970
+Anastasiou Bountoktzi	Sarah	20178988	Sahel Alma	13/3/1960
+Al Rassi	Nour	20137791	Chekka	17/8/1998
+Al Rassi	Marianne	20118970	Blat	19/5/1990
+Abou Younes	Serena	20143100	Amchit	21/11/1980
+Matta	Lea	20156643	Anfeh	29/4/1960
+Charbel	Dennis	20147976	Jounieh	6/6/1976
+Assaf	Rouba	20152281	Zouk Mikael	16/9/1990
+Abi Younes	Gaelle	20126672	Zouk Mosbeh	15/10/1949
+Matta	Youmna	20118028	Jounieh	25/10/1951
+Frem	Serena	20130799	Zouk Mosbeh	26/11/1991
+Alkadri	Ahed	20110515	Nahr Ibrahim	2/10/1969
+El Mouzawak	Youmna	20115491	Selaata	9/1/1945
+Samarani	Youmna	20163759	Chekka	1/9/1957
+Chayban	Youmna	20138784	Zouk Mikael	1/4/1991
+Abi Younes	Yara	20159710	Blat	9/3/1979
+Charbel	Serena	20149426	Jounieh	26/3/1982
+Haroun	Lea	20137891	Anfeh	27/5/1975
+Abi Chahine	John	20164976	Batroun	2/4/1992
+Frem	Sarah	20140833	Adma	2/6/1958
+Yaacoub	Ghady	20175558	Naccache	20/1/1953
+El-Alam	Yasmina	20110999	Awkar	28/4/1965
+Zarifeh	Joseph	20173232	Nahr Ibrahim	3/12/1966
+Abi Akl	Rimane	20139945	Blat	31/5/1980
+Al Rassi	Nour	20138280	Zouk Mosbeh	30/12/1948
+Yaacoub	Rimane	20162107	Awkar	31/9/1976
+Assaf	Peter	20187214	Byblos	8/12/1947
+Samarani	Tonia	20131207	Zouk Mikael	23/7/1961
+Frem	Sarah	20172582	Selaata	31/10/1982
+Rizk	Francesca	20132698	Chekka	9/9/1988
+Al Hallak	Sarah	20138393	Zouk Mikael	31/2/1970
+Sfeir	Dennis	20149472	Amchit	30/12/1956
+Al Soueity	Marilyne	20150806	Jounieh	18/6/1947
+Chayban	Lea	20170270	Zouk Mikael	12/12/1982
+Haroun	Tonia	20169269	Tripoli	1/12/1995
+Yaacoub	Mohamad	20128921	Naccache	3/3/1959
+Charbel	Jean	20111549	Awkar	12/11/1960
+Issa	Layla	20147038	Amchit	18/7/1953
+Abi Akl	Lea	20164054	Sahel Alma	6/5/1948
+Ghamrawi	Joe	20166151	Byblos	9/6/1955
+Sfeir	Yasmina	20159353	Zouk Mosbeh	17/5/1972
+Al Hallak	Serena	20120074	Blat	15/10/1987
+El Teress	Lamia	20183710	Adma	3/2/1973
+Yaacoub	Yasmine	20125171	Awkar	6/1/1986
+El Haddad	Maria	20178314	Adma	1/3/1951
+Abi Akl	Serena	20157437	Dorms	2/4/1951
+El-Alam	Louis	20126053	Jounieh	22/12/1984
+Elam	Tonia	20133034	Naccache	19/9/1963
+Ghamrawi	Louis	20164678	Zouk Mosbeh	6/6/1948
+Frem	Serena	20185241	Tripoli	16/8/1982
+Anastasiou Bountoktzi	Sarah	20159711	Chekka	5/2/1978
+El Haddad	Peter	20158732	Sahel Alma	8/2/1969
+Rizk	Farah	20186618	Dbayeh	20/10/1973
+Abi Chahine	Rouba	20165587	Zouk Mikael	12/12/1960
+Bou-Khalil	Lea	20135076	Adma	28/4/1978
+Daher	Rouba	20132158	Amchit	28/5/1990
+Frem	Alexandro	20150186	Naccache	29/6/1994
+Frem	Sarah	20110291	Batroun	2/10/1957
+Doumiati	Sarah	20123862	Awkar	8/4/1987
+Youssef	Francesca	20114256	Anfeh	6/9/1990
+Abi Chahine	Ryan	20137106	Byblos	24/10/1980
+Slaiby	Jean	20145052	Zouk Mikael	25/9/1963
+Matta	Maria	20123382	Adma	8/3/1977
+El Mouzawak	Francesca	20180316	Sahel Alma	31/1/1958
+Slaiby	Farah	20183210	Nahr Ibrahim	14/12/1972
+Zeina	Mohamad	20140925	Naccache	24/4/1968
+Al Rassi	Jad	20185462	Blat	15/11/1989
+Alkadri	Jad	20163228	Tripoli	24/5/1957
+Daher	Farah	20118478	Zouk Mosbeh	23/6/1996
+El Mouzawak	Sarah	20152971	Sahel Alma	31/8/1965
+Assaf	Nour	20114864	Tripoli	10/10/1969
+Zarifeh	Ryan	20137466	Amchit	31/12/1996
+Bou-Khalil	Ramza	20112804	Jounieh	10/4/1950
+Matta	Lea	20132595	Amchit	16/8/1972
+Medawar	Farah	20169560	Zouk Mikael	5/3/1985
+Medawar	Dennis	20151256	Sahel Alma	1/1/1966
+Bou-Khalil	Yara	20140960	Awkar	25/5/1967
+Yaacoub	Serena	20133980	Jounieh	13/2/1954
+Yaacoub	Lea	20177558	Anfeh	26/6/1956
+Al Hallak	Elisa	20188732	Selaata	21/2/1955
+Sfeir	Rouba	20136335	Amchit	18/3/1963
+Alkadri	Layla	20188156	Selaata	17/6/1982
+Abi Chahine	Lamia	20184968	Zouk Mosbeh	22/7/1992
+Ishak	Leah	20137832	Chekka	29/4/1984
+Charbel	Rouba	20115768	Batroun	9/5/1959
+Daher	Tony	20153974	Selaata	4/12/1984
+Samarani	Rouba	20147019	Amchit	30/5/1993
+Samarani	Ghady	20160847	Anfeh	19/6/1993
+Alkhuder	Elisa	20152219	Blat	14/11/1992
+Elam	Yara	20162208	Byblos	20/9/1995
+Youssef	Yasmina	20136971	Tripoli	12/3/1971
+El Teress	Layla	20119883	Batroun	20/11/1971
+Abi Akl	Marilyne	20148189	Awkar	2/7/1980
+Abi Akl	Maria	20121670	Zouk Mikael	18/8/1960
+Abi Younes	Lea	20131992	Batroun	1/6/1951
+Zarifeh	Francesca	20157497	Zouk Mikael	1/2/1982
+Al Hallak	Joseph	20148247	Batroun	14/1/1979
+Elam	Francesca	20114286	Byblos	12/7/1998
+Alkhuder	Maria	20146809	Byblos	18/6/1949
+Al Soueity	Marianne	20135424	Tripoli	4/4/1971
+Abi Chahine	Ahed	20179766	Naccache	28/7/1998
+Elam	Lea	20188676	Tripoli	23/1/1950
+Bou-Khalil	Joseph	20126031	Sahel Alma	10/11/1960
+Elam	Gaelle	20114744	Selaata	12/12/1966
+Daher	Marianne	20129949	Blat	7/1/1970
+Issa	Dennis	20126200	Amchit	6/3/1975
+El-Alam	Ghady	20184196	Anfeh	26/4/1954
+Haroun	Louis	20138402	Nahr Ibrahim	6/1/1989
+Zarifeh	Jean	20189785	Selaata	11/12/1990
+Abi Chahine	Ramza	20153606	Selaata	6/6/1966
+Issa	Maria	20147595	Sahel Alma	16/9/1948
+Yaacoub	Tony	20154307	Zouk Mosbeh	4/1/1971
+El Mouzawak	Sarah	20139319	Blat	4/5/1980
+Anastasiou Bountoktzi	Tony	20149619	Zouk Mosbeh	12/6/1954
+Zarifeh	Yara	20110470	Dorms	24/12/1985
+Abi Younes	Louis	20116432	Naccache	19/4/1980
+Al Rassi	Mohamad	20119955	Nahr Ibrahim	15/12/1965
+Rizk	Jad	20180311	Selaata	7/6/1995
+Rizk	Ryan	20153411	Naccache	10/4/1962
+Elam	Marilyne	20165070	Zouk Mikael	20/6/1972
+Alkhuder	Alexandro	20135558	Selaata	24/7/1970
+Matta	Yasmina	20175893	Jounieh	29/3/1975
+Al Hallak	Jean	20184341	Anfeh	26/8/1992
+Abi Younes	Lea	20135254	Jounieh	6/2/1972
+Elam	Jean	20153401	Byblos	30/7/1979
+El Haddad	Marilyne	20124467	Naccache	13/9/1968
+Ishak	Ramza	20185584	Chekka	14/6/1975
+Al Soueity	Ryan	20144032	Amchit	11/12/1989
+Frem	Marilyne	20177048	Amchit	2/8/2000
+Frem	Leah	20133661	Anfeh	6/9/1994
+Zeina	Gaelle	20123885	Sahel Alma	16/6/1962
+Faour	Leah	20116558	Nahr Ibrahim	6/9/1962
+Elam	Sarah	20162439	Jounieh	6/10/1956
+Medawar	Serena	20185143	Naccache	14/1/1958
+Abi Chahine	Youmna	20125701	Zouk Mosbeh	18/9/1950
+Slaiby	Elisa	20181028	Naccache	14/12/1948
+El Mouzawak	Mohamad	20181401	Zouk Mikael	9/8/1950
+Matta	Rimane	20164697	Anfeh	5/1/1999
+Matta	Jean	20142731	Adma	28/9/1986
+Daher	Sarah	20136622	Amchit	16/12/2000
+Ishak	Sarah	20150175	Selaata	9/11/2000
+Yaacoub	Tony	20168308	Chekka	22/1/1977
+Faour	Leah	20174071	Jounieh	21/3/1981
+Yaacoub	Elisa	20182402	Zouk Mikael	9/4/1958
+Frem	Marianne	20136530	Amchit	29/12/1946
+Al Soueity	Dennis	20165273	Dorms	7/8/1980
+El-Alam	Serena	20145262	Zouk Mikael	26/11/1977
+Haroun	Tonia	20152650	Amchit	28/11/1955
+Abou Younes	Youmna	20125039	Dbayeh	9/1/1968
+El-Alam	Yara	20174108	Chekka	12/12/1953
+Issa	Peter	20141893	Amchit	14/1/1968
+Al Hallak	Joe	20129015	Tripoli	14/4/1955
+Alkhuder	Tonia	20143567	Zouk Mosbeh	10/10/1950
+Bou-Khalil	Sarah	20163554	Zouk Mikael	27/7/1974
+El Teress	Alexandro	20174091	Selaata	31/4/1981
+Bou-Khalil	Farah	20151118	Anfeh	26/10/1958
+Bou-Khalil	Lea	20123215	Awkar	10/12/1970
+Al Rassi	Dennis	20176888	Zouk Mikael	4/9/1995
+Youssef	Marilyne	20189932	Chekka	25/8/1965
+Issa	Farah	20175653	Naccache	23/10/1976
+Alkhuder	Joseph	20175258	Anfeh	11/6/1958
+Al Soueity	Sarah	20134103	Chekka	27/11/1968
+Sfeir	Peter	20136735	Naccache	15/9/1960
+Alkadri	Yasmine	20153681	Anfeh	26/6/1976
+Issa	Yasmine	20187679	Chekka	3/6/1949
+Abi Younes	Tonia	20174027	Jounieh	24/5/1973
+Matta	Peter	20146813	Amchit	30/11/1982
+Faour	Dennis	20131618	Zouk Mosbeh	17/3/1987
+Assaf	Mohamad	20131057	Anfeh	29/6/1947
+El Teress	Youmna	20163424	Dbayeh	12/11/1993
+Hachem	Joe	20137493	Selaata	21/4/1970
+Alkhuder	Mohamad	20155508	Batroun	6/2/1979
+Alkadri	Ramza	20174806	Dorms	30/8/1959
+Youssef	Joseph	20113000	Amchit	9/4/1975
+Rizk	Romy	20145545	Naccache	10/7/1990
+Zarifeh	Rimane	20120183	Tripoli	11/5/1965
+Assaf	Nour	20152520	Tripoli	10/1/1956
+Assaf	Ahed	20119944	Amchit	17/9/1978
+Assaf	Christopher	20138408	Dbayeh	6/1/1949
+Sfeir	Tonia	20110837	Zouk Mikael	11/12/1985
+Abi Chahine	Alexandro	20151565	Batroun	1/6/1949
+Anastasiou Bountoktzi	Ryan	20138207	Anfeh	11/8/1948
+Ishak	Maria	20137896	Dbayeh	24/6/1959
+Samarani	Marianne	20172214	Zouk Mosbeh	29/4/1987
+Medawar	Joseph	20161212	Blat	7/7/1987
+Youssef	Francesca	20158682	Anfeh	19/11/1962
+Faour	Leah	20187980	Naccache	28/11/1996
+Alkadri	Ryan	20170932	Dbayeh	4/12/1998
+Doumiati	Jean	20186947	Naccache	24/10/1992
+Abi Chahine	Dennis	20180230	Chekka	5/3/1997
+Elam	Youmna	20154936	Nahr Ibrahim	14/11/1985
+Rizk	Christopher	20162290	Byblos	30/7/1964
+El Teress	Dennis	20123439	Selaata	16/6/1945
+Slaiby	Louis	20153669	Zouk Mikael	28/6/1962
+Assaf	Louis	20129437	Anfeh	30/5/1975
+Haroun	Layla	20153638	Anfeh	22/1/1950
+El-Alam	Yasmine	20172403	Amchit	3/12/1953
+Rizk	Jad	20161990	Byblos	29/10/1955
+Abou Younes	Mohamad	20184476	Jounieh	19/10/1981
+Frem	Francesca	20170678	Dorms	6/4/1959
+Chayban	Youmna	20183352	Awkar	29/8/1959
+Hachem	Christopher	20181648	Zouk Mikael	11/12/1982
+Rizk	Tonia	20128225	Nahr Ibrahim	25/10/1997
+Doumiati	Peter	20148116	Zouk Mikael	28/9/1983
+Daher	Lamia	20166050	Nahr Ibrahim	5/10/1951
+Zeina	Farah	20148058	Anfeh	26/5/1955
+El Mouzawak	Rouba	20169246	Dorms	27/5/1950
+Alkhuder	Marilyne	20174143	Chekka	26/1/1982
+Abi Akl	Rouba	20182653	Chekka	22/10/1982
+Haroun	Leah	20122931	Batroun	16/7/1960
+Faour	Layla	20150091	Batroun	22/3/1961
+Yaacoub	Youmna	20175199	Dbayeh	2/7/1946
+Abou Younes	Maria	20121607	Zouk Mosbeh	22/9/1975
+Bou-Khalil	Yasmina	20163496	Batroun	12/4/1979
+Slaiby	Louis	20131526	Dbayeh	3/3/1980
+Slaiby	Christopher	20136869	Dbayeh	13/4/1985
+Elam	Ahed	20175496	Awkar	21/12/1959
+Al Hallak	Lea	20166573	Batroun	7/4/1952
+Alkhuder	Maria	20169451	Sahel Alma	17/4/1975
+Zarifeh	Yasmine	20181640	Tripoli	20/9/1968
+Chayban	Romy	20166080	Tripoli	22/1/1965
+Alkadri	Elisa	20116649	Awkar	2/7/1965
+Al Hallak	Alexandro	20143078	Chekka	25/3/1966
+Hachem	John	20122730	Chekka	4/12/1967
+Abi Younes	Dennis	20181053	Zouk Mosbeh	14/9/1965
+Sfeir	Joe	20162842	Jounieh	5/11/1958
+Medawar	Nour	20185158	Zouk Mikael	6/11/1974
+El Haddad	Mohamad	20116995	Naccache	31/11/1964
+Abi Younes	Francesca	20184454	Byblos	30/10/1959
+Abi Akl	Lea	20130727	Anfeh	11/2/1956
+Al Soueity	Jad	20149131	Amchit	26/4/1976
+Zeina	Romy	20147947	Batroun	11/8/1998
+Abi Akl	Layla	20166423	Sahel Alma	11/5/1946
+Samarani	Ahed	20120595	Byblos	8/3/1988
+Frem	Marianne	20171102	Naccache	3/4/1957
+Medawar	Leah	20148091	Byblos	30/12/1990
+Yaacoub	Romy	20123480	Chekka	19/9/1961
+Abou Younes	Dennis	20185884	Tripoli	4/8/1985
+Frem	Yasmina	20139008	Nahr Ibrahim	19/8/1976
+Samarani	Tony	20117313	Byblos	29/10/1966
+Alkhuder	Rouba	20180502	Amchit	12/9/1971
+El Teress	Mohamad	20159590	Blat	18/4/1974
+Youssef	Alexandro	20111869	Anfeh	9/1/1980
+Youssef	Romy	20142155	Nahr Ibrahim	23/12/1997
+Yaacoub	Sarah	20183715	Blat	12/11/1984
+Bou-Khalil	Elisa	20171787	Sahel Alma	25/10/1970
+Alkadri	Jean	20111764	Byblos	16/5/1981
+Youssef	Marilyne	20142732	Zouk Mikael	6/3/1984
+Haroun	Francesca	20127450	Blat	12/6/1971
+Anastasiou Bountoktzi	Sarah	20132048	Zouk Mikael	30/4/1959
+Bou-Khalil	Mohamad	20143676	Sahel Alma	19/11/1956
+Charbel	Elisa	20171960	Adma	21/1/1990
+Daher	Mohamad	20141060	Dorms	17/3/1984
+Al Rassi	Romy	20114110	Blat	25/12/1964
+Bou-Khalil	Jad	20126363	Blat	23/9/1982
+El Haddad	Yasmina	20149350	Selaata	30/6/1990
+Assaf	Gaelle	20156471	Chekka	30/11/1986
+El-Alam	Leah	20162256	Anfeh	4/8/1975
+El Mouzawak	Rimane	20130628	Chekka	9/2/1978
+Elam	Dennis	20128630	Blat	3/7/1965
+El Teress	Serena	20189647	Chekka	8/4/1995
+Al Soueity	Rouba	20153917	Chekka	15/12/1974
+Haroun	Farah	20140849	Selaata	22/6/1948
+Frem	Jad	20164982	Byblos	6/7/1962
+Haroun	Yasmine	20174911	Jounieh	9/9/1973
+Alkadri	Christopher	20130195	Dorms	28/8/1973
+El-Alam	Layla	20120965	Naccache	14/4/1983
+Zarifeh	Tony	20140197	Selaata	22/10/1973
+Samarani	Nour	20175090	Batroun	15/2/1983
+Abi Akl	Dennis	20154737	Anfeh	12/6/1948
+Daher	Yara	20117891	Dbayeh	27/10/1965
+Yaacoub	Tony	20129598	Jounieh	19/12/1964
+Kmeid	Mohamad	20177978	Zouk Mosbeh	20/6/1998
+Alkadri	Marianne	20123098	Dbayeh	26/7/1980
+Abi Chahine	Jean	20173226	Selaata	14/12/1970
+Kmeid	Tony	20153109	Selaata	28/7/1971
+Bou-Khalil	Tony	20116195	Dorms	21/4/1976
+Samarani	Peter	20139189	Jounieh	23/10/1985
+Anastasiou Bountoktzi	Yasmina	20121922	Byblos	25/3/1958
+Elam	Rimane	20170364	Selaata	8/10/1980
+Chayban	Tonia	20115543	Zouk Mosbeh	28/4/1945
+Bou-Khalil	Leah	20166236	Naccache	25/4/1960
+Samarani	Rouba	20133237	Dorms	14/5/1975
+Frem	Tony	20152559	Awkar	8/10/1981
+El Mouzawak	Jad	20131984	Jounieh	2/11/1988
+Abou Younes	Lea	20117195	Batroun	13/11/1995
+Samarani	Tony	20158827	Selaata	31/10/1948
+El Mouzawak	Tony	20178923	Dbayeh	14/8/1945
+El Teress	Serena	20147450	Nahr Ibrahim	16/4/1989
+Ishak	Yasmina	20134351	Nahr Ibrahim	27/7/1980
+Abou Younes	John	20185372	Batroun	16/9/1991
+El Haddad	Romy	20156194	Amchit	25/8/1968
+El Teress	Serena	20184574	Zouk Mosbeh	21/9/1990
+Anastasiou Bountoktzi	Dennis	20142639	Byblos	28/2/1964
+Anastasiou Bountoktzi	Rouba	20172219	Nahr Ibrahim	20/10/1952
+Matta	Tony	20172254	Naccache	19/4/1949
+Frem	Frederick	20166823	Zouk Mikael	2/5/1948
+Abi Chahine	Peter	20116200	Blat	31/4/1998
+Chayban	Sarah	20131079	Byblos	9/9/1965
+Abi Younes	Nour	20149615	Chekka	13/1/1999
+Matta	Lea	20171230	Anfeh	24/10/1999
+Faour	Joseph	20179854	Awkar	15/4/1954
+Matta	Gaelle	20139595	Tripoli	30/1/1996
+Frem	Rimane	20164131	Byblos	8/2/1998
+Bou-Khalil	Lea	20173511	Nahr Ibrahim	26/7/1967
+Samarani	Dennis	20148363	Naccache	29/6/1964
+Elam	Alexandro	20188791	Naccache	23/7/1949
+Doumiati	Jad	20183981	Zouk Mosbeh	18/6/1950
+Youssef	Maria	20187188	Dbayeh	23/12/1982
+El-Alam	Yara	20157503	Tripoli	13/12/1980
+Frem	Joe	20112809	Dbayeh	13/12/1964
+Issa	Frederick	20187563	Selaata	22/8/1981
+Assaf	Jean	20181156	Dbayeh	22/8/1957
+Sfeir	Alexandro	20121321	Blat	2/6/1966
+Abi Chahine	Joseph	20147494	Chekka	27/5/1991
+Abou Younes	Ramza	20113065	Chekka	21/6/1967
+El Haddad	Jean	20132652	Nahr Ibrahim	12/10/1965
+Hachem	Mohamad	20189935	Zouk Mikael	1/2/1989
+Haroun	Rimane	20141022	Zouk Mosbeh	2/3/1978
+Zarifeh	Ghady	20111056	Zouk Mikael	29/4/1962
+Bou-Khalil	Romy	20147673	Anfeh	26/10/1978
+Abi Chahine	Alexandro	20143162	Adma	3/9/1966
+Faour	Yasmine	20137214	Tripoli	1/3/1991
+Abi Akl	Nour	20121684	Tripoli	4/12/1950
+Daher	Joe	20143974	Blat	7/3/1978
+Ishak	Francesca	20182451	Zouk Mosbeh	7/12/1965
+Sfeir	Romy	20149964	Batroun	18/1/1992
+Hachem	Leah	20181616	Batroun	8/2/1986
+Abi Younes	Yara	20139054	Jounieh	9/7/1974
+Slaiby	Sarah	20160961	Adma	25/3/1972
+Sfeir	Sarah	20124980	Tripoli	6/6/1988
+Chayban	Joseph	20125025	Byblos	4/8/1994
+El Haddad	Lamia	20144623	Adma	26/4/1960
+Medawar	Gaelle	20143319	Nahr Ibrahim	1/11/1951
+Frem	Lamia	20185822	Adma	24/11/1995
+Samarani	Ramza	20115712	Selaata	12/8/1988
+Al Hallak	Dennis	20181560	Amchit	12/11/1994
+El Teress	Ahed	20116651	Adma	6/1/1986
+Rizk	Layla	20169525	Amchit	19/8/1961
+Kmeid	Rouba	20188165	Chekka	11/4/1965
+Matta	Yasmine	20182756	Naccache	27/4/1972
+Assaf	Mohamad	20111006	Byblos	18/5/1988
+Daher	Maria	20110560	Selaata	23/7/1968
+Alkadri	Alexandro	20116226	Amchit	15/7/1950
+Slaiby	Yasmine	20140448	Awkar	23/9/1971
+Charbel	Rimane	20180041	Batroun	1/6/1969
+Bou-Khalil	Tony	20175570	Tripoli	11/7/1969
+Anastasiou Bountoktzi	Joseph	20180905	Adma	7/7/1990
+Abi Chahine	Yasmina	20149781	Chekka	19/10/1964
+Alkhuder	Lamia	20112385	Batroun	12/5/1988
+Abi Younes	Joe	20143021	Tripoli	5/4/1981
+Medawar	Maria	20162954	Nahr Ibrahim	27/8/1970
+Samarani	Lamia	20141929	Amchit	21/12/1987
+Zeina	Joseph	20116219	Adma	31/10/1974
+Doumiati	Louis	20142710	Tripoli	26/6/1973
+Abi Akl	Ahed	20118296	Awkar	12/10/1978
+Alkadri	Marilyne	20170250	Batroun	15/11/1969
+Youssef	Yara	20179098	Sahel Alma	7/8/1969
+Samarani	Yara	20151614	Naccache	30/4/1950
+Zeina	Tonia	20119783	Naccache	15/11/1963
+Chayban	Jad	20127763	Naccache	31/11/1961
+Samarani	Rouba	20176688	Dbayeh	21/8/2000
+Medawar	Joseph	20154629	Zouk Mosbeh	22/10/1986
+Ishak	Elisa	20122705	Dbayeh	11/5/1971
+Daher	Yara	20166610	Jounieh	15/3/1993
+Al Rassi	Tonia	20123788	Blat	29/4/1997
+Charbel	Leah	20179775	Zouk Mosbeh	24/8/1957
+Matta	Jad	20156826	Dorms	19/2/1996
+El Teress	Rouba	20118140	Zouk Mosbeh	14/1/1963
+Frem	Farah	20128509	Amchit	20/1/2000
+Assaf	Tony	20131298	Tripoli	20/2/1995
+Doumiati	Gaelle	20157111	Nahr Ibrahim	19/2/1992
+Hachem	Joseph	20135170	Jounieh	1/1/1995
+El-Alam	Gaelle	20161258	Dorms	1/3/1978
+Alkadri	Romy	20164630	Sahel Alma	3/7/1953
+Frem	Marianne	20123503	Amchit	27/10/1985
+Abi Younes	Tony	20181370	Adma	29/10/1998
+Issa	Mohamad	20111054	Zouk Mosbeh	24/3/1968
+Anastasiou Bountoktzi	Leah	20151960	Blat	11/6/1976
+Abi Akl	Tonia	20166239	Dorms	7/1/1971
+Abi Younes	John	20166397	Dbayeh	6/4/1995
+El Teress	Tony	20150486	Naccache	8/12/1989
+Zarifeh	Lea	20119540	Anfeh	1/5/1999
+Youssef	Ramza	20163278	Blat	31/6/1953
+Zarifeh	Leah	20181190	Amchit	5/6/1961
+Ishak	Serena	20186681	Amchit	10/8/1977
+Sfeir	Youmna	20169884	Dbayeh	18/6/1960
+Abi Chahine	Ahed	20182576	Dbayeh	10/2/1963
+Yaacoub	Ramza	20152779	Byblos	7/8/1993
+Abi Chahine	Frederick	20158645	Anfeh	17/3/1960
+Yaacoub	Joe	20139330	Byblos	25/10/1960
+Abou Younes	Nour	20189317	Zouk Mosbeh	23/10/1970
+Alkadri	Lea	20131918	Byblos	1/9/1999
+Faour	Frederick	20180847	Zouk Mosbeh	5/2/1974
+Assaf	Francesca	20118896	Amchit	22/8/1979
+Alkhuder	Joseph	20141015	Zouk Mikael	23/6/1992
+Zeina	Christopher	20157629	Amchit	13/1/1978
+Anastasiou Bountoktzi	Joseph	20114090	Dorms	23/2/1975
+Zarifeh	Gaelle	20173693	Adma	24/9/1960
+Ishak	Yasmine	20141236	Jounieh	29/6/1965
+Ishak	Rimane	20137903	Awkar	13/3/1985
+Sfeir	Yasmine	20181083	Adma	14/3/1957
+Abi Younes	Ahed	20110833	Dbayeh	21/1/1957
+Medawar	Yara	20133420	Zouk Mosbeh	1/11/1983
+Ishak	Gaelle	20149150	Batroun	21/11/1980
+Al Soueity	Frederick	20136686	Byblos	5/2/1966
+Al Soueity	Mohamad	20110747	Dorms	28/1/1981
+Daher	Jean	20181178	Dbayeh	8/10/1957
+Daher	Jad	20166221	Blat	31/11/1970
+Doumiati	Peter	20171493	Awkar	26/12/1975
+Yaacoub	Tony	20120016	Zouk Mosbeh	6/1/1954
+Haroun	Jean	20125131	Zouk Mikael	7/8/1984
+Faour	Serena	20147825	Adma	6/2/1982
+Sfeir	Lamia	20116028	Naccache	1/12/1986
+Ghamrawi	Francesca	20127174	Zouk Mosbeh	18/8/1965
+Frem	Jad	20136146	Byblos	19/6/1989
+Frem	Marilyne	20178407	Adma	17/11/1959
+Daher	Sarah	20154064	Byblos	1/7/1945
+Elam	Joe	20153073	Chekka	11/10/1958
+Alkadri	Dennis	20138902	Jounieh	17/1/1970
+Al Rassi	Yara	20150874	Chekka	31/8/1993
+Chayban	Rimane	20165615	Sahel Alma	29/11/1953
+Medawar	Joseph	20161700	Chekka	13/5/1987
+Al Rassi	Joe	20155114	Anfeh	30/7/1971
+Sfeir	Francesca	20172994	Naccache	8/5/1968
+Sfeir	Nour	20188390	Naccache	14/10/1998
+Doumiati	Marianne	20122937	Amchit	30/4/1991
+Al Rassi	Yara	20117691	Batroun	6/3/1962
+El-Alam	Yara	20188033	Zouk Mosbeh	10/11/1972
+Medawar	Marianne	20162623	Dorms	21/2/1945
+Assaf	Ahed	20143624	Dbayeh	28/11/1946
+Issa	Peter	20177462	Nahr Ibrahim	14/12/1960
+Haroun	Ryan	20128548	Amchit	27/8/1988
+Chayban	Youmna	20168426	Dbayeh	29/9/1975
+Frem	Sarah	20127622	Zouk Mosbeh	31/12/1976
+Sfeir	Nour	20113584	Byblos	4/1/1955
+Doumiati	Joe	20169174	Zouk Mikael	16/1/1957
+Al Rassi	Jean	20157204	Selaata	19/5/1992
+El-Alam	Francesca	20167438	Tripoli	17/5/1999
+Assaf	Gaelle	20157908	Adma	8/4/1959
+Ghamrawi	Lea	20155859	Anfeh	20/7/1946
+Medawar	Ramza	20126077	Chekka	21/8/1969
+Sfeir	Joseph	20111927	Zouk Mosbeh	13/9/1962
+Slaiby	Tonia	20121360	Byblos	30/9/1972
+El Mouzawak	Serena	20166136	Dorms	1/2/1967
+Daher	Christopher	20168212	Dorms	28/2/1997
+Kmeid	Christopher	20171685	Zouk Mosbeh	29/5/1963
+Ishak	Mohamad	20130810	Tripoli	25/11/1996
+Faour	Dennis	20163968	Sahel Alma	31/1/1957
+Charbel	Marilyne	20128264	Dbayeh	28/7/1956
+El Mouzawak	John	20124634	Naccache	9/5/1987
+Elam	Rimane	20146913	Awkar	21/8/1948
+Hachem	Lamia	20124919	Nahr Ibrahim	21/12/1981
+Samarani	Marianne	20184990	Dbayeh	6/9/1990
+Zarifeh	Joseph	20139901	Zouk Mikael	2/11/1961
+Abou Younes	Tonia	20125555	Sahel Alma	18/1/1963
+Haroun	Layla	20178690	Adma	4/12/1948
+Frem	Rimane	20138801	Selaata	25/3/1988
+Medawar	John	20144168	Dorms	1/1/1952
+Zarifeh	Farah	20185397	Nahr Ibrahim	10/5/1977
+Medawar	Layla	20165319	Byblos	8/1/1961
+Abi Akl	Francesca	20149699	Jounieh	18/5/1956
+Rizk	Alexandro	20168406	Nahr Ibrahim	1/9/1990
+Al Rassi	Jad	20186658	Dbayeh	14/8/1967
+Ghamrawi	Elisa	20139459	Selaata	30/10/1960
+Medawar	Marilyne	20178917	Byblos	3/11/1992
+Anastasiou Bountoktzi	Layla	20157687	Sahel Alma	22/9/1977
+Al Hallak	Farah	20122020	Selaata	23/1/1986
+Zarifeh	Jean	20154830	Anfeh	26/1/1999
+Issa	Mohamad	20116668	Tripoli	1/11/1980
+Abi Chahine	Joe	20114083	Zouk Mosbeh	28/2/1972
+El-Alam	Yasmina	20184614	Zouk Mosbeh	4/4/1983
+Al Hallak	Rouba	20126686	Jounieh	27/6/1956
+Faour	Lea	20142515	Sahel Alma	14/11/1993
+Matta	Maria	20118945	Sahel Alma	29/3/1999
+El Teress	Ramza	20152055	Jounieh	19/3/1999
+El Mouzawak	Elisa	20186039	Byblos	22/11/1952
+Slaiby	Alexandro	20150399	Zouk Mosbeh	7/9/1989
+Youssef	John	20134046	Chekka	10/12/1951
+Abi Akl	Romy	20126967	Chekka	19/8/1989
+El-Alam	Jean	20183936	Jounieh	1/1/1949
+Abi Chahine	Gaelle	20184463	Nahr Ibrahim	31/11/1995
+Kmeid	Maria	20153925	Selaata	23/2/1949
+Kmeid	Francesca	20111589	Sahel Alma	22/9/1946
+Bou-Khalil	Gaelle	20177401	Adma	17/5/1977
+Al Rassi	Farah	20165429	Sahel Alma	8/8/1989
+Abi Chahine	Sarah	20137139	Byblos	21/3/1993
+Ishak	John	20147656	Anfeh	13/6/1982
+Frem	Tonia	20119246	Awkar	28/11/1970
+Doumiati	Elisa	20180010	Jounieh	11/3/1993
+Chayban	Serena	20120050	Batroun	15/5/1963
+Zarifeh	Peter	20180663	Selaata	29/7/1975
+Chayban	Serena	20146108	Naccache	8/9/1975
+Abi Younes	Dennis	20158634	Byblos	25/11/1996
+Alkhuder	Rimane	20157900	Zouk Mikael	15/12/1956
+Doumiati	Francesca	20169753	Naccache	30/9/1953
+Youssef	Yasmina	20118566	Tripoli	9/4/1964
+Al Rassi	Louis	20186594	Awkar	31/1/1962
+Assaf	Marilyne	20154534	Naccache	10/8/1976
+Anastasiou Bountoktzi	Jean	20123841	Sahel Alma	11/7/1960
+Frem	Rimane	20119427	Zouk Mosbeh	20/10/1984
+Abi Younes	Elisa	20156775	Awkar	18/5/1969
+Sfeir	Yasmine	20131217	Blat	2/9/1991
+El-Alam	Nour	20183420	Zouk Mikael	3/9/1961
+Issa	Mohamad	20146478	Byblos	1/12/1969
+Chayban	Frederick	20177741	Batroun	8/5/1986
+Kmeid	Francesca	20153870	Awkar	25/9/2000
+Frem	Elisa	20189187	Zouk Mosbeh	12/8/1968
+El Haddad	Gaelle	20122613	Blat	22/3/1954
+Doumiati	Rimane	20137518	Dorms	20/6/1963
+Elam	Ghady	20151403	Batroun	17/12/1997
+El-Alam	Maria	20123708	Nahr Ibrahim	24/7/1954
+Assaf	Rouba	20152710	Selaata	29/2/1954
+Sfeir	Yara	20172449	Zouk Mosbeh	2/4/1962
+Frem	Layla	20181308	Adma	11/10/1999
+Alkadri	Tony	20131735	Adma	3/1/1993
+Chayban	Leah	20167940	Naccache	17/11/1960
+Alkhuder	Joseph	20125391	Zouk Mikael	1/9/1995
+Daher	Yasmina	20172807	Dorms	12/1/1990
+Matta	Youmna	20153201	Zouk Mikael	16/3/1948
+Assaf	Lea	20115627	Adma	2/11/1989
+Haroun	Tonia	20114112	Amchit	22/12/1991
+Yaacoub	Nour	20168000	Selaata	19/12/1951
+Alkhuder	Jean	20112750	Sahel Alma	24/9/1978
+Frem	Ryan	20168313	Awkar	3/11/1964
+Matta	Marilyne	20164849	Anfeh	2/5/1987
+Doumiati	Sarah	20110196	Batroun	30/8/1969
+Kmeid	Joe	20175535	Chekka	11/3/1947
+El Teress	Yara	20156947	Dorms	21/4/1998
+Youssef	Gaelle	20123227	Naccache	7/4/1949
+El-Alam	Dennis	20153574	Amchit	30/3/1976
+Rizk	Elisa	20177137	Dbayeh	4/12/1987
+Yaacoub	Lamia	20141509	Zouk Mosbeh	19/2/1977
+Chayban	Jean	20146963	Zouk Mosbeh	12/5/1981
+Bou-Khalil	Jad	20133635	Naccache	26/2/1963
+Hachem	Jad	20112268	Naccache	9/1/1953
+Chayban	Leah	20169177	Selaata	11/12/1995
+El Mouzawak	Nour	20121763	Zouk Mikael	20/5/1962
+Doumiati	Maria	20115697	Dorms	21/6/1968
+Haroun	Sarah	20187826	Chekka	29/12/1985
+Assaf	Peter	20141207	Tripoli	26/3/1985
+Daher	Jean	20149224	Dbayeh	20/3/1985
+Abi Akl	Sarah	20129767	Byblos	24/11/1998
+Frem	Ryan	20121617	Dbayeh	25/5/2000
+Zeina	Jad	20111479	Byblos	8/12/1979
+Frem	Louis	20170377	Zouk Mikael	31/12/1993
+Samarani	Farah	20180848	Sahel Alma	26/12/1975
+Slaiby	Ryan	20111814	Selaata	12/7/1977
+El-Alam	Farah	20189911	Byblos	7/11/1962
+Abi Chahine	Yara	20120087	Zouk Mikael	20/4/1946
+Youssef	Francesca	20140909	Zouk Mosbeh	30/10/1988
+El Haddad	Ghady	20138905	Tripoli	19/9/1966
+Zeina	Sarah	20157886	Batroun	20/1/1961
+Abi Chahine	Yara	20178208	Sahel Alma	11/1/1969
+Hachem	Serena	20140722	Byblos	8/1/1950
+Chayban	Yara	20129853	Byblos	22/12/1991
+Al Soueity	Lamia	20179579	Sahel Alma	18/8/1986
+El-Alam	Layla	20166303	Awkar	28/7/1956
+Abi Chahine	Ghady	20121483	Byblos	12/12/1977
+Youssef	Layla	20129196	Awkar	6/10/1949
+El Mouzawak	Francesca	20180226	Tripoli	28/2/1970
+Charbel	Romy	20123814	Jounieh	20/1/1977
+Samarani	Lea	20176866	Zouk Mosbeh	18/2/1948
+Matta	Lea	20156573	Dorms	24/2/1979
+Hachem	Ghady	20188900	Adma	17/6/1991
+Kmeid	Ahed	20163311	Anfeh	28/9/1983
+Alkhuder	Jad	20162602	Dbayeh	23/3/1963
+Abi Chahine	Romy	20170092	Nahr Ibrahim	30/10/1991
+El Haddad	Mohamad	20119597	Batroun	10/2/1964
+Faour	Mohamad	20165581	Adma	23/7/1954
+Al Rassi	Tony	20181829	Dorms	9/6/1949
+Medawar	Farah	20160848	Naccache	25/11/1948
+Elam	Joseph	20166240	Dbayeh	17/7/1948
+Zarifeh	Elisa	20129066	Amchit	31/2/1985
+El Mouzawak	Joseph	20187517	Anfeh	21/4/1965
+El Haddad	Francesca	20180911	Adma	7/10/1963
+Ishak	Marianne	20181358	Adma	9/12/1991
+El Haddad	Yasmine	20165099	Nahr Ibrahim	25/4/1983
+Doumiati	Yasmina	20189222	Blat	3/11/1973
+Zeina	Jad	20123148	Naccache	26/10/1983
+Bou-Khalil	Maria	20144494	Dorms	18/3/1964
+Doumiati	Nour	20158963	Dbayeh	8/7/1976
+El Mouzawak	Yara	20183307	Zouk Mikael	20/8/1965
+Kmeid	Peter	20172182	Dorms	4/1/1957
+Kmeid	Nour	20127636	Zouk Mosbeh	10/4/1988
+Frem	Lamia	20146169	Sahel Alma	28/7/1957
+El-Alam	Lamia	20128778	Sahel Alma	21/2/1989
+Hachem	Layla	20155612	Nahr Ibrahim	19/9/1991
+Youssef	Francesca	20137667	Jounieh	9/3/1973
+Chayban	Youmna	20186037	Blat	22/8/1963
+Ishak	Leah	20122265	Chekka	29/12/1977
+Al Soueity	Ramza	20134269	Nahr Ibrahim	4/7/1954
+Medawar	Layla	20175480	Zouk Mosbeh	5/2/1957
+Al Rassi	Maria	20173402	Sahel Alma	17/9/1952
+Daher	Nour	20165592	Nahr Ibrahim	14/1/1976
+Ghamrawi	Christopher	20166697	Selaata	21/3/1983
+Frem	Romy	20153930	Amchit	7/8/1954
+Assaf	Yara	20148322	Blat	6/4/1967
+Haroun	Marilyne	20147581	Nahr Ibrahim	10/1/1998
+Abi Akl	Marianne	20133448	Zouk Mosbeh	31/9/1962
+Faour	Farah	20150227	Adma	22/5/1989
+Rizk	Tonia	20117261	Batroun	10/5/1992
+Frem	Alexandro	20144289	Adma	18/9/1952
+Yaacoub	Jean	20157301	Blat	7/9/1996
+Doumiati	Serena	20130302	Tripoli	1/3/1996
+Abi Chahine	Ghady	20149154	Jounieh	22/11/1985
+Doumiati	Maria	20132325	Naccache	1/2/1955
+Haroun	Dennis	20118674	Dbayeh	11/7/1945
+Abi Chahine	Tonia	20138619	Jounieh	31/9/1961
+Daher	Ryan	20166478	Dorms	12/3/1963
+Doumiati	Peter	20148484	Blat	26/5/1948
+El-Alam	Sarah	20159532	Byblos	22/7/1958
+Zarifeh	Christopher	20132689	Byblos	15/11/1953
+Medawar	Yasmine	20180238	Batroun	20/1/1986
+Abi Younes	Maria	20166806	Dorms	2/5/1949
+Alkadri	Rimane	20151516	Zouk Mosbeh	11/4/1982
+Alkhuder	Ghady	20123235	Selaata	18/4/1955
+Abou Younes	Yara	20118664	Amchit	5/7/1963
+Al Soueity	Christopher	20113146	Naccache	16/5/1961
+Slaiby	Layla	20160280	Anfeh	3/10/1956
+Abou Younes	Tonia	20164936	Byblos	18/3/1963
+Al Hallak	Ahed	20159301	Awkar	20/7/1984
+El Haddad	Francesca	20162597	Nahr Ibrahim	20/3/1959
+Faour	Layla	20156744	Awkar	6/12/1969
+Frem	Ghady	20144272	Chekka	25/6/1953
+Al Soueity	Lea	20178055	Awkar	20/1/1974
+Samarani	Alexandro	20146160	Blat	18/7/1982
+Charbel	Lamia	20186687	Zouk Mosbeh	15/6/1946
+Assaf	Joseph	20157626	Sahel Alma	19/1/1954
+Abi Chahine	Leah	20152218	Jounieh	18/12/1984
+Sfeir	Marianne	20158415	Anfeh	30/7/1980
+Al Soueity	Yasmine	20128977	Byblos	29/4/1954
+Assaf	Frederick	20178424	Blat	18/8/1950
+Alkadri	Lea	20161230	Amchit	12/6/1966
+Frem	Tonia	20115714	Selaata	8/4/1987
+Samarani	Christopher	20113969	Sahel Alma	29/11/1988
+Abou Younes	Ryan	20158774	Awkar	1/6/1990
+Abi Akl	Ahed	20165649	Amchit	29/10/1979
+Abi Younes	Francesca	20165202	Sahel Alma	20/1/1983
+Frem	Yara	20157841	Jounieh	31/11/1973
+Doumiati	Louis	20149420	Amchit	14/6/1981
+Faour	Dennis	20118045	Batroun	1/5/1989
+Sfeir	Joe	20153521	Blat	10/6/1962
+El-Alam	Tony	20147813	Amchit	29/4/1950
+Elam	Gaelle	20180445	Byblos	2/3/1970
+El Mouzawak	Jad	20189883	Anfeh	18/1/1975
+Abou Younes	Joseph	20140829	Nahr Ibrahim	14/1/1963
+Frem	Jad	20188644	Sahel Alma	13/9/1972
+Yaacoub	Louis	20189142	Selaata	30/1/1959
+Frem	Sarah	20176628	Chekka	30/3/2000
+Youssef	Tony	20183114	Batroun	12/9/1967
+Hachem	Francesca	20182153	Nahr Ibrahim	26/12/1979
+Chayban	Marianne	20182154	Anfeh	15/11/1998
+Al Rassi	Marilyne	20169600	Jounieh	31/4/1994
+Sfeir	Elisa	20129235	Selaata	4/10/1989
+Matta	Ahed	20127029	Naccache	15/1/1990
+Abi Akl	Rouba	20123146	Awkar	2/7/1985
+Doumiati	Frederick	20180723	Naccache	24/8/1984
+Abou Younes	Joe	20170280	Chekka	7/2/1950
+El Mouzawak	Joseph	20171389	Tripoli	30/10/1989
+Haroun	Ryan	20131356	Sahel Alma	24/2/1948
+Alkhuder	Alexandro	20168386	Zouk Mosbeh	26/6/1975
+Hachem	Yara	20181843	Batroun	27/2/1974
+Haroun	Elisa	20116322	Batroun	15/2/1961
+Yaacoub	Tonia	20160574	Batroun	25/4/1965
+Anastasiou Bountoktzi	Yara	20114309	Nahr Ibrahim	10/1/1968
+Yaacoub	Joseph	20143585	Dorms	22/7/1948
+Issa	Yasmine	20142897	Dorms	31/4/1966
+El-Alam	Ahed	20155952	Naccache	18/4/1961
+Youssef	Lea	20144005	Jounieh	4/8/1956
+Frem	Louis	20187820	Zouk Mosbeh	27/9/1990
+Slaiby	Rimane	20132541	Dbayeh	5/7/1953
+Anastasiou Bountoktzi	Tony	20186964	Blat	5/9/1964
+Al Rassi	John	20146886	Zouk Mikael	26/6/1972
+Issa	Frederick	20147395	Nahr Ibrahim	8/5/1992
+Elam	Youmna	20130920	Dorms	10/7/1970
+El Teress	Gaelle	20160296	Chekka	4/3/1998
+Doumiati	Ghady	20113811	Amchit	15/8/1977
+Abi Chahine	Layla	20163709	Tripoli	13/12/1950
+Matta	Yara	20188113	Nahr Ibrahim	26/9/1946
+Charbel	Romy	20170763	Sahel Alma	13/4/1973
+Bou-Khalil	Marianne	20178822	Zouk Mikael	27/11/1977
+Ishak	Louis	20145861	Batroun	27/11/1960
+Samarani	Joseph	20145319	Byblos	17/10/1983
+Frem	Francesca	20186520	Adma	26/11/1951
+Elam	Yara	20168539	Jounieh	23/5/1955
+Slaiby	Francesca	20165161	Adma	23/9/1993
+El-Alam	Farah	20120060	Naccache	7/11/1968
+El-Alam	Romy	20116100	Anfeh	3/2/1953
+Zeina	Peter	20145830	Adma	25/4/1953
+Matta	Rouba	20184986	Amchit	10/9/1964
+Hachem	Layla	20115455	Awkar	7/5/1954
+Charbel	Christopher	20149170	Nahr Ibrahim	27/4/1964
+Doumiati	Gaelle	20141764	Anfeh	13/4/1984
+Medawar	Peter	20135803	Naccache	8/1/1962
+Abi Akl	Jad	20145609	Adma	9/3/1980
+Al Soueity	Francesca	20171527	Zouk Mosbeh	22/8/1965
+Matta	Yasmine	20160396	Awkar	7/11/1953
+El Mouzawak	Ahed	20121425	Anfeh	19/2/1973
+Youssef	Youmna	20171438	Dbayeh	25/12/1962
+Bou-Khalil	Yasmine	20120404	Byblos	30/8/1966
+Issa	Mohamad	20156591	Sahel Alma	17/10/1965
+Al Hallak	Mohamad	20152253	Dorms	30/9/1975
+Ishak	Ahed	20143692	Byblos	7/9/1976
+Frem	Peter	20183540	Selaata	7/1/1996
+Hachem	Francesca	20147576	Tripoli	8/4/1981
+Zeina	Peter	20187405	Nahr Ibrahim	22/9/1967
+Alkadri	Lea	20163252	Chekka	12/5/1971
+Assaf	Tony	20176967	Sahel Alma	25/4/1977
+Sfeir	Yara	20154353	Amchit	15/5/1987
+El Mouzawak	Dennis	20171360	Byblos	15/10/1950
+Frem	Jean	20110978	Adma	15/12/1959
+Alkhuder	Jean	20130028	Naccache	4/10/1985
+Youssef	Romy	20145768	Awkar	31/10/1965
+Al Hallak	Leah	20155517	Naccache	28/11/1957
+Zarifeh	Frederick	20144094	Naccache	20/6/1993
+Hachem	Christopher	20117483	Anfeh	26/4/1978
+Zeina	Rouba	20170750	Blat	22/7/1957
+Youssef	Jean	20115826	Selaata	2/2/1990
+Abi Younes	Rimane	20179099	Dorms	24/12/1987
+El Teress	Christopher	20133084	Naccache	27/11/1989
+Charbel	Frederick	20185313	Chekka	13/10/1983
+Alkadri	Alexandro	20173245	Dbayeh	9/6/1950
+Alkadri	Nour	20137460	Awkar	6/7/1992
+Issa	Leah	20128130	Nahr Ibrahim	19/6/1946
+Doumiati	Youmna	20123931	Tripoli	7/10/1971
+Kmeid	Yasmine	20178695	Adma	24/3/1994
+Al Rassi	Joe	20184503	Nahr Ibrahim	4/10/1989
+Daher	Maria	20184210	Blat	24/3/1991
+Abou Younes	Jean	20114596	Selaata	9/11/1953
+Youssef	Ryan	20127377	Zouk Mikael	9/2/1956
+Al Hallak	Yara	20112644	Anfeh	19/3/1958
+Samarani	Christopher	20151939	Naccache	17/4/1981
+Charbel	Yasmina	20180930	Chekka	29/6/1965
+Abi Younes	John	20174048	Zouk Mikael	12/10/1966
+Al Rassi	Rouba	20155217	Blat	29/6/1990
+Faour	Lamia	20158657	Blat	30/12/1985
+Abi Younes	Nour	20128310	Chekka	20/5/1973
+Slaiby	Joe	20164381	Adma	28/4/1965
+Frem	Ghady	20114449	Chekka	1/10/1952
+Zeina	Joe	20117240	Jounieh	25/2/1971
+El Mouzawak	Serena	20116377	Amchit	22/2/1972
+Rizk	Ghady	20153103	Sahel Alma	26/12/1959
+Elam	Ryan	20154007	Dbayeh	13/6/1973
+Abi Younes	Rimane	20139687	Tripoli	8/12/1997
+Medawar	Tony	20161460	Sahel Alma	4/10/1950
+Alkhuder	Francesca	20111399	Sahel Alma	3/8/1979
+Zeina	Joseph	20139596	Naccache	12/1/1965
+Yaacoub	Nour	20184729	Sahel Alma	18/4/1979
+Charbel	Gaelle	20186127	Anfeh	28/10/1969
+Samarani	Rimane	20128296	Nahr Ibrahim	11/9/1949
+Charbel	Marilyne	20183600	Zouk Mikael	23/9/1983
+Assaf	Peter	20110778	Adma	16/9/1970
+Abi Akl	Jean	20132491	Naccache	2/4/1974
+Alkadri	Rouba	20142365	Sahel Alma	21/4/1991
+Elam	Marilyne	20111989	Naccache	26/8/1977
+Al Soueity	Joe	20141788	Nahr Ibrahim	25/11/1950
+Al Rassi	Francesca	20170324	Blat	10/11/1971
+El Haddad	Ahed	20180128	Chekka	19/6/1973
+El-Alam	Christopher	20142218	Zouk Mosbeh	27/7/1990
+Alkadri	Ahed	20116690	Sahel Alma	21/6/1975
+Yaacoub	Gaelle	20159347	Anfeh	9/6/1990
+El Teress	Alexandro	20171302	Batroun	29/10/1959
+Abi Chahine	Tony	20183511	Jounieh	3/5/1949
+Rizk	Farah	20112247	Dbayeh	31/7/1950
+Assaf	Gaelle	20152242	Byblos	26/12/1979
+Rizk	Marilyne	20113935	Zouk Mosbeh	27/12/1988
+Zarifeh	Marianne	20174264	Naccache	22/7/1964
+Yaacoub	Joe	20119017	Nahr Ibrahim	14/8/1973
+Sfeir	Nour	20128544	Anfeh	13/8/1958
+Slaiby	Gaelle	20116290	Adma	27/11/1994
+Medawar	Yara	20181101	Dorms	5/3/1996
+Matta	Gaelle	20125047	Zouk Mikael	16/3/1981
+Abou Younes	Yara	20160187	Selaata	21/12/2000
+Al Soueity	Lamia	20178111	Blat	28/9/1999
+Frem	Alexandro	20150676	Jounieh	8/6/1987
+Anastasiou Bountoktzi	Yara	20155645	Dbayeh	10/8/1990
+El-Alam	Ahed	20152497	Naccache	17/5/1949
+Alkadri	Louis	20189314	Selaata	25/5/1953
+El-Alam	Farah	20135100	Zouk Mosbeh	6/12/1979
+Youssef	Ghady	20136383	Sahel Alma	24/10/1979
+Daher	Gaelle	20170091	Chekka	5/1/1952
+Haroun	Sarah	20161381	Adma	14/9/1954
+Frem	Dennis	20149734	Adma	15/8/1968
+Alkhuder	Marilyne	20186831	Sahel Alma	19/9/1969
+Matta	Dennis	20173735	Batroun	18/2/1990
+Abi Akl	Rimane	20155346	Selaata	6/2/1978
+Zeina	Gaelle	20179750	Adma	24/5/1992
+Faour	Joseph	20172070	Amchit	29/1/1958
+Ishak	Yasmine	20156651	Jounieh	8/1/1975
+Charbel	Youmna	20134713	Zouk Mikael	14/3/1990
+Chayban	Jad	20151499	Jounieh	30/11/1995
+Haroun	Serena	20159659	Jounieh	22/2/1989
+Frem	Dennis	20130516	Zouk Mosbeh	10/3/1988
+El-Alam	Romy	20178487	Dorms	21/5/1965
+Abi Chahine	Farah	20122753	Dorms	25/9/1996
+Al Soueity	Dennis	20177555	Dbayeh	30/10/1950
+Medawar	Lamia	20112175	Chekka	26/11/1988
+Slaiby	Lamia	20132708	Blat	16/5/1988
+Al Hallak	Rimane	20178665	Blat	27/10/1963
+Al Soueity	Alexandro	20156553	Anfeh	17/2/1969
+Al Hallak	Farah	20161706	Zouk Mosbeh	18/11/1952
+El Haddad	Tony	20110659	Nahr Ibrahim	19/1/1956
+Abi Akl	Joseph	20130004	Amchit	15/9/1951
+Rizk	John	20135506	Chekka	1/3/1999
+Ghamrawi	Tonia	20139783	Batroun	2/11/1955
+Rizk	Tony	20110633	Adma	11/9/1955
+Abi Chahine	John	20180749	Zouk Mosbeh	25/5/1993
+Kmeid	Alexandro	20133061	Chekka	20/6/1951
+Ghamrawi	Ahed	20118291	Amchit	26/7/1999
+Elam	Sarah	20114263	Zouk Mosbeh	28/6/1977
+Al Rassi	Alexandro	20185785	Awkar	1/1/1987
+Bou-Khalil	Joe	20147965	Naccache	10/1/1967
+Assaf	Farah	20186698	Adma	24/12/1981
+Al Hallak	Rouba	20149382	Naccache	24/12/1955
+Yaacoub	Francesca	20145935	Jounieh	16/10/1964
+Frem	Lamia	20164672	Selaata	7/11/1991
+El-Alam	Yara	20160664	Anfeh	25/2/1945
+Samarani	Yasmina	20168755	Dbayeh	29/4/1971
+Abi Chahine	Yara	20129355	Zouk Mosbeh	15/1/1995
+Abi Younes	Farah	20143173	Batroun	10/6/1990
+Abi Chahine	Francesca	20126307	Naccache	27/7/1959
+Faour	Yasmine	20128333	Adma	22/4/1959
+Youssef	Gaelle	20177683	Zouk Mosbeh	3/9/1967
+Daher	Frederick	20186484	Chekka	16/12/1948
+Matta	Serena	20121006	Chekka	20/5/1962
+Youssef	Yasmina	20151705	Dorms	16/4/1975
+Alkadri	Lea	20164650	Naccache	12/3/1988
+Chayban	Jad	20146140	Dbayeh	24/9/1968
+Ishak	Yasmina	20130839	Anfeh	11/5/1996
+Alkhuder	Nour	20155444	Amchit	17/11/1990
+Ishak	Alexandro	20187107	Sahel Alma	23/2/1957
+Sfeir	Ramza	20155162	Dbayeh	10/8/1971
+Assaf	Serena	20116899	Adma	6/4/1948
+Abou Younes	Marianne	20133848	Naccache	23/2/1946
+Zarifeh	Tonia	20137987	Jounieh	17/4/1959
+Medawar	Peter	20125886	Dbayeh	5/1/1949
+Doumiati	Alexandro	20188927	Adma	19/4/1996
+Faour	Ryan	20165329	Adma	30/10/1959
+Yaacoub	Layla	20128884	Adma	24/8/1981
+Alkadri	Romy	20144037	Zouk Mosbeh	10/4/1953
+Al Rassi	Marianne	20121540	Tripoli	14/11/1998
+Hachem	Dennis	20157755	Naccache	9/10/1981
+Abi Akl	Leah	20174889	Naccache	7/8/1951
+Frem	Dennis	20127401	Zouk Mikael	31/9/1956
+Assaf	Yasmine	20157292	Amchit	17/5/1956
+Elam	Tony	20138388	Byblos	8/10/1958
+Abou Younes	Nour	20160589	Dorms	12/7/1954
+Rizk	Leah	20139394	Sahel Alma	20/7/1972
+Abi Akl	Romy	20187182	Chekka	7/1/1952
+Youssef	Lamia	20122960	Sahel Alma	1/3/1967
+Ishak	Mohamad	20170730	Adma	18/9/1986
+Hachem	Romy	20186287	Dbayeh	24/7/1987
+El Teress	Jad	20155214	Nahr Ibrahim	10/6/1952
+Al Soueity	Tony	20118852	Tripoli	12/12/1949
+El-Alam	John	20174089	Batroun	2/12/1988
+Abi Akl	Romy	20157388	Naccache	2/7/1969
+Hachem	Leah	20188456	Dbayeh	5/12/1982
+Al Rassi	Marilyne	20124450	Zouk Mikael	6/6/1994
+Al Hallak	Francesca	20172160	Byblos	12/10/1961
+Charbel	Romy	20169340	Batroun	3/10/1975
+Al Hallak	Yasmine	20134021	Chekka	28/3/1989
+Issa	Yasmina	20121436	Adma	11/3/1976
+Sfeir	Elisa	20148664	Nahr Ibrahim	22/2/1959
+Charbel	Ahed	20122396	Byblos	9/10/1969
+Kmeid	Elisa	20174122	Zouk Mosbeh	9/11/1952
+Ishak	Ryan	20160366	Awkar	21/12/1974
+Slaiby	Peter	20178506	Batroun	22/12/1950
+Issa	Sarah	20134792	Anfeh	7/11/1971
+Issa	Yasmina	20153566	Zouk Mikael	12/9/1963
+Zarifeh	Sarah	20126468	Nahr Ibrahim	21/9/1967
+Matta	Sarah	20140199	Adma	10/1/1991
+El Teress	Joe	20185802	Tripoli	12/9/1970
+El Teress	Mohamad	20120408	Sahel Alma	30/12/1950
+Bou-Khalil	Youmna	20135333	Anfeh	6/12/1998
+El-Alam	Marilyne	20161354	Amchit	20/7/1965
+Issa	Frederick	20112511	Awkar	23/6/1989
+Alkadri	John	20168295	Jounieh	3/3/1952
+Al Hallak	Dennis	20135751	Sahel Alma	12/11/1960
+Doumiati	Yara	20148464	Tripoli	9/11/1967
+Issa	Jean	20137626	Amchit	27/5/1988
+Ghamrawi	Ghady	20167342	Selaata	23/9/1958
+El Mouzawak	Marianne	20130898	Byblos	18/2/1974
+Rizk	Dennis	20118155	Naccache	29/7/1953
+Kmeid	Ghady	20121516	Zouk Mosbeh	30/10/1994
+Haroun	Leah	20149832	Dbayeh	18/11/1995
+Doumiati	Romy	20131631	Tripoli	26/7/1959
+Ghamrawi	Peter	20115271	Zouk Mikael	31/8/1981
+Abi Younes	Ryan	20111396	Selaata	18/4/1953
+Assaf	Sarah	20140069	Naccache	12/4/1982
+Al Rassi	Leah	20166511	Zouk Mosbeh	15/4/1957
+Elam	Rimane	20142268	Anfeh	10/3/1998
+Charbel	Dennis	20187482	Amchit	7/8/1981
+Samarani	John	20176557	Blat	14/9/1952
+Hachem	Ahed	20127010	Chekka	12/4/1977
+El Haddad	Marilyne	20184905	Dorms	20/5/1953
+Abi Chahine	Jean	20153042	Dbayeh	4/6/1962
+Abi Chahine	Youmna	20151426	Adma	4/12/1960
+Samarani	Ramza	20117241	Batroun	25/11/1959
+Sfeir	Louis	20110267	Tripoli	16/1/1945
+Al Rassi	Peter	20114698	Zouk Mosbeh	29/3/1999
+Frem	Lea	20137849	Naccache	9/9/1963
+Slaiby	Louis	20131205	Selaata	24/3/1996
+Anastasiou Bountoktzi	Yasmina	20119680	Amchit	2/4/1980
+Alkhuder	Ryan	20138862	Byblos	10/8/1956
+El Haddad	Nour	20145417	Selaata	22/10/1970
+Youssef	Ghady	20123649	Zouk Mosbeh	14/9/1948
+Yaacoub	Joe	20179958	Adma	9/1/1949
+Abi Younes	Louis	20133895	Blat	28/4/1997
+Abou Younes	Yara	20154780	Chekka	11/6/1994
+Elam	Leah	20188408	Sahel Alma	29/5/1972
+Ishak	Jad	20156190	Awkar	24/11/1990
+El Teress	Tony	20177103	Tripoli	2/1/1999
+Slaiby	Yara	20136375	Tripoli	28/4/1999
+Sfeir	Louis	20134035	Jounieh	30/11/1956
+Faour	Yara	20166074	Anfeh	11/1/1972
+Assaf	Maria	20136745	Anfeh	29/1/1992
+Frem	Nour	20185987	Zouk Mikael	28/11/1969
+Bou-Khalil	Marilyne	20127842	Awkar	29/12/1973
+Charbel	Joseph	20135279	Naccache	23/5/1985
+Slaiby	Rouba	20150081	Anfeh	8/3/1970
+Matta	Frederick	20157095	Batroun	21/10/1982
+El Haddad	Romy	20174021	Awkar	23/12/1952
+Zeina	Farah	20143710	Blat	21/7/1967
+Rizk	Serena	20160143	Batroun	22/3/1981
+Youssef	Yara	20166272	Naccache	23/1/1984
+Frem	Peter	20136227	Dorms	15/8/1960
+Frem	Ghady	20182807	Selaata	10/8/1969
+Hachem	Maria	20138699	Anfeh	14/6/1980
+Medawar	Marianne	20132633	Nahr Ibrahim	6/11/1973
+Bou-Khalil	Joe	20163058	Tripoli	20/5/1961
+Alkadri	Jean	20113068	Jounieh	3/2/1984
+Issa	Jad	20188002	Zouk Mikael	29/9/1950
+Abi Chahine	Sarah	20163998	Adma	31/7/1954
+Rizk	Tonia	20133752	Selaata	20/4/1972
+Sfeir	Louis	20141568	Tripoli	2/12/1987
+Al Soueity	Yasmina	20129099	Dorms	14/11/1974
+Assaf	Leah	20137501	Dbayeh	26/1/1963
+Alkadri	Joe	20113976	Zouk Mosbeh	28/6/1963
+Alkadri	Yasmine	20126480	Awkar	5/8/1976
+Charbel	John	20186988	Jounieh	15/11/1988
+Bou-Khalil	Nour	20176197	Byblos	28/2/1945
+Al Hallak	Maria	20184043	Batroun	21/3/1956
+Assaf	Ghady	20133115	Blat	31/10/1952
+Alkhuder	Gaelle	20134731	Tripoli	26/12/1949
+Al Hallak	John	20140259	Zouk Mosbeh	12/2/1945
+Al Soueity	Jad	20124644	Awkar	20/2/1975
+El Haddad	Jean	20187183	Blat	13/10/1994
+Medawar	Ahed	20185891	Sahel Alma	10/3/1981
+El Haddad	Tonia	20186764	Sahel Alma	1/3/1978
+Ishak	Youmna	20180114	Chekka	2/1/1965
+El Teress	Sarah	20131484	Amchit	12/5/1991
+Kmeid	Lea	20115530	Batroun	25/11/1975
+Sfeir	Christopher	20162426	Zouk Mosbeh	3/10/1952
+Elam	Ahed	20175858	Sahel Alma	2/2/1991
+El Mouzawak	Serena	20117174	Sahel Alma	9/7/1952
+Anastasiou Bountoktzi	Nour	20154632	Adma	14/6/1993
+Assaf	Alexandro	20152265	Naccache	17/9/1980
+Youssef	Serena	20147241	Tripoli	24/1/1982
+Yaacoub	Elisa	20152419	Chekka	27/2/1947
+Zeina	Peter	20165583	Jounieh	12/11/1960
+Sfeir	Lamia	20167430	Nahr Ibrahim	25/9/1967
+Faour	Alexandro	20186720	Dorms	8/11/1946
+Zeina	Ahed	20133150	Chekka	31/1/1950
+Abi Akl	Francesca	20115248	Batroun	9/6/1969
+Abi Akl	Tonia	20139308	Nahr Ibrahim	27/5/1979
+Al Hallak	Layla	20118301	Amchit	20/7/1968
+Zeina	Sarah	20133898	Dbayeh	16/10/1957
+Rizk	Serena	20185692	Naccache	28/12/1973
+El Teress	Farah	20124071	Dbayeh	12/2/1972
+Al Rassi	Jean	20117555	Amchit	24/1/1954
+Chayban	Rimane	20174379	Batroun	2/3/1979
+Assaf	Yasmina	20120363	Sahel Alma	18/11/1979
+Zarifeh	Tonia	20178367	Byblos	15/6/1976
+Al Rassi	Jean	20180367	Dorms	10/4/1969
+Alkadri	Gaelle	20185952	Tripoli	10/9/1952
+Ghamrawi	Tonia	20127626	Nahr Ibrahim	9/2/1986
+Al Rassi	Serena	20136365	Nahr Ibrahim	26/2/1979
+Al Hallak	Yara	20114686	Nahr Ibrahim	7/8/1988
+Elam	Maria	20143633	Anfeh	5/3/1977
+Issa	Romy	20163935	Nahr Ibrahim	9/12/1991
+Ghamrawi	Francesca	20183407	Tripoli	22/10/1970
+Bou-Khalil	Layla	20165513	Selaata	28/6/1948
+Yaacoub	Rouba	20186684	Selaata	24/9/1964
+Bou-Khalil	Louis	20156472	Byblos	17/12/1974
+Doumiati	John	20136070	Batroun	10/2/1955
+Elam	Farah	20112386	Chekka	16/6/1956
+Zarifeh	Mohamad	20164497	Naccache	1/10/2000
+Yaacoub	Peter	20174667	Anfeh	28/1/1954
+El Haddad	Christopher	20149770	Awkar	15/8/1985
+Chayban	Rouba	20172976	Nahr Ibrahim	30/6/1959
+Doumiati	Marilyne	20151349	Naccache	20/9/1995
+Bou-Khalil	Ahed	20173752	Nahr Ibrahim	4/10/1945
+Rizk	Peter	20187457	Anfeh	23/3/1974
+Alkhuder	Gaelle	20180642	Batroun	2/3/2000
+El Teress	Lea	20163682	Dorms	7/8/1985
+El Mouzawak	Peter	20122425	Awkar	25/12/1972
+El Haddad	Jad	20164839	Byblos	25/2/1957
+Samarani	Francesca	20140997	Dbayeh	18/9/1948
+Ishak	Gaelle	20172911	Dorms	15/10/1953
+Zarifeh	Rimane	20165452	Chekka	28/4/1998
+Al Hallak	John	20112744	Chekka	15/4/1984
+Kmeid	Tonia	20127502	Nahr Ibrahim	11/2/1963
+Frem	Marilyne	20160949	Selaata	28/5/1956
+Abi Chahine	Youmna	20145573	Anfeh	4/4/1965
+Al Hallak	Yasmine	20160086	Selaata	8/12/1987
+Medawar	Nour	20187065	Dbayeh	28/4/1997
+Abi Akl	Joe	20175113	Zouk Mosbeh	9/1/1961
+Abou Younes	Ghady	20129769	Byblos	24/4/1978
+Abi Younes	Youmna	20159703	Zouk Mikael	8/5/1994
+Faour	Joe	20159404	Naccache	8/6/1979
+Issa	Francesca	20161526	Nahr Ibrahim	27/3/1948
+Youssef	Mohamad	20151355	Selaata	30/5/1949
+Abi Akl	Lea	20174838	Tripoli	24/3/1957
+Abi Chahine	Dennis	20155779	Naccache	16/4/1993
+Yaacoub	Tony	20182898	Adma	18/3/1979
+Haroun	Tony	20110474	Batroun	31/5/1957
+Charbel	Marilyne	20141800	Batroun	22/12/1992
+Abi Younes	Ghady	20147935	Anfeh	14/3/1955
+Alkhuder	Yasmine	20169707	Dbayeh	11/2/1989
+Zeina	Francesca	20119542	Adma	20/8/1961
+Bou-Khalil	Tonia	20141717	Tripoli	14/12/1961
+Haroun	Marilyne	20155772	Selaata	18/11/1990
+Ghamrawi	Tony	20117344	Naccache	18/1/1998
+El-Alam	Yasmine	20188193	Naccache	7/12/1986
+Chayban	Frederick	20166288	Anfeh	30/1/1984
+Frem	Leah	20159166	Awkar	4/11/1998
+Bou-Khalil	Farah	20151591	Awkar	19/8/1945
+El-Alam	Tony	20170703	Byblos	22/9/1945
+Daher	John	20142383	Jounieh	12/6/1980
+Chayban	Elisa	20137482	Jounieh	26/12/1984
+Slaiby	Lea	20129314	Zouk Mosbeh	20/1/2000
+Rizk	Rimane	20122029	Dorms	19/4/1949
+Assaf	Serena	20180735	Chekka	17/2/1947
+Ghamrawi	Alexandro	20166487	Zouk Mikael	29/3/1991
+Yaacoub	Ryan	20189840	Byblos	15/2/1971
+Haroun	Tony	20157714	Zouk Mosbeh	10/4/1991
+El Teress	Louis	20170149	Dorms	23/12/1971
+Daher	Gaelle	20161623	Amchit	5/8/1964
+Slaiby	Marilyne	20127548	Blat	14/3/1982
+Daher	Farah	20124962	Zouk Mosbeh	17/9/1947
+Abi Akl	Yara	20149953	Zouk Mikael	17/1/1999
+Medawar	John	20161941	Jounieh	20/5/1971
+Abi Akl	Leah	20131698	Dorms	12/4/1992
+Kmeid	Ghady	20144670	Awkar	19/8/1962
+Frem	Maria	20121352	Adma	12/6/1954
+Alkadri	Christopher	20156378	Batroun	25/9/1971
+Chayban	Farah	20171443	Nahr Ibrahim	17/7/1945
+Al Hallak	Elisa	20116362	Naccache	21/7/1951
+Abi Younes	Ramza	20114697	Amchit	4/2/1981
+Yaacoub	Serena	20122507	Amchit	24/10/1958
+Zarifeh	Louis	20147843	Chekka	7/5/1978
+Rizk	Leah	20128488	Blat	23/4/1970
+Haroun	Peter	20187970	Sahel Alma	1/12/1970
+El Teress	Tony	20165812	Dbayeh	16/11/1994
+Alkadri	Yara	20187956	Naccache	20/2/1960
+Abi Younes	Romy	20110285	Zouk Mikael	24/10/1983
+El-Alam	Ryan	20134358	Adma	15/10/1969
+Kmeid	Jean	20144250	Byblos	10/6/1965
+Al Hallak	Marilyne	20178398	Selaata	14/7/1981
+El-Alam	Peter	20180303	Dbayeh	2/9/1947
+Assaf	Elisa	20134159	Amchit	8/2/1993
+Ishak	Rimane	20171690	Amchit	7/1/1968
+El Teress	Tony	20127533	Nahr Ibrahim	26/8/1999
+Samarani	Jean	20146758	Tripoli	13/9/1972
+Zeina	Tony	20126810	Jounieh	28/7/1953
+Hachem	Joseph	20144671	Sahel Alma	15/11/1989
+Assaf	Maria	20129743	Tripoli	5/6/1949
+El Teress	Maria	20162739	Tripoli	6/6/1980
+Abou Younes	Peter	20127154	Chekka	16/5/1957
+Charbel	Farah	20132513	Awkar	16/12/1965
+Yaacoub	Jean	20170122	Zouk Mosbeh	22/9/1958
+Sfeir	Marilyne	20140594	Blat	14/9/1996
+Al Hallak	Leah	20113512	Zouk Mosbeh	25/7/1969
+Abou Younes	Louis	20165162	Amchit	9/7/1980
+Frem	John	20168645	Dbayeh	12/7/1967
+Charbel	Lea	20120295	Tripoli	21/9/1979
+Zeina	Tonia	20133893	Anfeh	11/4/1952
+Matta	Nour	20112615	Batroun	2/7/1959
+Abou Younes	Gaelle	20148129	Amchit	28/8/1962
+Ishak	Joseph	20166700	Selaata	24/11/1976
+El-Alam	Marilyne	20150076	Selaata	19/9/1951
+Abou Younes	Sarah	20116583	Awkar	25/9/1997
+Alkhuder	John	20169789	Anfeh	11/6/1957
+Elam	Jean	20159411	Selaata	30/6/1989
+El Mouzawak	Yasmine	20180544	Batroun	27/4/1970
+Rizk	Dennis	20124877	Jounieh	16/10/1956
+Slaiby	Tonia	20160888	Naccache	12/9/1966
+Abi Younes	Ahed	20182840	Zouk Mosbeh	8/2/1989
+Al Soueity	Joe	20178681	Dbayeh	10/12/1957
+Sfeir	Yara	20188105	Naccache	7/9/1963
+Chayban	Yara	20184068	Batroun	10/8/1977
+Zeina	Yara	20184252	Tripoli	19/10/1945
+Al Soueity	Tony	20122247	Blat	25/10/1998
+Haroun	John	20176190	Byblos	20/12/1953
+Medawar	Jean	20125104	Amchit	13/1/1972
+Charbel	Alexandro	20132675	Anfeh	16/4/1959
+Abou Younes	Rimane	20148723	Blat	4/1/1952
+Frem	Farah	20168682	Jounieh	6/11/1951
+Medawar	Ryan	20117678	Tripoli	4/10/2000
+Frem	Dennis	20175269	Blat	22/9/1954
+Zeina	Jad	20119745	Dbayeh	12/8/1990
+Chayban	Francesca	20122368	Byblos	27/8/1946
+Anastasiou Bountoktzi	Yara	20132561	Zouk Mikael	29/8/1962
+Abi Akl	John	20171709	Selaata	30/3/1994
+Daher	Yara	20154754	Awkar	18/5/1996
+Bou-Khalil	Jad	20143780	Naccache	11/9/2000
+Alkhuder	Farah	20148972	Zouk Mosbeh	12/5/1966
+Youssef	Leah	20126238	Amchit	29/4/1983
+Abi Younes	Alexandro	20163621	Zouk Mikael	27/6/1995
+Abi Chahine	Yasmine	20115382	Adma	28/4/1946
+Alkadri	Elisa	20152080	Tripoli	6/3/1993
+Alkadri	Christopher	20188917	Batroun	30/9/2000
+Youssef	Francesca	20179874	Jounieh	27/3/1946
+Assaf	Youmna	20180379	Amchit	1/5/1982
+El-Alam	Jad	20111817	Jounieh	2/1/1966
+Medawar	Sarah	20185839	Jounieh	2/12/1986
+Zeina	Rouba	20168192	Zouk Mikael	11/7/1978
+Faour	Lamia	20170168	Selaata	4/6/1995
+Alkhuder	Jad	20116280	Byblos	21/3/1984
+Daher	Gaelle	20146618	Naccache	29/12/1975
+El-Alam	Lamia	20175042	Blat	31/7/1985
+Assaf	Joe	20186049	Selaata	31/2/1974
+Yaacoub	Leah	20173607	Blat	28/11/1965
+Yaacoub	Rimane	20113101	Dorms	24/2/1987
+Alkadri	Ghady	20163345	Chekka	19/11/1975
+Rizk	Yara	20168404	Sahel Alma	27/4/1989
+Ghamrawi	Christopher	20129620	Naccache	14/2/1971
+Ishak	Maria	20148278	Sahel Alma	25/9/1996
+Alkadri	Elisa	20128825	Sahel Alma	2/6/1963
+Sfeir	Marilyne	20122609	Amchit	10/11/2000
+Frem	Francesca	20139791	Byblos	15/9/1956
+Youssef	Dennis	20171676	Naccache	5/9/1969
+Daher	John	20124537	Selaata	11/8/1953
+Al Soueity	Yara	20135151	Dbayeh	16/11/1947
+Abi Akl	Yasmina	20156137	Sahel Alma	7/7/1962
+Charbel	Yara	20122961	Awkar	24/2/1958
+Ghamrawi	Maria	20128295	Adma	10/8/1995
+Hachem	Layla	20137088	Nahr Ibrahim	28/7/1964
+El-Alam	Louis	20181602	Jounieh	9/5/1978
+Hachem	Yasmine	20177454	Blat	7/10/1965
+Haroun	Francesca	20130566	Jounieh	26/3/1977
+Ghamrawi	Youmna	20185624	Adma	16/4/1952
+Charbel	Layla	20153614	Chekka	11/5/1992
+Charbel	Tonia	20137173	Dbayeh	26/11/1994
+Samarani	Romy	20126141	Naccache	28/12/1956
+Alkadri	Jad	20167553	Dbayeh	14/6/1996
+Matta	Farah	20146401	Batroun	6/6/1992
+Abi Chahine	Romy	20174232	Nahr Ibrahim	24/1/1999
+Yaacoub	Nour	20170139	Tripoli	20/7/1978
+Charbel	Lea	20159675	Chekka	3/12/1989
+Alkhuder	Mohamad	20142509	Batroun	20/4/1999
+Elam	Louis	20145380	Batroun	22/7/1995
+Kmeid	Tony	20169384	Zouk Mosbeh	11/8/2000
+Yaacoub	Farah	20169827	Dorms	29/1/1953
+Youssef	Ahed	20161696	Zouk Mosbeh	5/2/1978
+Charbel	John	20186926	Chekka	22/1/1952
+Slaiby	Lea	20172580	Chekka	2/12/1962
+Faour	Yasmina	20139554	Jounieh	21/12/1960
+Slaiby	Lea	20186233	Dbayeh	2/3/1948
+Sfeir	Ryan	20148742	Zouk Mikael	6/3/1949
+Slaiby	Ahed	20117958	Adma	21/11/1991
+Al Soueity	Rimane	20178979	Dorms	28/8/1957
+Alkhuder	Francesca	20128992	Zouk Mosbeh	13/5/1978
+Doumiati	John	20173913	Zouk Mosbeh	10/2/1957
+Ishak	Jad	20180065	Jounieh	4/6/1979
+El Mouzawak	Ryan	20171014	Selaata	29/12/1958
+Yaacoub	Gaelle	20140721	Tripoli	23/12/1992
+Sfeir	John	20110600	Zouk Mikael	9/6/1965
+Zarifeh	Mohamad	20151658	Zouk Mikael	22/1/1953
+Alkadri	Marilyne	20110077	Nahr Ibrahim	2/8/1949
+Sfeir	Youmna	20130217	Tripoli	15/7/1970
+Frem	Lea	20134216	Dorms	7/3/1978
+Rizk	Ahed	20120890	Zouk Mosbeh	8/8/1958
+Charbel	Romy	20122491	Byblos	4/8/1974
+Anastasiou Bountoktzi	Gaelle	20131843	Zouk Mikael	14/5/1967
+Sfeir	Ghady	20145969	Nahr Ibrahim	12/1/1990
+Frem	Maria	20111785	Chekka	23/8/1993
+Samarani	Joe	20137838	Sahel Alma	3/7/1952
+Hachem	Jad	20153392	Dorms	19/1/1993
+Alkhuder	Ramza	20174338	Chekka	23/1/1978
+Slaiby	Youmna	20170962	Dbayeh	31/5/1985
+Hachem	Mohamad	20121574	Batroun	13/10/1985
+Al Soueity	Francesca	20120041	Dbayeh	3/12/1959
+Yaacoub	Maria	20116658	Byblos	12/1/1976
+Frem	Peter	20176586	Batroun	19/6/1988
+Abi Younes	Joe	20160524	Selaata	22/1/1994
+Anastasiou Bountoktzi	Rouba	20117803	Jounieh	10/12/1973
+Zeina	Gaelle	20123506	Dorms	31/7/1998
+Hachem	Rimane	20143831	Dbayeh	14/7/1997
+Ishak	Youmna	20157604	Awkar	1/4/1967
+Abou Younes	Marianne	20141587	Amchit	24/9/1967
+Elam	Leah	20179274	Nahr Ibrahim	15/4/1994
+Al Rassi	Layla	20136207	Tripoli	21/3/1952
+El-Alam	Yara	20153914	Dbayeh	8/8/1974
+Assaf	Layla	20180518	Tripoli	26/8/1947
+Slaiby	Layla	20113060	Byblos	27/10/1965
+Alkadri	Rouba	20164626	Adma	19/7/1947
+Matta	Serena	20187132	Dbayeh	24/11/1973
+Issa	Tony	20171687	Awkar	5/12/1989
+Haroun	Louis	20176994	Sahel Alma	13/8/1970
+Al Hallak	Alexandro	20125355	Nahr Ibrahim	22/3/1949
+El-Alam	Rouba	20189556	Jounieh	6/8/1982
+Abou Younes	Serena	20179153	Nahr Ibrahim	23/3/1987
+Abi Chahine	Joseph	20177940	Byblos	27/10/1988
+Ghamrawi	Mohamad	20129072	Awkar	16/4/1994
+Alkhuder	Yara	20165357	Zouk Mikael	13/2/1957
+Doumiati	Romy	20153612	Jounieh	6/5/1972
+Sfeir	Elisa	20155136	Zouk Mikael	2/6/1986
+Abi Younes	Rouba	20181747	Selaata	13/2/1986
+Haroun	Christopher	20113408	Tripoli	21/9/1955
+Al Hallak	Rouba	20139446	Zouk Mosbeh	6/9/1969
+Matta	Youmna	20114828	Dorms	6/10/1967
+Al Soueity	Rouba	20179929	Selaata	31/8/1954
+Medawar	Mohamad	20116633	Naccache	21/6/1963
+Abou Younes	Lamia	20156809	Batroun	19/8/1995
+Samarani	Ryan	20117586	Nahr Ibrahim	8/1/1953
+Sfeir	John	20127134	Batroun	1/11/1970
+Matta	Sarah	20149080	Naccache	16/9/1969
+Haroun	Lea	20173957	Zouk Mikael	10/9/1960
+Sfeir	Ryan	20187396	Nahr Ibrahim	7/9/1984
+El Mouzawak	Sarah	20125370	Zouk Mikael	14/9/1955
+Frem	Romy	20173473	Tripoli	7/8/1964
+Frem	Jad	20160234	Anfeh	6/12/1956
+Slaiby	Joseph	20180987	Dorms	8/10/1971
+Abou Younes	Gaelle	20156589	Adma	29/6/1968
+Youssef	Louis	20147973	Zouk Mikael	29/12/1980
+Abi Younes	John	20119198	Zouk Mikael	24/1/1962
+El Haddad	Ryan	20118594	Byblos	17/2/1957
+Slaiby	Yara	20162741	Awkar	17/7/1983
+Alkadri	Yara	20111097	Dbayeh	29/9/1968
+Alkhuder	Ahed	20168447	Blat	9/10/1976
+Zarifeh	Nour	20188597	Byblos	29/3/1960
+Zeina	Ryan	20159509	Tripoli	6/6/1986
+Chayban	Lamia	20149427	Chekka	10/8/1960
+Rizk	Ahed	20126205	Sahel Alma	3/3/1953
+Sfeir	Ghady	20152237	Amchit	25/7/1965
+Elam	Joseph	20189633	Selaata	26/7/1957
+Abi Akl	Alexandro	20181172	Sahel Alma	30/11/1993
+Abi Younes	Mohamad	20179890	Sahel Alma	26/3/1999
+Alkhuder	Romy	20140234	Zouk Mikael	23/3/1956
+El Teress	Rouba	20185442	Jounieh	11/6/1985
+Youssef	Mohamad	20183961	Nahr Ibrahim	14/8/1958
+Rizk	Lamia	20155351	Sahel Alma	20/11/1960
+Zarifeh	Marilyne	20168409	Dorms	1/2/1969
+Alkadri	Marilyne	20120298	Amchit	13/5/1991
+Alkhuder	Leah	20114778	Batroun	23/4/1984
+Issa	Sarah	20123379	Zouk Mikael	27/10/1997
+Bou-Khalil	Jad	20150117	Chekka	14/10/1947
+Elam	Peter	20176195	Anfeh	12/2/1980
+Assaf	Marilyne	20185490	Selaata	15/4/1975
+El Haddad	Christopher	20132098	Dorms	26/11/1982
+El Haddad	Yasmina	20116978	Awkar	10/7/1981
+Chayban	Francesca	20137630	Anfeh	9/3/1983
+Youssef	Gaelle	20139750	Anfeh	21/4/1955
+Al Rassi	Joseph	20124002	Dbayeh	9/11/1984
+Abi Chahine	Marianne	20147605	Zouk Mikael	9/1/1979
+Matta	Jad	20143795	Chekka	11/12/1970
+Frem	Tony	20134202	Tripoli	10/3/1965
+Kmeid	Alexandro	20185417	Nahr Ibrahim	29/3/1968
+El Haddad	Serena	20124936	Sahel Alma	15/8/1973
+Abou Younes	Yasmina	20130315	Zouk Mosbeh	27/2/1976
+Doumiati	Joseph	20137043	Naccache	15/12/1995
+Abou Younes	Gaelle	20180861	Dbayeh	11/10/1988
+Youssef	Louis	20149879	Selaata	31/10/1976
+Yaacoub	Serena	20189207	Zouk Mikael	1/12/1954
+Faour	Jad	20119800	Batroun	19/6/1978
+Samarani	John	20169847	Zouk Mikael	19/8/1956
+Zarifeh	Alexandro	20147693	Awkar	27/6/1959
+Alkhuder	Marilyne	20176172	Adma	30/11/1977
+Kmeid	Ghady	20174266	Awkar	12/12/1986
+Kmeid	Frederick	20186678	Naccache	1/6/1967
+Abou Younes	Frederick	20115664	Dorms	4/10/1969
+El Teress	Leah	20129055	Chekka	14/5/1964
+Matta	Frederick	20184398	Tripoli	26/11/1977
+Bou-Khalil	Yara	20128584	Batroun	10/10/1982
+Matta	Elisa	20188224	Zouk Mikael	22/5/1976
+Youssef	Lamia	20136987	Tripoli	17/12/1998
+Issa	Romy	20184653	Naccache	20/5/1953
+Zeina	Frederick	20149532	Anfeh	1/3/1953
+Abi Younes	Gaelle	20131027	Tripoli	22/12/1983
+Sfeir	John	20163898	Adma	1/3/1975
+Bou-Khalil	Jean	20175100	Selaata	14/11/1970
+El Teress	Youmna	20188055	Dbayeh	27/8/1945
+Abi Akl	Yasmina	20145738	Tripoli	8/7/1984
+Al Soueity	Ryan	20129402	Zouk Mikael	19/3/1945
+Samarani	Francesca	20153982	Amchit	19/8/1977
+Samarani	Joe	20125262	Blat	9/7/1977
+Al Soueity	Frederick	20144310	Tripoli	17/9/1991
+Frem	Peter	20131153	Sahel Alma	18/2/1982
+Elam	Serena	20124795	Byblos	1/5/1982
+Frem	John	20123724	Byblos	23/8/1996
+Anastasiou Bountoktzi	Marianne	20121139	Amchit	1/5/1945
+Abi Younes	Joseph	20147842	Awkar	30/2/1995
+Abi Chahine	Yara	20138361	Dorms	18/7/1963
+Rizk	Dennis	20131267	Amchit	2/8/1984
+Samarani	Serena	20177180	Blat	9/9/1967
+Sfeir	Leah	20171539	Sahel Alma	7/3/1954
+Matta	Joe	20159058	Nahr Ibrahim	21/1/1990
+Daher	Jad	20181622	Naccache	26/10/1948
+Issa	Layla	20130361	Dbayeh	11/12/1978
+Zeina	Sarah	20117132	Batroun	9/4/1985
+Al Rassi	Romy	20156386	Selaata	23/10/1958
+Daher	Nour	20179247	Awkar	7/3/1998
+El Haddad	Tonia	20127827	Awkar	12/2/1951
+Ishak	Francesca	20182931	Awkar	17/12/1983
+Chayban	Yasmina	20171623	Chekka	14/5/1964
+Al Rassi	Serena	20111661	Anfeh	6/2/1957
+Slaiby	Nour	20127517	Chekka	27/3/1978
+Elam	Tony	20166824	Amchit	28/9/1972
+Frem	Joe	20155817	Sahel Alma	19/3/1964
+Zarifeh	Francesca	20151088	Naccache	23/7/1979
+El Haddad	Lamia	20111281	Blat	22/3/1970
+Daher	Yasmine	20114519	Byblos	19/6/1999
+Abi Younes	Elisa	20158794	Dbayeh	4/4/1954
+Daher	Marilyne	20155929	Sahel Alma	9/5/1974
+Hachem	Serena	20175581	Awkar	15/1/1997
+El Mouzawak	Sarah	20166937	Naccache	13/9/1955
+Youssef	Jad	20155118	Jounieh	30/12/1950
+Doumiati	Joe	20168007	Naccache	29/6/1986
+El-Alam	Yasmine	20139976	Nahr Ibrahim	10/8/1972
+Ishak	Gaelle	20115548	Dbayeh	19/9/1959
+Daher	Yara	20143117	Jounieh	31/3/1979
+Daher	Romy	20148689	Amchit	12/7/1975
+Chayban	Romy	20138442	Zouk Mosbeh	10/7/1961
+Faour	Marianne	20175006	Tripoli	14/1/1966
+Faour	Jean	20182036	Blat	3/8/1945
+Kmeid	Rouba	20142248	Anfeh	31/3/1960
+Hachem	Nour	20156259	Blat	11/10/1955
+Slaiby	Farah	20178528	Anfeh	29/10/1992
+Issa	Tony	20154777	Dbayeh	4/7/1989
+Yaacoub	Elisa	20129492	Awkar	9/3/1950
+Haroun	Maria	20175513	Chekka	18/1/1983
+Abi Chahine	Gaelle	20136332	Nahr Ibrahim	27/11/1948
+Kmeid	Elisa	20182236	Anfeh	23/1/1988
+Slaiby	Alexandro	20164763	Dbayeh	28/1/1975
+Bou-Khalil	Ahed	20171029	Batroun	4/5/1967
+El Mouzawak	Yasmina	20179404	Amchit	2/3/1964
+Abi Chahine	Joseph	20155247	Tripoli	15/7/1982
+Frem	Elisa	20110050	Anfeh	10/7/1994
+Abou Younes	Peter	20160355	Amchit	9/2/1950
+Zarifeh	Alexandro	20132769	Adma	26/4/1995
+Al Soueity	Yasmina	20127280	Batroun	1/7/1954
+Yaacoub	Sarah	20144440	Awkar	22/1/1971
+El Haddad	Lea	20140213	Anfeh	20/12/1967
+Kmeid	Ghady	20153742	Awkar	26/10/1946
+Al Rassi	Jad	20172079	Naccache	24/8/1960
+El Teress	Ghady	20111167	Nahr Ibrahim	7/8/1970
+Youssef	Ahed	20176233	Naccache	24/11/1956
+Bou-Khalil	Rouba	20116122	Byblos	27/9/1990
+Yaacoub	Louis	20132844	Byblos	13/3/1971
+Sfeir	Lea	20136584	Awkar	2/2/1950
+Elam	Yasmina	20177542	Dbayeh	22/11/1961
+El-Alam	Peter	20146719	Amchit	1/9/1999
+Charbel	Christopher	20158712	Blat	19/8/1968
+Chayban	Rouba	20110576	Adma	17/4/1964
+Abi Akl	Ahed	20180138	Tripoli	11/10/1978
+Frem	Ramza	20164210	Dorms	27/12/1998
+Youssef	Dennis	20180928	Chekka	22/8/1978
+Al Hallak	Maria	20164542	Zouk Mikael	3/10/1956
+Chayban	Sarah	20161968	Zouk Mikael	5/1/1954
+Sfeir	Ryan	20185154	Nahr Ibrahim	24/12/1982
+Daher	Joe	20184431	Naccache	19/10/1965
+Ghamrawi	Youmna	20139296	Blat	7/3/1999
+El Teress	Louis	20153524	Sahel Alma	1/3/1966
+Daher	Yara	20188363	Byblos	20/6/1976
+Matta	Joseph	20110025	Amchit	24/12/1981
+Youssef	Maria	20111165	Tripoli	5/2/1989
+Alkhuder	Sarah	20123726	Adma	10/7/1986
+Bou-Khalil	Marianne	20176951	Dorms	20/3/1950
+Zarifeh	Yara	20112730	Batroun	12/7/1997
+Ghamrawi	Ryan	20131877	Nahr Ibrahim	15/1/2000
+Al Soueity	Joseph	20179804	Jounieh	31/11/1973
+Al Hallak	Rouba	20140716	Amchit	11/11/1970
+Abou Younes	Ramza	20142945	Anfeh	20/3/1975
+Al Rassi	Layla	20160706	Awkar	12/7/1968
+Samarani	Yara	20186945	Chekka	27/1/1999
+Bou-Khalil	Ghady	20165416	Jounieh	27/11/1962
+Chayban	Ahed	20113697	Zouk Mosbeh	13/12/1966
+Ishak	Farah	20145150	Sahel Alma	5/4/1983
+El Mouzawak	Francesca	20139816	Naccache	15/6/1987
+El Mouzawak	Mohamad	20160958	Jounieh	1/2/1945
+Ishak	Lea	20133411	Jounieh	16/11/1996
+Anastasiou Bountoktzi	Marilyne	20111931	Amchit	14/9/1996
+Abi Akl	Ahed	20173434	Zouk Mosbeh	28/12/1990
+Faour	Nour	20134588	Byblos	22/11/1987
+Al Soueity	Joseph	20117054	Naccache	24/9/1986
+Abi Younes	Rouba	20148695	Adma	27/7/1987
+Kmeid	John	20160966	Zouk Mosbeh	16/8/1991
+Matta	Louis	20116893	Sahel Alma	5/9/1988
+Al Rassi	Louis	20115790	Blat	12/1/1960
+Kmeid	Christopher	20127482	Awkar	8/5/1946
+Medawar	Dennis	20137375	Adma	26/1/1965
+El Haddad	Louis	20147409	Sahel Alma	27/3/1975
+Chayban	Marilyne	20184607	Jounieh	4/2/1974
+Slaiby	Marianne	20158943	Tripoli	22/1/1971
+Al Rassi	Mohamad	20163270	Jounieh	11/12/1970
+Charbel	Marianne	20165990	Batroun	15/4/1969
+Al Hallak	Peter	20185967	Jounieh	21/12/1988
+Yaacoub	Serena	20158969	Zouk Mikael	19/2/1981
+Ghamrawi	Maria	20114976	Byblos	5/2/1983
+Alkadri	Rouba	20171019	Dbayeh	20/6/1984
+Zeina	Ramza	20182831	Batroun	23/6/1960
+Hachem	Elisa	20170158	Anfeh	1/4/1968
+Alkhuder	Frederick	20138745	Dorms	18/11/1945
+El Mouzawak	Rimane	20113753	Dbayeh	24/5/2000
+Abou Younes	Sarah	20172783	Amchit	30/12/1993
+Issa	Dennis	20168151	Tripoli	27/8/1951
+Al Rassi	Ryan	20175671	Dorms	23/12/1972
+Hachem	Tony	20170373	Awkar	13/12/1957
+Anastasiou Bountoktzi	Christopher	20118633	Naccache	21/9/1986
+Alkadri	Maria	20114510	Chekka	23/7/1969
+Ghamrawi	Yasmina	20125148	Zouk Mosbeh	30/3/1996
+Faour	Elisa	20172073	Blat	17/8/1978
+El Teress	Serena	20164920	Awkar	3/4/1983
+Daher	Yasmine	20183756	Zouk Mikael	5/10/1977
+Charbel	Ghady	20150216	Nahr Ibrahim	12/4/1981
+Samarani	Rimane	20135997	Chekka	30/10/1987
+Zeina	Dennis	20153881	Zouk Mosbeh	7/8/1985
+Assaf	Nour	20138651	Nahr Ibrahim	31/4/1952
+Frem	Tony	20179250	Anfeh	15/3/1964
+Bou-Khalil	Ryan	20169321	Naccache	16/8/1963
+Issa	Peter	20112105	Dorms	10/6/1946
+Yaacoub	Elisa	20143800	Dorms	28/5/1956
+Kmeid	Alexandro	20184960	Batroun	1/2/1964
+Al Hallak	Serena	20113206	Naccache	5/1/1994
+Alkhuder	Layla	20186027	Adma	4/4/1966
+Hachem	Dennis	20131653	Tripoli	12/1/1993
+Frem	John	20165308	Jounieh	13/2/1974
+Abi Chahine	Ahed	20187033	Zouk Mikael	28/10/1974
+Doumiati	Peter	20176685	Dorms	2/10/1970
+Rizk	Gaelle	20123168	Tripoli	16/9/1975
+Al Rassi	Ghady	20117455	Dbayeh	12/2/1997
+Ishak	Tonia	20129526	Dbayeh	21/5/1960
+Youssef	Sarah	20138445	Awkar	11/11/1978
+Anastasiou Bountoktzi	Jad	20159487	Dorms	19/3/1993
+Haroun	Yara	20174955	Chekka	10/4/1977
+Kmeid	Joe	20116311	Dbayeh	13/1/1967
+El Haddad	Ahed	20113022	Tripoli	2/5/1992
+Chayban	Layla	20185233	Selaata	20/11/1965
+Sfeir	Yara	20110695	Anfeh	24/10/1946
+Daher	Frederick	20165794	Anfeh	29/5/1968
+El Teress	Rouba	20143537	Byblos	26/8/1989
+Ghamrawi	Tony	20139864	Sahel Alma	31/9/1945
+El Teress	Farah	20130024	Batroun	11/8/1979
+Alkadri	Tonia	20144936	Adma	26/9/1993
+Zarifeh	Ahed	20175803	Jounieh	14/3/1989
+Haroun	Louis	20183373	Tripoli	28/8/2000
+El Haddad	Farah	20112629	Byblos	2/3/1976
+Medawar	Gaelle	20136347	Dorms	24/7/1997
+El-Alam	Ghady	20163025	Selaata	27/11/1951
+Abi Akl	Rouba	20188660	Awkar	23/11/1972
+Yaacoub	Joseph	20160245	Blat	2/7/1969
+Haroun	Tonia	20149205	Selaata	9/6/1986
+Abou Younes	Rimane	20172048	Byblos	6/11/1956
+Zarifeh	Rouba	20111971	Amchit	28/11/1961
+Abou Younes	Ramza	20181197	Sahel Alma	29/1/1974
+Zeina	Marilyne	20114727	Zouk Mikael	27/8/1972
+Daher	Mohamad	20166831	Naccache	16/7/1991
+Samarani	Youmna	20183864	Byblos	20/8/1974
+Alkadri	Tony	20120672	Adma	12/8/1998
+Al Hallak	Jad	20144529	Anfeh	28/5/1982
+Abi Chahine	Yara	20178889	Nahr Ibrahim	22/8/1985
+Ghamrawi	Dennis	20130833	Anfeh	5/3/1953
+Alkhuder	Jean	20166545	Nahr Ibrahim	25/3/1991
+Sfeir	Elisa	20158758	Tripoli	25/9/1991
+Issa	Tony	20181117	Byblos	7/11/1966
+Zarifeh	Frederick	20126978	Anfeh	4/8/1986
+Ghamrawi	Frederick	20182169	Chekka	28/12/1992
+El Haddad	Ramza	20140838	Sahel Alma	1/8/1951
+Faour	Layla	20147970	Sahel Alma	29/7/1989
+Abi Akl	Jad	20171936	Sahel Alma	9/4/1946
+Haroun	Tonia	20122988	Anfeh	26/4/1993
+Abi Younes	Alexandro	20171275	Adma	31/9/1992
+Issa	Ramza	20114952	Zouk Mosbeh	13/11/1988
+El-Alam	Tony	20145743	Naccache	21/7/1974
+El Haddad	Frederick	20153682	Batroun	14/1/1986
+Faour	Joseph	20151090	Chekka	22/8/1991
+Kmeid	Youmna	20118610	Byblos	26/1/1971
+Kmeid	Christopher	20111323	Chekka	30/7/1975
+Medawar	Ghady	20159115	Selaata	3/8/1980
+Bou-Khalil	Elisa	20142782	Amchit	4/6/1954
+Chayban	Francesca	20115843	Chekka	5/12/1991
+Bou-Khalil	Mohamad	20114623	Awkar	8/6/1965
+Samarani	Dennis	20176872	Zouk Mikael	3/7/1952
+Daher	Mohamad	20125163	Dbayeh	24/10/1962
+Sfeir	Frederick	20129035	Awkar	8/8/1971
+Issa	John	20118940	Chekka	3/10/1965
+Elam	Yara	20161583	Selaata	25/7/1951
+Rizk	Tonia	20153426	Naccache	10/9/1962
+Daher	Joe	20143111	Byblos	28/4/1981
+Ishak	Farah	20129195	Amchit	2/6/1991
+Al Rassi	Francesca	20124289	Awkar	20/6/1949
+Al Hallak	Lamia	20135629	Chekka	14/9/1982
+Slaiby	Tony	20116685	Byblos	26/4/1976
+El Teress	Gaelle	20172087	Jounieh	26/3/1960
+Abou Younes	Rouba	20127638	Zouk Mikael	18/9/1948
+Slaiby	Francesca	20167187	Jounieh	25/10/1985
+Al Rassi	Tony	20159547	Dbayeh	16/8/1998
+Charbel	Romy	20155295	Zouk Mikael	6/9/1990
+Daher	Nour	20132779	Sahel Alma	17/9/1960
+Chayban	Jad	20189356	Nahr Ibrahim	23/6/1975
+Al Soueity	Nour	20144241	Jounieh	14/3/1987
+Zarifeh	Ghady	20129676	Anfeh	28/1/1974
+Zeina	Lea	20162690	Blat	20/8/1962
+Faour	Jad	20144945	Dorms	11/4/1984
+Al Hallak	Yara	20170080	Zouk Mikael	4/6/1968
+Samarani	Peter	20168853	Anfeh	14/5/1989
+Ishak	Romy	20171048	Amchit	16/6/1973
+Medawar	Romy	20166141	Blat	28/12/1958
+Doumiati	Lea	20176050	Anfeh	14/7/1978
+Youssef	Serena	20114344	Zouk Mikael	1/9/1959
+Abi Chahine	Jean	20147380	Blat	9/8/1995
+Alkhuder	Rimane	20188360	Zouk Mikael	21/5/1996
+Chayban	Nour	20136157	Batroun	17/2/1987
+Anastasiou Bountoktzi	Farah	20155301	Batroun	3/4/1961
+Issa	Joe	20112640	Nahr Ibrahim	26/2/1966
+Rizk	Layla	20131402	Amchit	14/3/1999
+Al Soueity	Yara	20129218	Batroun	24/4/1966
+Abi Chahine	Yara	20149308	Dbayeh	28/4/1953
+Samarani	Serena	20127356	Tripoli	28/9/1947
+Slaiby	Leah	20178850	Chekka	12/11/1976
+Assaf	Ramza	20186173	Tripoli	4/10/1945
+Assaf	Yara	20117088	Dorms	4/9/1990
+Chayban	Peter	20133231	Chekka	7/6/1953
+El Haddad	Lamia	20178520	Sahel Alma	26/6/1957
+Sfeir	Yasmine	20157260	Sahel Alma	4/4/2000
+Slaiby	Nour	20156584	Blat	2/5/1968
+El Mouzawak	Elisa	20177085	Anfeh	19/7/1972
+Doumiati	Yasmine	20151463	Byblos	18/8/1969
+Abou Younes	Yara	20185448	Zouk Mikael	11/3/1968
+El-Alam	Yara	20143177	Chekka	15/10/1993
+Abi Chahine	Romy	20170133	Zouk Mosbeh	14/1/1952
+Elam	Layla	20127846	Dorms	31/8/1970
+Elam	Louis	20151411	Chekka	25/10/1997
+Faour	Layla	20113110	Amchit	17/12/1979
+El Haddad	Maria	20139895	Batroun	10/5/1955
+Anastasiou Bountoktzi	Dennis	20112855	Nahr Ibrahim	31/7/1954
+Rizk	Rimane	20164853	Nahr Ibrahim	8/2/1985
+Slaiby	Joseph	20145963	Tripoli	17/9/1987
+Faour	Yara	20140592	Awkar	27/8/1984
+Charbel	Yara	20129161	Naccache	30/9/1958
+Doumiati	Ahed	20138227	Zouk Mosbeh	11/9/1956
+Al Hallak	Yara	20121294	Adma	2/9/1945
+Frem	Lamia	20137104	Zouk Mikael	18/8/1961
+Alkhuder	Gaelle	20152843	Anfeh	30/8/1976
+Al Soueity	Ghady	20138566	Dbayeh	27/11/1999
+El Teress	Lea	20138013	Sahel Alma	17/5/1950
+El Teress	Nour	20118410	Dbayeh	20/11/1989
+Matta	Yasmina	20150360	Sahel Alma	10/2/1953
+Chayban	Romy	20110865	Sahel Alma	8/7/1983
+Medawar	Yasmina	20128819	Naccache	11/12/1992
+Frem	Serena	20115945	Awkar	5/2/1992
+Haroun	Frederick	20152509	Anfeh	6/6/1953
+Hachem	Youmna	20111380	Dorms	29/5/1993
+Frem	Ryan	20133048	Nahr Ibrahim	25/8/1986
+Matta	Joe	20121564	Blat	7/6/1963
+Frem	Jean	20146852	Dorms	28/1/1998
+Chayban	Lea	20168312	Naccache	15/4/1992
+Haroun	Romy	20171013	Amchit	23/10/1968
+Abou Younes	Francesca	20155522	Tripoli	4/11/1995
+Chayban	Leah	20112412	Selaata	31/6/1997
+Hachem	Marianne	20144408	Tripoli	3/9/1960
+Abi Younes	Maria	20147992	Byblos	16/3/1973
+Abi Chahine	Tony	20112484	Nahr Ibrahim	13/7/1994
+Yaacoub	Serena	20110422	Blat	24/2/1997
+Chayban	Serena	20113376	Zouk Mosbeh	1/6/1979
+Anastasiou Bountoktzi	Maria	20187548	Selaata	29/6/1978
+Abi Akl	Louis	20180605	Byblos	5/8/1999
+Assaf	Yara	20158537	Naccache	19/1/1963
+El Mouzawak	Ryan	20132949	Blat	21/10/1954
+Rizk	Frederick	20158598	Dorms	16/11/1968
+El Mouzawak	Yasmina	20186920	Jounieh	19/3/1956
+Kmeid	Romy	20110628	Jounieh	22/1/1989
+Youssef	Marilyne	20138963	Chekka	27/8/1968
+El Haddad	Rouba	20171065	Adma	21/8/1973
+Abi Younes	Peter	20123652	Amchit	28/7/1989
+Abi Akl	Rouba	20156085	Tripoli	10/12/1947
+Frem	Tonia	20147113	Anfeh	20/3/1995
+Chayban	Ryan	20158534	Dorms	22/8/1994
+Abou Younes	Jean	20117860	Dorms	24/11/1999
+Slaiby	Rimane	20181450	Naccache	31/7/1998
+Yaacoub	Marianne	20143502	Batroun	24/9/1945
+Samarani	Layla	20168750	Blat	23/9/1962
+El Haddad	Yasmina	20182829	Chekka	18/5/1958
+Elam	Yasmina	20130233	Batroun	16/12/1977
+Anastasiou Bountoktzi	Mohamad	20112620	Zouk Mosbeh	22/9/1994
+Ghamrawi	Frederick	20123729	Anfeh	14/8/1995
+Abi Younes	Yara	20188778	Jounieh	12/11/1964
+Rizk	Yara	20188768	Dbayeh	13/11/1982
+Zeina	Elisa	20147998	Adma	6/1/1998
+Matta	Youmna	20160306	Jounieh	7/8/1969
+Elam	Layla	20117425	Batroun	4/4/1975
+Zeina	Tony	20179856	Selaata	29/2/1949
+Al Soueity	Ryan	20176412	Anfeh	20/6/1972
+Samarani	Joe	20182271	Awkar	11/8/1997
+Alkadri	Yasmine	20118657	Awkar	5/10/1966
+Hachem	Youmna	20131144	Anfeh	4/8/1950
+Assaf	Yasmina	20113764	Dorms	17/12/1954
+Medawar	Yasmine	20156868	Blat	23/9/1952
+Samarani	John	20152940	Byblos	2/9/1959
+Abi Chahine	Tony	20176097	Jounieh	20/9/1957
+Youssef	Frederick	20165387	Awkar	12/10/1997
+Elam	Frederick	20182853	Awkar	22/5/1967
+Abi Younes	Lea	20148954	Zouk Mikael	6/3/1960
+Frem	Elisa	20154072	Dbayeh	30/1/1982
+Chayban	Tonia	20165303	Dorms	2/8/1955
+Alkadri	Jean	20182287	Dorms	30/2/1980
+Abou Younes	Joe	20119511	Zouk Mosbeh	12/6/1986
+Haroun	Jean	20152412	Anfeh	25/4/1998
+Kmeid	Tonia	20169090	Zouk Mikael	24/10/1985
+Doumiati	Marilyne	20169217	Nahr Ibrahim	9/10/1983
+Zeina	Tony	20161435	Dbayeh	4/8/1980
+Anastasiou Bountoktzi	Peter	20154568	Sahel Alma	21/9/1952
+Youssef	Yara	20177859	Jounieh	25/12/1957
+Matta	Yasmine	20186792	Amchit	20/11/1978
+Slaiby	Frederick	20130253	Anfeh	11/9/1975
+Rizk	John	20116199	Chekka	9/11/1991
+Slaiby	Louis	20147045	Selaata	6/1/1963
+Elam	Rimane	20116639	Amchit	1/8/1954
+Bou-Khalil	Alexandro	20148737	Batroun	14/11/1964
+Medawar	Jad	20123823	Selaata	29/3/1978
+Zarifeh	Ramza	20128529	Zouk Mosbeh	2/8/1955
+Youssef	Yasmine	20174031	Zouk Mosbeh	19/3/1973
+Matta	Farah	20159569	Anfeh	13/4/1972
+Daher	Dennis	20171426	Adma	4/5/1997
+Abi Younes	Marilyne	20119251	Tripoli	20/5/1962
+Abi Akl	Jean	20145420	Nahr Ibrahim	11/8/1964
+El Haddad	Farah	20183842	Dbayeh	21/9/1945
+Kmeid	Francesca	20149662	Chekka	17/2/1982
+Sfeir	Tonia	20119356	Naccache	8/9/1948
+Chayban	Yara	20111053	Tripoli	13/4/1981
+Slaiby	Yara	20122834	Nahr Ibrahim	9/9/1975
+Al Rassi	Farah	20178332	Dorms	18/12/1977
+Al Rassi	Christopher	20150957	Zouk Mosbeh	30/5/1964
+Matta	Ryan	20140174	Dorms	28/12/1987
+Ghamrawi	Frederick	20146296	Anfeh	14/6/1975
+Chayban	Frederick	20174401	Jounieh	28/10/1949
+Frem	Tonia	20181202	Jounieh	31/4/1988
+Haroun	Yasmine	20141339	Byblos	12/8/1967
+Haroun	Maria	20186492	Anfeh	8/7/1951
+Anastasiou Bountoktzi	Youmna	20166521	Sahel Alma	16/4/1977
+Zeina	John	20173742	Chekka	13/10/1957
+Kmeid	Joe	20111865	Anfeh	23/10/1971
+Bou-Khalil	Mohamad	20173284	Batroun	3/10/1968
+Kmeid	Joe	20124079	Dorms	24/4/1980
+Elam	Rimane	20188949	Awkar	8/9/1983
+Charbel	Gaelle	20166681	Jounieh	7/12/1997
+El-Alam	John	20113237	Blat	18/2/1997
+Assaf	Yara	20166093	Zouk Mosbeh	18/2/1966
+Anastasiou Bountoktzi	Louis	20141721	Anfeh	28/2/1959
+Yaacoub	Ahed	20111185	Chekka	31/12/1973
+Abi Akl	John	20153583	Zouk Mosbeh	19/6/1946
+Elam	Lea	20160686	Nahr Ibrahim	11/3/1974
+Medawar	Rimane	20178346	Zouk Mikael	2/6/1952
+Hachem	Lea	20142338	Tripoli	19/2/1997
+Issa	Serena	20134421	Tripoli	25/4/1999
+Slaiby	Nour	20178785	Adma	9/6/1962
+Elam	Mohamad	20132565	Chekka	26/6/1975
+Al Hallak	Christopher	20142553	Dorms	15/12/1993
+Alkadri	Lea	20128782	Sahel Alma	27/7/1992
+El Teress	Tony	20174198	Anfeh	15/12/1979
+El Teress	Leah	20136695	Batroun	14/9/1999
+Anastasiou Bountoktzi	Ghady	20177121	Zouk Mosbeh	6/4/1965
+Frem	Maria	20179172	Amchit	30/12/1997
+El Mouzawak	Maria	20178754	Sahel Alma	14/6/1997
+Daher	Sarah	20117671	Anfeh	8/2/1974
+Assaf	Peter	20149345	Amchit	11/2/1983
+El-Alam	Ryan	20127799	Byblos	15/6/1975
+Abou Younes	Ghady	20127433	Byblos	5/9/1982
+Abi Akl	Rouba	20156309	Dorms	22/2/1995
+Alkadri	Marianne	20128593	Blat	10/10/1966
+Alkhuder	Rimane	20153923	Selaata	16/11/1946
+Issa	Francesca	20123135	Jounieh	4/1/1988
+Faour	Sarah	20136404	Zouk Mosbeh	6/4/1950
+Doumiati	Marianne	20164634	Dbayeh	24/8/1951
+Youssef	Dennis	20130389	Tripoli	6/4/1964
+Alkhuder	Romy	20127952	Selaata	31/11/1947
+Abi Akl	Dennis	20119844	Zouk Mosbeh	7/5/1976
+El Mouzawak	Dennis	20157856	Sahel Alma	19/3/1945
+Faour	Tony	20148924	Zouk Mikael	14/12/1992
+Chayban	Romy	20125129	Awkar	9/8/1985
+Abou Younes	Jad	20157224	Selaata	3/7/1972
+Frem	Frederick	20135361	Batroun	21/4/1979
+Medawar	Lamia	20111490	Naccache	27/9/1953
+Issa	Joe	20146307	Naccache	20/5/1988
+Slaiby	Tonia	20142987	Zouk Mosbeh	15/5/1968
+Abi Younes	Yara	20180802	Adma	21/8/1951
+Faour	Romy	20113700	Byblos	8/5/1971
+Ishak	Ramza	20184317	Zouk Mosbeh	18/11/1987
+Sfeir	Romy	20142051	Dbayeh	5/4/1946
+Issa	Lea	20189146	Zouk Mikael	2/11/1963
+Doumiati	Louis	20144558	Zouk Mikael	13/11/1948
+Rizk	Mohamad	20146487	Dbayeh	26/2/1990
+Assaf	Peter	20160236	Sahel Alma	9/3/1966
+Al Soueity	Louis	20175935	Nahr Ibrahim	3/1/1968
+Alkhuder	Serena	20162480	Awkar	19/9/1989
+Elam	Maria	20129520	Batroun	23/11/1962
+Abi Chahine	Gaelle	20176549	Nahr Ibrahim	12/10/1954
+Doumiati	Tony	20153398	Blat	4/9/1999
+Youssef	John	20157591	Dorms	20/3/1948
+Zarifeh	Marianne	20181254	Selaata	3/11/1994
+Chayban	Tonia	20188294	Anfeh	14/10/1999
+Al Rassi	Yara	20182619	Tripoli	24/1/1995
+Zeina	Louis	20114295	Adma	13/7/1975
+Issa	Romy	20143486	Tripoli	28/2/1964
+Charbel	Ghady	20113121	Chekka	13/3/1953
+Medawar	Marianne	20186101	Zouk Mikael	2/8/1969
+Frem	Rimane	20144194	Dbayeh	14/3/1955
+Abi Chahine	Joe	20147017	Anfeh	10/9/1992
+Ghamrawi	Jad	20117637	Blat	18/2/1973
+Chayban	Youmna	20187043	Byblos	19/12/1995
+Frem	Yasmina	20156838	Blat	31/3/2000
+El Haddad	Alexandro	20186087	Adma	2/12/1986
+El Haddad	Maria	20131859	Tripoli	10/2/1961
+Anastasiou Bountoktzi	Yasmina	20114282	Naccache	31/2/2000
+El Teress	Joseph	20125698	Adma	5/3/1989
+Daher	Louis	20124432	Batroun	20/7/1946
+Ghamrawi	Jean	20126416	Amchit	2/6/1948
+Al Soueity	Tony	20168181	Batroun	28/10/1997
+Zarifeh	Jean	20110646	Awkar	1/3/1994
+Alkhuder	Joseph	20158482	Zouk Mikael	20/11/1979
+Samarani	Joseph	20175970	Dorms	2/8/1989
+Al Soueity	Nour	20113876	Batroun	2/1/1956
+Frem	Yasmina	20181605	Blat	22/1/1954
+Abi Younes	Yasmine	20176503	Batroun	10/2/1957
+Medawar	Marianne	20163961	Dbayeh	20/7/1986
+Bou-Khalil	Marianne	20120803	Dbayeh	23/5/1950
+Al Soueity	John	20168071	Byblos	22/4/1946
+Hachem	Dennis	20121862	Zouk Mikael	2/2/1996
+El-Alam	Yasmine	20119286	Byblos	13/3/1998
+Zarifeh	Ryan	20153530	Adma	31/9/1997
+Doumiati	Gaelle	20185224	Amchit	15/10/1960
+Bou-Khalil	Francesca	20122841	Zouk Mosbeh	14/8/1960
+Ishak	Farah	20167100	Sahel Alma	19/9/1976
+Al Rassi	Ghady	20183484	Sahel Alma	2/2/1998
+Matta	Alexandro	20111527	Amchit	3/10/1970
+Al Hallak	Layla	20155525	Nahr Ibrahim	29/8/1954
+Al Hallak	Ghady	20159922	Adma	28/2/1995
+El Mouzawak	Joseph	20115640	Selaata	31/7/1954
+El Teress	Tonia	20136758	Sahel Alma	20/5/1988
+Assaf	Elisa	20170370	Zouk Mikael	27/2/1973
+Kmeid	Jean	20129724	Byblos	10/6/1986
+Al Hallak	Tony	20184957	Dorms	21/5/1964
+El Teress	Gaelle	20123532	Awkar	30/5/1957
+Elam	Jean	20182780	Chekka	14/3/1986
+Elam	Tonia	20130964	Byblos	25/3/1956
+El-Alam	Romy	20156630	Awkar	6/4/1988
+Ghamrawi	Joseph	20149079	Blat	15/12/1996
+Frem	Lamia	20140218	Sahel Alma	31/6/1972
+El Teress	Frederick	20168011	Tripoli	26/9/1965
+Abi Younes	Romy	20137421	Zouk Mosbeh	14/5/1985
+Frem	Marilyne	20147474	Nahr Ibrahim	1/4/1958
+Abou Younes	Yasmina	20175737	Zouk Mosbeh	8/7/1945
+Abi Akl	Yara	20160577	Nahr Ibrahim	6/1/1996
+Doumiati	Farah	20145446	Tripoli	16/1/1993
+Al Soueity	Marianne	20116103	Amchit	23/3/1950
+Al Hallak	Yasmina	20117421	Chekka	25/12/1958
+Abi Chahine	Tonia	20116515	Nahr Ibrahim	31/2/1959
+Yaacoub	Jad	20156973	Byblos	1/11/1958
+Ghamrawi	Yara	20181492	Amchit	10/7/1967
+Zarifeh	Francesca	20115535	Dbayeh	16/9/1985
+Abou Younes	Rimane	20166555	Zouk Mikael	14/12/1981
+Ghamrawi	John	20162212	Amchit	17/7/1968
+Yaacoub	Mohamad	20147427	Anfeh	31/5/1999
+Alkadri	Alexandro	20123038	Tripoli	20/4/1968
+Matta	Dennis	20114276	Byblos	30/2/1948
+Ishak	Youmna	20140640	Anfeh	28/4/1997
+Medawar	Francesca	20170528	Dorms	3/9/1990
+Kmeid	Joseph	20161374	Selaata	1/1/1954
+El Teress	Gaelle	20145144	Tripoli	18/10/1958
+El-Alam	Jad	20156106	Jounieh	2/4/1972
+Alkhuder	Yara	20141533	Awkar	24/3/1973
+Abi Chahine	Yara	20124203	Adma	11/8/1975
+Hachem	Dennis	20112527	Nahr Ibrahim	4/5/1972
+Abou Younes	Alexandro	20185931	Amchit	26/3/1970
+Elam	Romy	20178641	Dbayeh	5/12/1977
+Doumiati	Jean	20130602	Selaata	26/5/1983
+Bou-Khalil	Joseph	20137517	Awkar	8/12/1949
+Elam	Francesca	20171073	Dbayeh	6/1/1998
+Abou Younes	Dennis	20143685	Byblos	26/9/1968
+Frem	Layla	20152615	Batroun	13/5/1964
+Slaiby	Marianne	20181482	Naccache	10/2/1982
+Slaiby	Peter	20154022	Naccache	18/7/1993
+Abi Younes	Frederick	20124271	Selaata	4/6/1951
+Zarifeh	Jad	20120173	Blat	3/3/1971
+Elam	Ramza	20171308	Zouk Mosbeh	25/9/1969
+Al Soueity	Dennis	20177835	Blat	11/10/1993
+Hachem	Francesca	20157048	Chekka	8/1/1948
+Al Soueity	Alexandro	20159075	Selaata	29/4/1973
+Frem	Alexandro	20123139	Selaata	12/5/1958
+Samarani	Layla	20133259	Dorms	22/2/1955
+Yaacoub	Joe	20110351	Selaata	16/11/1968
+Abi Chahine	Ramza	20142354	Batroun	2/10/1993
+Alkadri	Dennis	20154302	Anfeh	21/4/1994
+Hachem	Marilyne	20121520	Blat	24/7/1949
+Matta	Mohamad	20125216	Sahel Alma	6/6/1956
+Slaiby	Layla	20152564	Anfeh	22/6/1957
+Medawar	Ramza	20111295	Byblos	20/5/1985
+Anastasiou Bountoktzi	Tonia	20112285	Selaata	20/4/1993
+Al Soueity	Gaelle	20120308	Zouk Mikael	24/4/1990
+Alkhuder	Ryan	20118756	Zouk Mikael	27/3/1982
+Al Rassi	Layla	20134683	Amchit	11/4/1974
+El Teress	Lea	20124931	Dorms	8/6/1994
+El-Alam	Nour	20139156	Chekka	10/8/1947
+El Mouzawak	Joseph	20160217	Adma	6/3/1989
+Ishak	Layla	20114199	Selaata	7/11/1990
+Haroun	Layla	20176447	Batroun	8/3/1986
+El-Alam	Yasmina	20185050	Naccache	11/5/1976
+Elam	Jad	20175657	Zouk Mosbeh	2/9/1966
+Ghamrawi	Serena	20126246	Tripoli	30/2/1992
+Charbel	Youmna	20157708	Anfeh	15/6/1978
+Abi Akl	Louis	20182329	Naccache	6/2/1945
+Daher	Serena	20184727	Amchit	6/8/1972
+Kmeid	Yara	20127451	Amchit	21/8/1954
+Al Hallak	Louis	20137556	Sahel Alma	4/10/1967
+Zeina	Tonia	20122203	Anfeh	29/10/1947
+Sfeir	Dennis	20129582	Zouk Mosbeh	14/8/1949
+Anastasiou Bountoktzi	Leah	20151685	Byblos	23/3/1973
+Charbel	Maria	20164197	Chekka	23/11/1965
+Matta	Jad	20123508	Awkar	13/11/1955
+Kmeid	Lamia	20166618	Adma	2/4/1985
+Slaiby	Louis	20187882	Batroun	11/10/1972
+Faour	Yara	20158934	Anfeh	4/10/1996
+Abou Younes	Peter	20117689	Tripoli	13/2/1986
+Al Hallak	Joseph	20111360	Byblos	11/4/1958
+Sfeir	Jad	20159633	Awkar	16/11/1989
+Haroun	Gaelle	20129463	Dorms	2/8/1971
+Slaiby	Ryan	20133757	Dorms	24/4/1998
+Daher	Jean	20150023	Dbayeh	6/5/1975
+Kmeid	Yara	20153640	Dorms	30/1/1946
+Kmeid	Yasmina	20141158	Blat	27/12/1953
+El Teress	Louis	20147865	Naccache	2/1/1959
+Zarifeh	Jean	20118490	Dbayeh	31/8/1976
+Ishak	John	20182946	Jounieh	7/4/1990
+Rizk	Louis	20128613	Tripoli	10/1/1950
+Bou-Khalil	Tonia	20150552	Amchit	2/3/1998
+Elam	Louis	20157699	Zouk Mosbeh	19/12/1979
+Bou-Khalil	Louis	20140220	Nahr Ibrahim	26/2/1993
+Zeina	Frederick	20160403	Blat	11/9/1949
+Abi Akl	Farah	20177597	Blat	11/6/1969
+El Haddad	Youmna	20158514	Naccache	14/3/1968
+Medawar	Serena	20166962	Byblos	19/4/1959
+Elam	Dennis	20180837	Dbayeh	5/2/1998
+Kmeid	Yara	20189807	Chekka	16/12/1950
+Ghamrawi	Marilyne	20159662	Byblos	1/3/1947
+Al Hallak	Mohamad	20189105	Selaata	6/3/2000
+Abi Chahine	Yasmine	20144470	Naccache	30/10/1985
+Abou Younes	Layla	20132032	Zouk Mikael	5/9/1984
+El Mouzawak	Tonia	20160849	Awkar	2/2/1971
+Zeina	Francesca	20178937	Awkar	6/12/1982
+Matta	John	20115623	Zouk Mosbeh	23/7/1993
+Al Soueity	Alexandro	20112062	Jounieh	16/5/1953
+Kmeid	Yasmina	20143420	Chekka	18/11/2000
+Medawar	Louis	20134673	Dbayeh	2/5/1995
+El Haddad	Mohamad	20163492	Byblos	13/3/1959
+Frem	Tony	20116005	Adma	20/2/1983
+El Teress	Youmna	20111450	Batroun	18/8/1947
+Abi Chahine	Lea	20146374	Awkar	8/8/1995
+Bou-Khalil	Lamia	20181989	Zouk Mikael	21/10/1994
+Sfeir	Maria	20124494	Zouk Mosbeh	20/9/1962
+Al Rassi	Ramza	20129250	Naccache	23/10/1952
+Alkhuder	Layla	20125014	Byblos	8/11/1953
+Ishak	Layla	20136097	Anfeh	18/7/1953
+Haroun	Yasmine	20172188	Zouk Mosbeh	3/6/1975
+Ishak	Ramza	20170275	Tripoli	22/8/1959
+Al Hallak	Elisa	20174930	Awkar	22/12/1973
+Ghamrawi	Rimane	20136544	Awkar	30/3/1948
+Elam	Frederick	20184160	Naccache	25/8/1986
+El Teress	Yara	20186997	Anfeh	20/3/1958
+Abi Chahine	Louis	20122383	Anfeh	9/6/1959
+Alkadri	Ryan	20154406	Zouk Mikael	7/11/1974
+Doumiati	Rimane	20133174	Blat	21/3/1953
+El-Alam	Layla	20181397	Anfeh	21/4/1961
+Zeina	Frederick	20139095	Chekka	29/8/1978
+Rizk	Youmna	20172874	Zouk Mosbeh	10/11/1986
+Frem	Ramza	20188026	Sahel Alma	6/2/1964
+Doumiati	Sarah	20132341	Tripoli	3/6/1957
+Elam	Tonia	20169781	Amchit	11/8/1985
+Ishak	Christopher	20165021	Blat	25/11/1967
+Elam	Romy	20157352	Nahr Ibrahim	22/1/1990
+Zarifeh	Jad	20151748	Awkar	7/2/1998
+El Teress	John	20173720	Zouk Mosbeh	9/6/1974
+Al Soueity	Serena	20151172	Dorms	29/10/1959
+Issa	Rimane	20189749	Dbayeh	12/5/1949
+Sfeir	Layla	20121874	Awkar	30/5/1977
+Abou Younes	Jad	20175595	Batroun	13/5/1983
+El Teress	Tonia	20146138	Selaata	5/4/2000
+Matta	Yasmine	20117028	Adma	28/4/1993
+Matta	Alexandro	20169127	Byblos	2/5/1993
+El-Alam	Yara	20173315	Dorms	5/12/1998
+Alkhuder	Mohamad	20159789	Nahr Ibrahim	8/1/1993
+Rizk	Marianne	20143249	Byblos	24/7/1972
+Bou-Khalil	Peter	20149162	Adma	14/10/1996
+Youssef	Leah	20183438	Naccache	22/3/1969
+Kmeid	Yasmine	20110651	Sahel Alma	26/5/1964
+Haroun	Nour	20149850	Batroun	7/10/1993
+Youssef	Dennis	20167970	Naccache	22/4/1960
+Frem	Maria	20142387	Awkar	19/4/1969
+Samarani	Tonia	20165975	Zouk Mosbeh	12/10/1997
+Chayban	Romy	20118723	Sahel Alma	13/4/1996
+El Mouzawak	Joseph	20158111	Tripoli	30/2/1954
+Medawar	Marilyne	20136783	Anfeh	13/8/1961
+Youssef	Mohamad	20118623	Dorms	14/7/1949
+Abou Younes	Tony	20125589	Byblos	27/2/1988
+Bou-Khalil	John	20127161	Blat	24/6/1964
+Frem	Sarah	20157826	Awkar	8/5/1959
+Frem	Sarah	20124497	Zouk Mikael	6/9/1950
+El-Alam	Alexandro	20148444	Naccache	4/3/1998
+Matta	Francesca	20114696	Byblos	19/10/1999
+Abi Akl	Joe	20175521	Adma	8/3/1965
+Abou Younes	Yasmina	20146716	Zouk Mikael	4/7/1949
+Rizk	Ahed	20167915	Anfeh	14/2/1994
+El Haddad	Maria	20183638	Naccache	6/3/1979
+El-Alam	John	20119260	Zouk Mikael	11/3/1992
+Elam	Peter	20122431	Amchit	24/4/1959
+Matta	Ramza	20174934	Amchit	6/12/2000
+Doumiati	Frederick	20182741	Awkar	15/1/1987
+El Haddad	Sarah	20179897	Sahel Alma	14/11/1946
+Youssef	Yasmine	20133264	Anfeh	1/12/1954
+Haroun	Maria	20130404	Nahr Ibrahim	18/3/1997
+Abi Younes	Dennis	20126989	Zouk Mosbeh	11/5/1948
+Frem	Farah	20151953	Zouk Mosbeh	6/10/1964
+Matta	Sarah	20146808	Byblos	26/2/1961
+El Haddad	Layla	20160168	Naccache	14/7/1962
+Doumiati	Ramza	20112716	Jounieh	25/1/1954
+Ishak	Yara	20153191	Jounieh	5/5/1979
+Matta	Romy	20189917	Anfeh	13/1/1999
+Zarifeh	Layla	20118795	Sahel Alma	6/9/2000
+Frem	Ghady	20181853	Chekka	1/5/1962
+Matta	Alexandro	20133213	Awkar	19/5/1945
+Samarani	Yasmine	20150721	Nahr Ibrahim	30/1/1949
+Frem	Serena	20112710	Byblos	2/12/1991
+Faour	Jean	20144164	Adma	7/2/1980
+Daher	Frederick	20150620	Dorms	1/11/1953
+Ghamrawi	Joseph	20174629	Dorms	23/2/1953
+Abi Chahine	Ryan	20137739	Blat	11/6/1946
+Haroun	Jad	20181030	Adma	23/9/1979
+Zeina	Marilyne	20121876	Jounieh	25/5/1951
+Al Soueity	Lamia	20130963	Nahr Ibrahim	28/9/1955
+Abi Younes	Peter	20132206	Nahr Ibrahim	4/8/1975
+El Teress	Frederick	20187136	Chekka	10/3/1975
+Frem	Dennis	20188496	Nahr Ibrahim	31/3/1982
+Alkadri	Ryan	20159525	Byblos	12/4/1982
+Yaacoub	Jad	20110538	Awkar	24/5/2000
+Slaiby	Ryan	20128663	Sahel Alma	8/7/1954
+Yaacoub	Mohamad	20137249	Zouk Mosbeh	15/6/1975
+Yaacoub	Dennis	20152536	Chekka	26/8/1954
+Ghamrawi	Gaelle	20180042	Dorms	28/8/1946
+Assaf	Jean	20113631	Adma	9/8/1954
+Charbel	Yasmine	20176066	Adma	13/2/1970
+Yaacoub	Ghady	20134769	Chekka	2/3/1989
+Zarifeh	Christopher	20173986	Jounieh	7/12/1980
+Daher	Marianne	20152537	Dorms	21/1/1996
+Medawar	Rimane	20182353	Batroun	23/4/1979
+Frem	Dennis	20154700	Nahr Ibrahim	21/6/1960
+Anastasiou Bountoktzi	Farah	20154651	Zouk Mosbeh	15/12/1969
+Abi Akl	Ahed	20166448	Zouk Mosbeh	10/9/1999
+El Mouzawak	Tonia	20167275	Dorms	30/11/1950
+Anastasiou Bountoktzi	Louis	20130815	Batroun	7/2/1991
+Sfeir	Elisa	20136846	Sahel Alma	31/10/1995
+Charbel	Jad	20132101	Selaata	15/5/1974
+Daher	Jean	20144039	Dorms	29/7/1972
+Abi Akl	Nour	20135750	Batroun	27/3/1957
+El Mouzawak	Louis	20188253	Nahr Ibrahim	1/9/1997
+Chayban	Joe	20127840	Zouk Mikael	6/11/1955
+El-Alam	Frederick	20170467	Blat	10/8/1991
+Sfeir	Peter	20127902	Dorms	27/11/1953
+Yaacoub	Louis	20164056	Amchit	19/8/1969
+Assaf	Marianne	20151814	Batroun	8/10/1993
+Assaf	Yasmine	20113730	Anfeh	29/5/1960
+Elam	Louis	20184731	Blat	24/8/1991
+Ghamrawi	Jean	20120233	Awkar	7/10/1994
+Medawar	Lamia	20122148	Dbayeh	29/1/1996
+Frem	Romy	20181340	Nahr Ibrahim	8/9/1974
+Zarifeh	Rouba	20182196	Nahr Ibrahim	30/9/1954

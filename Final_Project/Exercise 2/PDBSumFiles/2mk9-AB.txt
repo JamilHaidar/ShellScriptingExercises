@@ -1,0 +1,49 @@
+List of atom-atom interactions across protein-protein interface
+---------------------------------------------------------------
+
+
+                 PDB code: 2mk9   Chains A }{ B
+                 ------------------------------
+
+
+
+Non-bonded contacts
+-------------------
+
+       <----- A T O M   1 ----->       <----- A T O M   2 ----->
+
+       Atom Atom Res  Res              Atom Atom Res  Res
+        no. name name no.  Chain        no. name name no.  Chain  Distance
+  1.    228  OG  SER   15    A   <-->   946  CZ  PHE  122    B      3.69
+  2.    278  CD1 LEU   18    A   <-->   865  CD1 LEU  118    B      3.11
+  3.    291  N   ILE   19    A   <-->   945  CE2 PHE  122    B      3.84
+  4.    292  CA  ILE   19    A   <-->   943  CD2 PHE  122    B      3.68
+  5.    296  CG1 ILE   19    A   <-->   941  CG  PHE  122    B      3.76
+  6.    296  CG1 ILE   19    A   <-->   942  CD1 PHE  122    B      3.68
+  7.    296  CG1 ILE   19    A   <-->   943  CD2 PHE  122    B      3.55
+  8.    296  CG1 ILE   19    A   <-->   944  CE1 PHE  122    B      3.38
+  9.    296  CG1 ILE   19    A   <-->   945  CE2 PHE  122    B      3.24
+ 10.    296  CG1 ILE   19    A   <-->   946  CZ  PHE  122    B      3.15
+ 11.    298  CD1 ILE   19    A   <-->   946  CZ  PHE  122    B      3.79
+ 12.    353  CB  PHE   22    A   <-->   963  CD1 ILE  123    B      3.67
+ 13.    354  CG  PHE   22    A   <-->   883  CG1 ILE  119    B      3.75
+ 14.    355  CD1 PHE   22    A   <-->   883  CG1 ILE  119    B      3.67
+ 15.    356  CD2 PHE   22    A   <-->   879  CA  ILE  119    B      3.69
+ 16.    356  CD2 PHE   22    A   <-->   883  CG1 ILE  119    B      3.54
+ 17.    357  CE1 PHE   22    A   <-->   883  CG1 ILE  119    B      3.37
+ 18.    357  CE1 PHE   22    A   <-->   885  CD1 ILE  119    B      3.90
+ 19.    358  CE2 PHE   22    A   <-->   878  N   ILE  119    B      3.85
+ 20.    358  CE2 PHE   22    A   <-->   883  CG1 ILE  119    B      3.24
+ 21.    359  CZ  PHE   22    A   <-->   815  OG  SER  115    B      3.67
+ 22.    359  CZ  PHE   22    A   <-->   883  CG1 ILE  119    B      3.15
+ 23.    359  CZ  PHE   22    A   <-->   885  CD1 ILE  119    B      3.78
+ 24.    374  CG1 ILE   23    A   <-->  1015  CG  LEU  126    B      3.69
+ 25.    374  CG1 ILE   23    A   <-->  1017  CD2 LEU  126    B      3.17
+ 26.    376  CD1 ILE   23    A   <-->   940  CB  PHE  122    B      3.67
+ 27.    376  CD1 ILE   23    A   <-->  1017  CD2 LEU  126    B      3.34
+ 28.    428  CG  LEU   26    A   <-->   961  CG1 ILE  123    B      3.69
+ 29.    430  CD2 LEU   26    A   <-->   961  CG1 ILE  123    B      3.18
+ 30.    430  CD2 LEU   26    A   <-->   963  CD1 ILE  123    B      3.34
+
+Number of non-bonded contacts:    30
+

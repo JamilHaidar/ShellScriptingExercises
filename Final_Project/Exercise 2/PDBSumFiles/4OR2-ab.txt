@@ -1,0 +1,153 @@
+List of atom-atom interactions across protein-protein interface
+---------------------------------------------------------------
+
+
+                 PDB code: 4or2   Chains A }{ B
+                 ------------------------------
+
+
+
+Hydrogen bonds
+--------------
+
+       <----- A T O M   1 ----->       <----- A T O M   2 ----->
+
+       Atom Atom Res  Res              Atom Atom Res  Res
+        no. name name no.  Chain        no. name name no.  Chain  Distance
+  1.    351  NZ  LYS 1047    A   <-->  3155  OE2 GLU 1049    B      2.94
+  2.    351  NZ  LYS 1047    A   <-->  3162  OD1 ASP 1050    B      2.78
+  3.    368  OE2 GLU 1049    A   <-->  3138  NZ  LYS 1047    B      3.06
+  4.    375  OD1 ASP 1050    A   <-->  3138  NZ  LYS 1047    B      2.78
+  5.    375  OD1 ASP 1050    A   <-->  3617  N   VAL  583    B      2.87
+  6.    830  N   VAL  583    A   <-->  3162  OD1 ASP 1050    B      3.08
+
+Non-bonded contacts
+-------------------
+
+       <----- A T O M   1 ----->       <----- A T O M   2 ----->
+
+       Atom Atom Res  Res              Atom Atom Res  Res
+        no. name name no.  Chain        no. name name no.  Chain  Distance
+  1.    339  O   PRO 1046    A   <-->  3131  CA  LYS 1047    B      3.70
+  2.    339  O   PRO 1046    A   <-->  3134  CB  LYS 1047    B      3.34
+  3.    340  CB  PRO 1046    A   <-->  3127  CB  PRO 1046    B      3.67
+  4.    340  CB  PRO 1046    A   <-->  3128  CG  PRO 1046    B      3.58
+  5.    341  CG  PRO 1046    A   <-->  3127  CB  PRO 1046    B      3.63
+  6.    341  CG  PRO 1046    A   <-->  3128  CG  PRO 1046    B      3.79
+  7.    344  CA  LYS 1047    A   <-->  3126  O   PRO 1046    B      3.61
+  8.    344  CA  LYS 1047    A   <-->  3131  CA  LYS 1047    B      3.56
+  9.    347  CB  LYS 1047    A   <-->  3126  O   PRO 1046    B      3.21
+ 10.    349  CD  LYS 1047    A   <-->  3153  CD  GLU 1049    B      3.82
+ 11.    349  CD  LYS 1047    A   <-->  3155  OE2 GLU 1049    B      3.15
+ 12.    350  CE  LYS 1047    A   <-->  3155  OE2 GLU 1049    B      3.56
+ 13.    350  CE  LYS 1047    A   <-->  3161  CG  ASP 1050    B      3.60
+ 14.    350  CE  LYS 1047    A   <-->  3162  OD1 ASP 1050    B      3.39
+ 15.    350  CE  LYS 1047    A   <-->  3163  OD2 ASP 1050    B      3.22
+ 16.    351  NZ  LYS 1047    A   <-->  3155  OE2 GLU 1049    B      2.94
+ 17.    351  NZ  LYS 1047    A   <-->  3161  CG  ASP 1050    B      3.38
+ 18.    351  NZ  LYS 1047    A   <-->  3162  OD1 ASP 1050    B      2.78
+ 19.    351  NZ  LYS 1047    A   <-->  3163  OD2 ASP 1050    B      3.25
+ 20.    363  O   GLU 1049    A   <-->  3614  CB  PRO  582    B      3.51
+ 21.    365  CG  GLU 1049    A   <-->  3611  CA  PRO  582    B      3.85
+ 22.    366  CD  GLU 1049    A   <-->  3610  N   PRO  582    B      3.80
+ 23.    366  CD  GLU 1049    A   <-->  3611  CA  PRO  582    B      3.80
+ 24.    368  OE2 GLU 1049    A   <-->  3136  CD  LYS 1047    B      3.33
+ 25.    368  OE2 GLU 1049    A   <-->  3137  CE  LYS 1047    B      3.73
+ 26.    368  OE2 GLU 1049    A   <-->  3138  NZ  LYS 1047    B      3.06
+ 27.    368  OE2 GLU 1049    A   <-->  3604  C   ILE  581    B      3.15
+ 28.    368  OE2 GLU 1049    A   <-->  3605  O   ILE  581    B      3.10
+ 29.    368  OE2 GLU 1049    A   <-->  3610  N   PRO  582    B      3.35
+ 30.    368  OE2 GLU 1049    A   <-->  3611  CA  PRO  582    B      3.58
+ 31.    370  CA  ASP 1050    A   <-->  3620  O   VAL  583    B      3.26
+ 32.    371  C   ASP 1050    A   <-->  3620  O   VAL  583    B      3.84
+ 33.    372  O   ASP 1050    A   <-->  3620  O   VAL  583    B      3.46
+ 34.    372  O   ASP 1050    A   <-->  3630  CD  ARG  584    B      3.53
+ 35.    372  O   ASP 1050    A   <-->  3631  NE  ARG  584    B      3.89
+ 36.    373  CB  ASP 1050    A   <-->  3620  O   VAL  583    B      3.14
+ 37.    373  CB  ASP 1050    A   <-->  3644  CE2 TYR  585    B      3.82
+ 38.    374  CG  ASP 1050    A   <-->  3137  CE  LYS 1047    B      3.56
+ 39.    374  CG  ASP 1050    A   <-->  3138  NZ  LYS 1047    B      3.33
+ 40.    374  CG  ASP 1050    A   <-->  3617  N   VAL  583    B      3.61
+ 41.    374  CG  ASP 1050    A   <-->  3620  O   VAL  583    B      3.12
+ 42.    375  OD1 ASP 1050    A   <-->  3137  CE  LYS 1047    B      3.41
+ 43.    375  OD1 ASP 1050    A   <-->  3138  NZ  LYS 1047    B      2.78
+ 44.    375  OD1 ASP 1050    A   <-->  3605  O   ILE  581    B      3.76
+ 45.    375  OD1 ASP 1050    A   <-->  3611  CA  PRO  582    B      3.58
+ 46.    375  OD1 ASP 1050    A   <-->  3612  C   PRO  582    B      3.69
+ 47.    375  OD1 ASP 1050    A   <-->  3617  N   VAL  583    B      2.87
+ 48.    375  OD1 ASP 1050    A   <-->  3618  CA  VAL  583    B      3.80
+ 49.    375  OD1 ASP 1050    A   <-->  3620  O   VAL  583    B      3.39
+ 50.    376  OD2 ASP 1050    A   <-->  3137  CE  LYS 1047    B      3.16
+ 51.    376  OD2 ASP 1050    A   <-->  3138  NZ  LYS 1047    B      3.16
+ 52.    376  OD2 ASP 1050    A   <-->  3620  O   VAL  583    B      3.56
+ 53.    376  OD2 ASP 1050    A   <-->  3644  CE2 TYR  585    B      3.68
+ 54.    378  CA  LYS 1051    A   <-->  3663  OE2 GLU  587    B      3.26
+ 55.    379  C   LYS 1051    A   <-->  3663  OE2 GLU  587    B      3.87
+ 56.    381  CB  LYS 1051    A   <-->  3663  OE2 GLU  587    B      3.58
+ 57.    383  CD  LYS 1051    A   <-->  3663  OE2 GLU  587    B      3.39
+ 58.    386  N   SER 1052    A   <-->  3661  CD  GLU  587    B      3.66
+ 59.    386  N   SER 1052    A   <-->  3662  OE1 GLU  587    B      3.57
+ 60.    386  N   SER 1052    A   <-->  3663  OE2 GLU  587    B      3.43
+ 61.    387  CA  SER 1052    A   <-->  3632  CZ  ARG  584    B      3.80
+ 62.    387  CA  SER 1052    A   <-->  3634  NH2 ARG  584    B      3.90
+ 63.    390  CB  SER 1052    A   <-->  3634  NH2 ARG  584    B      3.56
+ 64.    390  CB  SER 1052    A   <-->  3662  OE1 GLU  587    B      3.36
+ 65.    391  OG  SER 1052    A   <-->  3634  NH2 ARG  584    B      3.71
+ 66.    398  CD  PRO 1053    A   <-->  3633  NH1 ARG  584    B      3.59
+ 67.    411  CB  SER 1055    A   <-->  3662  OE1 GLU  587    B      3.59
+ 68.    419  CD  PRO 1056    A   <-->  3682  CB  SER  589    B      3.49
+ 69.    419  CD  PRO 1056    A   <-->  3683  OG  SER  589    B      3.47
+ 70.    817  C   ILE  581    A   <-->  3155  OE2 GLU 1049    B      3.22
+ 71.    818  O   ILE  581    A   <-->  3155  OE2 GLU 1049    B      3.22
+ 72.    823  N   PRO  582    A   <-->  3153  CD  GLU 1049    B      3.77
+ 73.    823  N   PRO  582    A   <-->  3155  OE2 GLU 1049    B      3.29
+ 74.    824  CA  PRO  582    A   <-->  3152  CG  GLU 1049    B      3.86
+ 75.    824  CA  PRO  582    A   <-->  3153  CD  GLU 1049    B      3.72
+ 76.    824  CA  PRO  582    A   <-->  3155  OE2 GLU 1049    B      3.46
+ 77.    824  CA  PRO  582    A   <-->  3162  OD1 ASP 1050    B      3.69
+ 78.    825  C   PRO  582    A   <-->  3162  OD1 ASP 1050    B      3.87
+ 79.    827  CB  PRO  582    A   <-->  3150  O   GLU 1049    B      3.62
+ 80.    830  N   VAL  583    A   <-->  3161  CG  ASP 1050    B      3.89
+ 81.    830  N   VAL  583    A   <-->  3162  OD1 ASP 1050    B      3.08
+ 82.    833  O   VAL  583    A   <-->  3157  CA  ASP 1050    B      3.47
+ 83.    833  O   VAL  583    A   <-->  3159  O   ASP 1050    B      3.67
+ 84.    833  O   VAL  583    A   <-->  3160  CB  ASP 1050    B      3.48
+ 85.    833  O   VAL  583    A   <-->  3161  CG  ASP 1050    B      3.45
+ 86.    833  O   VAL  583    A   <-->  3162  OD1 ASP 1050    B      3.54
+ 87.    836  CG2 VAL  583    A   <-->  3161  CG  ASP 1050    B      3.80
+ 88.    836  CG2 VAL  583    A   <-->  3162  OD1 ASP 1050    B      3.81
+ 89.    836  CG2 VAL  583    A   <-->  3163  OD2 ASP 1050    B      3.50
+ 90.    857  CE2 TYR  585    A   <-->  3160  CB  ASP 1050    B      3.79
+ 91.    857  CE2 TYR  585    A   <-->  3163  OD2 ASP 1050    B      3.62
+ 92.    874  CD  GLU  587    A   <-->  3173  N   SER 1052    B      3.55
+ 93.    875  OE1 GLU  587    A   <-->  3165  CA  LYS 1051    B      3.32
+ 94.    875  OE1 GLU  587    A   <-->  3166  C   LYS 1051    B      3.89
+ 95.    875  OE1 GLU  587    A   <-->  3168  CB  LYS 1051    B      3.75
+ 96.    875  OE1 GLU  587    A   <-->  3170  CD  LYS 1051    B      3.64
+ 97.    875  OE1 GLU  587    A   <-->  3173  N   SER 1052    B      3.42
+ 98.    876  OE2 GLU  587    A   <-->  3173  N   SER 1052    B      3.55
+ 99.    876  OE2 GLU  587    A   <-->  3177  CB  SER 1052    B      3.31
+100.    876  OE2 GLU  587    A   <-->  3198  CB  SER 1055    B      3.41
+101.    895  CB  SER  589    A   <-->  3206  CD  PRO 1056    B      3.56
+102.    896  OG  SER  589    A   <-->  3206  CD  PRO 1056    B      3.44
+103.   1012  CD2 LEU  605    A   <-->  3820  CD1 LEU  608    B      3.70
+104.   1033  CD1 LEU  608    A   <-->  3799  CD2 LEU  605    B      3.73
+105.   1041  CD1 PHE  609    A   <-->  3853  CD1 LEU  612    B      3.86
+106.   1041  CD1 PHE  609    A   <-->  3854  CD2 LEU  612    B      3.61
+107.   1043  CE1 PHE  609    A   <-->  3853  CD1 LEU  612    B      3.76
+108.   1066  CD1 LEU  612    A   <-->  3828  CD1 PHE  609    B      3.77
+109.   1066  CD1 LEU  612    A   <-->  3830  CE1 PHE  609    B      3.52
+110.   1067  CD2 LEU  612    A   <-->  3828  CD1 PHE  609    B      3.75
+111.   1067  CD2 LEU  612    A   <-->  3854  CD2 LEU  612    B      3.56
+112.   1075  CD1 ILE  613    A   <-->  3887  CD1 LEU  616    B      3.75
+113.   1075  CD1 ILE  613    A   <-->  3888  CD2 LEU  616    B      3.90
+114.   1100  CD1 LEU  616    A   <-->  3862  CD1 ILE  613    B      3.73
+115.   1100  CD1 LEU  616    A   <-->  3887  CD1 LEU  616    B      3.63
+116.   1101  CD2 LEU  616    A   <-->  3862  CD1 ILE  613    B      3.88
+117.   1101  CD2 LEU  616    A   <-->  3900  OH  TYR  617    B      3.59
+118.   1373  NZ  LYS  651    A   <-->  3163  OD2 ASP 1050    B      3.86
+
+Number of hydrogen bonds:          6
+
+Number of non-bonded contacts:   118
+

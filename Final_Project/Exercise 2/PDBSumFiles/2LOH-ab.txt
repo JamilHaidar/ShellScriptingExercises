@@ -1,0 +1,62 @@
+List of atom-atom interactions across protein-protein interface
+---------------------------------------------------------------
+
+
+                 PDB code: 2loh   Chains A }{ B
+                 ------------------------------
+
+
+
+Non-bonded contacts
+-------------------
+
+       <----- A T O M   1 ----->       <----- A T O M   2 ----->
+
+       Atom Atom Res  Res              Atom Atom Res  Res
+        no. name name no.  Chain        no. name name no.  Chain  Distance
+  1.      1  N   GLY    1    A   <-->   724  C   LEU    5    B      3.72
+  2.      1  N   GLY    1    A   <-->   725  O   LEU    5    B      3.58
+  3.      1  N   GLY    1    A   <-->   726  CB  LEU    5    B      3.52
+  4.      2  CA  GLY    1    A   <-->   724  C   LEU    5    B      3.89
+  5.      2  CA  GLY    1    A   <-->   725  O   LEU    5    B      3.29
+  6.      8  N   SER    2    A   <-->   728  CD1 LEU    5    B      3.70
+  7.     19  N   GLN    3    A   <-->   728  CD1 LEU    5    B      3.51
+  8.     23  CB  GLN    3    A   <-->   728  CD1 LEU    5    B      3.85
+  9.     36  N   LYS    4    A   <-->   727  CG  LEU    5    B      3.83
+ 10.     42  CD  LYS    4    A   <-->   673  CA  SER    2    B      3.54
+ 11.     42  CD  LYS    4    A   <-->   676  CB  SER    2    B      3.80
+ 12.     42  CD  LYS    4    A   <-->   677  OG  SER    2    B      3.10
+ 13.     43  CE  LYS    4    A   <-->   677  OG  SER    2    B      3.43
+ 14.     44  NZ  LYS    4    A   <-->   673  CA  SER    2    B      3.81
+ 15.     44  NZ  LYS    4    A   <-->   674  C   SER    2    B      3.84
+ 16.     44  NZ  LYS    4    A   <-->   675  O   SER    2    B      3.81
+ 17.     44  NZ  LYS    4    A   <-->   676  CB  SER    2    B      3.55
+ 18.     44  NZ  LYS    4    A   <-->   677  OG  SER    2    B      3.25
+ 19.    263  CG2 ILE   19    A   <-->   927  CG2 ILE   19    B      3.41
+ 20.    263  CG2 ILE   19    A   <-->   992  CE  MET   23    B      3.30
+ 21.    264  CD1 ILE   19    A   <-->   992  CE  MET   23    B      3.57
+ 22.    306  CB  LEU   22    A   <-->   989  CB  MET   23    B      3.90
+ 23.    325  CB  MET   23    A   <-->   970  CB  LEU   22    B      3.77
+ 24.    328  CE  MET   23    A   <-->   927  CG2 ILE   19    B      3.70
+ 25.    364  O   GLY   26    A   <-->  1028  O   GLY   26    B      3.79
+ 26.    420  CA  ALA   30    A   <-->  1084  CA  ALA   30    B      3.82
+ 27.    420  CA  ALA   30    A   <-->  1087  CB  ALA   30    B      3.84
+ 28.    423  CB  ALA   30    A   <-->  1084  CA  ALA   30    B      3.65
+ 29.    423  CB  ALA   30    A   <-->  1087  CB  ALA   30    B      3.74
+ 30.    461  C   ILE   33    A   <-->  1129  CG2 ILE   33    B      3.66
+ 31.    462  O   ILE   33    A   <-->  1129  CG2 ILE   33    B      3.83
+ 32.    463  CB  ILE   33    A   <-->  1129  CG2 ILE   33    B      3.79
+ 33.    464  CG1 ILE   33    A   <-->  1148  CG2 VAL   34    B      3.65
+ 34.    465  CG2 ILE   33    A   <-->  1125  C   ILE   33    B      3.66
+ 35.    465  CG2 ILE   33    A   <-->  1126  O   ILE   33    B      3.64
+ 36.    465  CG2 ILE   33    A   <-->  1129  CG2 ILE   33    B      3.41
+ 37.    465  CG2 ILE   33    A   <-->  1142  N   VAL   34    B      3.65
+ 38.    465  CG2 ILE   33    A   <-->  1143  CA  VAL   34    B      3.63
+ 39.    478  N   VAL   34    A   <-->  1129  CG2 ILE   33    B      3.51
+ 40.    479  CA  VAL   34    A   <-->  1129  CG2 ILE   33    B      3.60
+ 41.    484  CG2 VAL   34    A   <-->  1128  CG1 ILE   33    B      3.56
+ 42.    484  CG2 VAL   34    A   <-->  1129  CG2 ILE   33    B      3.57
+ 43.    533  CD1 LEU   37    A   <-->  1192  CA  LEU   37    B      3.81
+
+Number of non-bonded contacts:    43
+

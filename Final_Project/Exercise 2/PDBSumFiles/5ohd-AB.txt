@@ -1,0 +1,33 @@
+List of atom-atom interactions across protein-protein interface
+---------------------------------------------------------------
+
+
+                 PDB code: 5ohd   Chains A }{ B
+                 ------------------------------
+
+
+
+Non-bonded contacts
+-------------------
+
+       <----- A T O M   1 ----->       <----- A T O M   2 ----->
+
+       Atom Atom Res  Res              Atom Atom Res  Res
+        no. name name no.  Chain        no. name name no.  Chain  Distance
+  1.    238  CZ3 TRP  267    A   <-->   968  CZ3 TRP  267    B      3.43
+  2.    238  CZ3 TRP  267    A   <-->   969  CH2 TRP  267    B      3.61
+  3.    239  CH2 TRP  267    A   <-->   968  CZ3 TRP  267    B      3.62
+  4.    313  CG2 ILE  271    A   <-->  1043  CG2 ILE  271    B      3.43
+  5.    333  CD1 ILE  272    A   <-->  1107  CG1 ILE  275    B      3.50
+  6.    333  CD1 ILE  272    A   <-->  1109  CD1 ILE  275    B      3.24
+  7.    377  CG1 ILE  275    A   <-->  1063  CD1 ILE  272    B      3.51
+  8.    378  CG2 ILE  275    A   <-->  1108  CG2 ILE  275    B      3.87
+  9.    379  CD1 ILE  275    A   <-->  1063  CD1 ILE  272    B      3.26
+ 10.    443  CG2 THR  279    A   <-->  1173  CG2 THR  279    B      3.35
+ 11.    509  CD1 PHE  283    A   <-->  1242  CE2 PHE  283    B      3.87
+ 12.    511  CE1 PHE  283    A   <-->  1240  CD2 PHE  283    B      3.88
+ 13.    511  CE1 PHE  283    A   <-->  1242  CE2 PHE  283    B      3.75
+ 14.    513  CZ  PHE  283    A   <-->  1240  CD2 PHE  283    B      3.90
+
+Number of non-bonded contacts:    14
+

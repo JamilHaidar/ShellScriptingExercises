@@ -1,0 +1,45 @@
+List of atom-atom interactions across protein-protein interface
+---------------------------------------------------------------
+
+
+                 PDB code: 2k9y   Chains A }{ B
+                 ------------------------------
+
+
+
+Non-bonded contacts
+-------------------
+
+       <----- A T O M   1 ----->       <----- A T O M   2 ----->
+
+       Atom Atom Res  Res              Atom Atom Res  Res
+        no. name name no.  Chain        no. name name no.  Chain  Distance
+  1.    114  O   GLU  530    A   <-->   843  CD1 ILE  538    B      3.52
+  2.    137  CB  SER  532    A   <-->   796  CG  LEU  535    B      3.53
+  3.    137  CB  SER  532    A   <-->   797  CD1 LEU  535    B      3.82
+  4.    137  CB  SER  532    A   <-->   798  CD2 LEU  535    B      3.45
+  5.    138  OG  SER  532    A   <-->   796  CG  LEU  535    B      3.38
+  6.    138  OG  SER  532    A   <-->   797  CD1 LEU  535    B      3.20
+  7.    138  OG  SER  532    A   <-->   798  CD2 LEU  535    B      3.20
+  8.    169  CB  LEU  535    A   <-->   795  CB  LEU  535    B      3.14
+  9.    216  CG2 ILE  538    A   <-->   855  N   GLY  539    B      3.36
+ 10.    216  CG2 ILE  538    A   <-->   856  CA  GLY  539    B      3.13
+ 11.    229  N   GLY  539    A   <-->   842  CG2 ILE  538    B      3.38
+ 12.    230  CA  GLY  539    A   <-->   842  CG2 ILE  538    B      3.14
+ 13.    263  CB  ALA  542    A   <-->   889  CB  ALA  542    B      3.42
+ 14.    314  CG2 VAL  546    A   <-->   940  CG2 VAL  546    B      3.32
+ 15.    368  CD1 LEU  549    A   <-->   994  CD1 LEU  549    B      3.83
+ 16.    368  CD1 LEU  549    A   <-->   995  CD2 LEU  549    B      3.89
+ 17.    369  CD2 LEU  549    A   <-->   994  CD1 LEU  549    B      3.89
+ 18.    369  CD2 LEU  549    A   <-->   995  CD2 LEU  549    B      3.18
+ 19.    482  CD1 PHE  557    A   <-->  1110  CE1 PHE  557    B      3.72
+ 20.    484  CE1 PHE  557    A   <-->  1108  CD1 PHE  557    B      3.82
+ 21.    484  CE1 PHE  557    A   <-->  1110  CE1 PHE  557    B      3.81
+ 22.    541  NH1 ARG  560    A   <-->  1165  NE  ARG  560    B      3.27
+ 23.    541  NH1 ARG  560    A   <-->  1166  CZ  ARG  560    B      3.72
+ 24.    541  NH1 ARG  560    A   <-->  1168  NH2 ARG  560    B      3.38
+ 25.    563  NE  ARG  561    A   <-->  1168  NH2 ARG  560    B      3.76
+ 26.    566  NH2 ARG  561    A   <-->  1168  NH2 ARG  560    B      3.58
+
+Number of non-bonded contacts:    26
+

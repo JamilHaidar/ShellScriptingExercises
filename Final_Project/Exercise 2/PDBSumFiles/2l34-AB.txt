@@ -1,0 +1,83 @@
+List of atom-atom interactions across protein-protein interface
+---------------------------------------------------------------
+
+
+                 PDB code: 2l34   Chains A }{ B
+                 ------------------------------
+
+
+
+Non-bonded contacts
+-------------------
+
+       <----- A T O M   1 ----->       <----- A T O M   2 ----->
+
+       Atom Atom Res  Res              Atom Atom Res  Res
+        no. name name no.  Chain        no. name name no.  Chain  Distance
+  1.      2  CA  CYS    1    A   <-->   497  SG  CYS    1    B      3.45
+  2.      5  CB  CYS    1    A   <-->   496  CB  CYS    1    B      3.73
+  3.     10  N   SER    2    A   <-->   531  CG1 VAL    4    B      3.45
+  4.     13  O   SER    2    A   <-->   531  CG1 VAL    4    B      3.67
+  5.     41  CG2 VAL    4    A   <-->   530  CB  VAL    4    B      3.68
+  6.     41  CG2 VAL    4    A   <-->   531  CG1 VAL    4    B      3.48
+  7.    101  C   LEU    9    A   <-->   596  CD1 LEU    9    B      3.60
+  8.    102  O   LEU    9    A   <-->   596  CD1 LEU    9    B      3.64
+  9.    103  CB  LEU    9    A   <-->   594  CB  LEU    9    B      3.78
+ 10.    103  CB  LEU    9    A   <-->   595  CG  LEU    9    B      3.70
+ 11.    103  CB  LEU    9    A   <-->   596  CD1 LEU    9    B      3.63
+ 12.    104  CG  LEU    9    A   <-->   594  CB  LEU    9    B      3.77
+ 13.    105  CD1 LEU    9    A   <-->   592  C   LEU    9    B      3.57
+ 14.    105  CD1 LEU    9    A   <-->   593  O   LEU    9    B      3.55
+ 15.    105  CD1 LEU    9    A   <-->   594  CB  LEU    9    B      3.64
+ 16.    105  CD1 LEU    9    A   <-->   609  N   ALA   10    B      3.79
+ 17.    105  CD1 LEU    9    A   <-->   650  CG1 VAL   13    B      3.27
+ 18.    118  N   ALA   10    A   <-->   596  CD1 LEU    9    B      3.79
+ 19.    138  O   ILE   12    A   <-->   691  OD2 ASP   16    B      3.54
+ 20.    139  CB  ILE   12    A   <-->   650  CG1 VAL   13    B      3.60
+ 21.    141  CG2 ILE   12    A   <-->   646  CA  VAL   13    B      3.82
+ 22.    141  CG2 ILE   12    A   <-->   649  CB  VAL   13    B      3.63
+ 23.    141  CG2 ILE   12    A   <-->   650  CG1 VAL   13    B      3.28
+ 24.    155  CA  VAL   13    A   <-->   632  CG2 ILE   12    B      3.81
+ 25.    158  CB  VAL   13    A   <-->   632  CG2 ILE   12    B      3.77
+ 26.    159  CG1 VAL   13    A   <-->   596  CD1 LEU    9    B      3.35
+ 27.    159  CG1 VAL   13    A   <-->   632  CG2 ILE   12    B      3.66
+ 28.    188  C   GLY   15    A   <-->   691  OD2 ASP   16    B      3.60
+ 29.    193  N   ASP   16    A   <-->   691  OD2 ASP   16    B      3.13
+ 30.    194  CA  ASP   16    A   <-->   691  OD2 ASP   16    B      3.06
+ 31.    197  CB  ASP   16    A   <-->   691  OD2 ASP   16    B      3.42
+ 32.    198  CG  ASP   16    A   <-->   737  CD1 LEU   19    B      3.70
+ 33.    199  OD1 ASP   16    A   <-->   685  CA  ASP   16    B      3.32
+ 34.    199  OD1 ASP   16    A   <-->   688  CB  ASP   16    B      3.75
+ 35.    199  OD1 ASP   16    A   <-->   689  CG  ASP   16    B      3.75
+ 36.    199  OD1 ASP   16    A   <-->   691  OD2 ASP   16    B      3.50
+ 37.    199  OD1 ASP   16    A   <-->   735  CB  LEU   19    B      3.85
+ 38.    199  OD1 ASP   16    A   <-->   737  CD1 LEU   19    B      3.20
+ 39.    200  OD2 ASP   16    A   <-->   737  CD1 LEU   19    B      3.68
+ 40.    245  CG  LEU   19    A   <-->   755  OG1 THR   20    B      3.44
+ 41.    246  CD1 LEU   19    A   <-->   689  CG  ASP   16    B      3.20
+ 42.    246  CD1 LEU   19    A   <-->   690  OD1 ASP   16    B      2.61
+ 43.    246  CD1 LEU   19    A   <-->   691  OD2 ASP   16    B      3.24
+ 44.    246  CD1 LEU   19    A   <-->   755  OG1 THR   20    B      2.90
+ 45.    247  CD2 LEU   19    A   <-->   754  CB  THR   20    B      3.86
+ 46.    247  CD2 LEU   19    A   <-->   755  OG1 THR   20    B      2.95
+ 47.    247  CD2 LEU   19    A   <-->   756  CG2 THR   20    B      3.71
+ 48.    264  OG1 THR   20    A   <-->   737  CD1 LEU   19    B      3.00
+ 49.    312  CB  ILE   23    A   <-->   805  CG2 ILE   23    B      3.71
+ 50.    314  CG2 ILE   23    A   <-->   803  CB  ILE   23    B      3.70
+ 51.    314  CG2 ILE   23    A   <-->   805  CG2 ILE   23    B      3.12
+ 52.    371  CG1 VAL   27    A   <-->   862  CG1 VAL   27    B      3.13
+ 53.    479  CD2 LEU   33    A   <-->   936  O   GLY   31    B      3.38
+
+Disulphide bonds
+----------------
+
+       <----- A T O M   1 ----->       <----- A T O M   2 ----->
+
+       Atom Atom Res  Res              Atom Atom Res  Res
+        no. name name no.  Chain        no. name name no.  Chain  Distance
+  1.      6  SG  CYS    1    A   <-->   497  SG  CYS    1    B      2.02
+
+Number of disulphide bonds:        1
+
+Number of non-bonded contacts:    53
+

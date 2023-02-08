@@ -1,0 +1,156 @@
+List of atom-atom interactions across protein-protein interface
+---------------------------------------------------------------
+
+
+                 PDB code: 3d9s   Chains B }{ D
+                 ------------------------------
+
+
+
+Hydrogen bonds
+--------------
+
+       <----- A T O M   1 ----->       <----- A T O M   2 ----->
+
+       Atom Atom Res  Res              Atom Atom Res  Res
+        no. name name no.  Chain        no. name name no.  Chain  Distance
+  1.   1907  NZ  LYS   12    B   <-->  7084  O   LEU  225    D      3.03
+  2.   2106  O   ALA   38    B   <-->  6722  OH  TYR  178    D      2.82
+  3.   2154  NE2 GLN   44    B   <-->  6722  OH  TYR  178    D      2.73
+  4.   2244  O   GLN   58    B   <-->  6557  NH1 ARG  154    D      2.91
+  5.   2248  OE1 GLN   58    B   <-->  6515  OG  SER  149    D      2.88
+  6.   2249  NE2 GLN   58    B   <-->  6582  O   VAL  158    D      3.07
+
+Non-bonded contacts
+-------------------
+
+       <----- A T O M   1 ----->       <----- A T O M   2 ----->
+
+       Atom Atom Res  Res              Atom Atom Res  Res
+        no. name name no.  Chain        no. name name no.  Chain  Distance
+  1.   1906  CE  LYS   12    B   <-->  7076  O   LEU  224    D      3.33
+  2.   1906  CE  LYS   12    B   <-->  7082  CA  LEU  225    D      3.61
+  3.   1906  CE  LYS   12    B   <-->  7083  C   LEU  225    D      3.74
+  4.   1906  CE  LYS   12    B   <-->  7084  O   LEU  225    D      3.05
+  5.   1907  NZ  LYS   12    B   <-->  7076  O   LEU  224    D      3.49
+  6.   1907  NZ  LYS   12    B   <-->  7084  O   LEU  225    D      3.03
+  7.   1963  CD2 LEU   19    B   <-->  7037  CD2 LEU  220    D      3.83
+  8.   2020  CZ  PHE   26    B   <-->  6423  CD1 ILE  137    D      3.86
+  9.   2024  O   PHE   27    B   <-->  6698  CG2 VAL  175    D      3.60
+ 10.   2027  CD1 PHE   27    B   <-->  6665  O   LEU  171    D      3.81
+ 11.   2027  CD1 PHE   27    B   <-->  6698  CG2 VAL  175    D      3.80
+ 12.   2029  CE1 PHE   27    B   <-->  6431  CD2 LEU  138    D      3.67
+ 13.   2029  CE1 PHE   27    B   <-->  6665  O   LEU  171    D      3.84
+ 14.   2030  CE2 PHE   27    B   <-->  6455  CG  GLN  141    D      3.67
+ 15.   2031  CZ  PHE   27    B   <-->  6431  CD2 LEU  138    D      3.85
+ 16.   2031  CZ  PHE   27    B   <-->  6455  CG  GLN  141    D      3.63
+ 17.   2046  C   GLY   30    B   <-->  6698  CG2 VAL  175    D      3.79
+ 18.   2048  N   SER   31    B   <-->  6698  CG2 VAL  175    D      3.51
+ 19.   2049  CA  SER   31    B   <-->  6698  CG2 VAL  175    D      3.80
+ 20.   2052  CB  SER   31    B   <-->  6687  O   LEU  174    D      3.82
+ 21.   2052  CB  SER   31    B   <-->  6698  CG2 VAL  175    D      3.82
+ 22.   2080  CB  TRP   35    B   <-->  6717  CD1 TYR  178    D      3.47
+ 23.   2080  CB  TRP   35    B   <-->  6719  CE1 TYR  178    D      3.38
+ 24.   2081  CG  TRP   35    B   <-->  6716  CG  TYR  178    D      3.54
+ 25.   2081  CG  TRP   35    B   <-->  6717  CD1 TYR  178    D      3.48
+ 26.   2081  CG  TRP   35    B   <-->  6718  CD2 TYR  178    D      3.80
+ 27.   2081  CG  TRP   35    B   <-->  6719  CE1 TYR  178    D      3.72
+ 28.   2082  CD1 TRP   35    B   <-->  6716  CG  TYR  178    D      3.87
+ 29.   2082  CD1 TRP   35    B   <-->  6718  CD2 TYR  178    D      3.64
+ 30.   2082  CD1 TRP   35    B   <-->  6720  CE2 TYR  178    D      3.71
+ 31.   2083  CD2 TRP   35    B   <-->  6715  CB  TYR  178    D      3.50
+ 32.   2083  CD2 TRP   35    B   <-->  6716  CG  TYR  178    D      3.44
+ 33.   2083  CD2 TRP   35    B   <-->  6717  CD1 TYR  178    D      3.70
+ 34.   2084  NE1 TRP   35    B   <-->  6718  CD2 TYR  178    D      3.70
+ 35.   2085  CE2 TRP   35    B   <-->  6715  CB  TYR  178    D      3.63
+ 36.   2085  CE2 TRP   35    B   <-->  6716  CG  TYR  178    D      3.75
+ 37.   2085  CE2 TRP   35    B   <-->  6718  CD2 TYR  178    D      3.89
+ 38.   2086  CE3 TRP   35    B   <-->  6715  CB  TYR  178    D      3.51
+ 39.   2086  CE3 TRP   35    B   <-->  6716  CG  TYR  178    D      3.85
+ 40.   2087  CZ2 TRP   35    B   <-->  6715  CB  TYR  178    D      3.80
+ 41.   2087  CZ2 TRP   35    B   <-->  6732  CE2 PHE  179    D      3.78
+ 42.   2087  CZ2 TRP   35    B   <-->  6733  CZ  PHE  179    D      3.87
+ 43.   2088  CZ3 TRP   35    B   <-->  6319  ND2 ASN  123    D      3.77
+ 44.   2088  CZ3 TRP   35    B   <-->  6714  O   TYR  178    D      3.81
+ 45.   2088  CZ3 TRP   35    B   <-->  6715  CB  TYR  178    D      3.65
+ 46.   2089  CH2 TRP   35    B   <-->  6715  CB  TYR  178    D      3.78
+ 47.   2089  CH2 TRP   35    B   <-->  6732  CE2 PHE  179    D      3.74
+ 48.   2089  CH2 TRP   35    B   <-->  6733  CZ  PHE  179    D      3.60
+ 49.   2106  O   ALA   38    B   <-->  6719  CE1 TYR  178    D      3.34
+ 50.   2106  O   ALA   38    B   <-->  6721  CZ  TYR  178    D      3.41
+ 51.   2106  O   ALA   38    B   <-->  6722  OH  TYR  178    D      2.82
+ 52.   2116  N   PRO   40    B   <-->  6722  OH  TYR  178    D      3.86
+ 53.   2143  CG  LEU   43    B   <-->  5760  CD2 LEU   43    D      3.72
+ 54.   2145  CD2 LEU   43    B   <-->  5760  CD2 LEU   43    D      3.88
+ 55.   2152  CD  GLN   44    B   <-->  5749  CB  ILE   42    D      3.48
+ 56.   2152  CD  GLN   44    B   <-->  5751  CG2 ILE   42    D      3.62
+ 57.   2152  CD  GLN   44    B   <-->  6722  OH  TYR  178    D      3.89
+ 58.   2153  OE1 GLN   44    B   <-->  5749  CB  ILE   42    D      3.35
+ 59.   2153  OE1 GLN   44    B   <-->  5753  N   LEU   43    D      3.85
+ 60.   2154  NE2 GLN   44    B   <-->  5749  CB  ILE   42    D      3.03
+ 61.   2154  NE2 GLN   44    B   <-->  5750  CG1 ILE   42    D      3.28
+ 62.   2154  NE2 GLN   44    B   <-->  5751  CG2 ILE   42    D      3.00
+ 63.   2154  NE2 GLN   44    B   <-->  6721  CZ  TYR  178    D      3.73
+ 64.   2154  NE2 GLN   44    B   <-->  6722  OH  TYR  178    D      2.73
+ 65.   2174  CD1 LEU   47    B   <-->  5759  CD1 LEU   43    D      3.48
+ 66.   2174  CD1 LEU   47    B   <-->  5760  CD2 LEU   43    D      3.41
+ 67.   2179  O   ALA   48    B   <-->  6668  CD1 LEU  171    D      3.16
+ 68.   2199  O   LEU   51    B   <-->  6669  CD2 LEU  171    D      3.81
+ 69.   2202  CD1 LEU   51    B   <-->  6637  O   LEU  167    D      3.90
+ 70.   2202  CD1 LEU   51    B   <-->  6660  OG1 THR  170    D      3.09
+ 71.   2204  N   ALA   52    B   <-->  6668  CD1 LEU  171    D      3.54
+ 72.   2204  N   ALA   52    B   <-->  6669  CD2 LEU  171    D      3.89
+ 73.   2205  CA  ALA   52    B   <-->  6668  CD1 LEU  171    D      3.82
+ 74.   2205  CA  ALA   52    B   <-->  6669  CD2 LEU  171    D      3.53
+ 75.   2208  CB  ALA   52    B   <-->  6668  CD1 LEU  171    D      3.79
+ 76.   2226  OG1 THR   55    B   <-->  6643  CA  SER  168    D      3.76
+ 77.   2226  OG1 THR   55    B   <-->  6646  CB  SER  168    D      3.88
+ 78.   2227  CG2 THR   55    B   <-->  6457  OE1 GLN  141    D      3.28
+ 79.   2227  CG2 THR   55    B   <-->  6484  CB  CYS  145    D      3.81
+ 80.   2227  CG2 THR   55    B   <-->  6646  CB  SER  168    D      3.87
+ 81.   2227  CG2 THR   55    B   <-->  6647  OG  SER  168    D      3.51
+ 82.   2244  O   GLN   58    B   <-->  6509  CB  ALA  148    D      3.79
+ 83.   2244  O   GLN   58    B   <-->  6556  CZ  ARG  154    D      3.90
+ 84.   2244  O   GLN   58    B   <-->  6557  NH1 ARG  154    D      2.91
+ 85.   2246  CG  GLN   58    B   <-->  6620  CB  SER  164    D      3.76
+ 86.   2246  CG  GLN   58    B   <-->  6621  OG  SER  164    D      3.22
+ 87.   2247  CD  GLN   58    B   <-->  6515  OG  SER  149    D      3.80
+ 88.   2247  CD  GLN   58    B   <-->  6582  O   VAL  158    D      3.24
+ 89.   2247  CD  GLN   58    B   <-->  6621  OG  SER  164    D      3.67
+ 90.   2248  OE1 GLN   58    B   <-->  6515  OG  SER  149    D      2.88
+ 91.   2248  OE1 GLN   58    B   <-->  6557  NH1 ARG  154    D      3.88
+ 92.   2248  OE1 GLN   58    B   <-->  6582  O   VAL  158    D      2.87
+ 93.   2248  OE1 GLN   58    B   <-->  6585  CG2 VAL  158    D      3.80
+ 94.   2249  NE2 GLN   58    B   <-->  6558  NH2 ARG  154    D      3.41
+ 95.   2249  NE2 GLN   58    B   <-->  6581  C   VAL  158    D      3.82
+ 96.   2249  NE2 GLN   58    B   <-->  6582  O   VAL  158    D      3.07
+ 97.   2251  CA  ALA   59    B   <-->  6509  CB  ALA  148    D      3.71
+ 98.   2253  O   ALA   59    B   <-->  6509  CB  ALA  148    D      3.76
+ 99.   2254  CB  ALA   59    B   <-->  6480  N   CYS  145    D      3.70
+100.   2254  CB  ALA   59    B   <-->  6481  CA  CYS  145    D      3.74
+101.   2262  CD2 LEU   60    B   <-->  7087  CD1 LEU  225    D      3.86
+102.   2272  CG  PRO   62    B   <-->  6557  NH1 ARG  154    D      3.73
+103.   2280  CG2 VAL   63    B   <-->  7098  CE2 PHE  226    D      3.30
+104.   2280  CG2 VAL   63    B   <-->  7099  CZ  PHE  226    D      3.33
+105.   2567  CG2 ILE  104    B   <-->  6423  CD1 ILE  137    D      3.75
+106.   2592  O   GLY  107    B   <-->  6371  NE2 GLN  130    D      3.69
+107.   2596  O   VAL  108    B   <-->  6368  CG  GLN  130    D      3.87
+108.   2596  O   VAL  108    B   <-->  6369  CD  GLN  130    D      3.87
+109.   2596  O   VAL  108    B   <-->  6371  NE2 GLN  130    D      3.69
+110.   2596  O   VAL  108    B   <-->  6731  CE1 PHE  179    D      3.12
+111.   2596  O   VAL  108    B   <-->  6733  CZ  PHE  179    D      3.88
+112.   2598  CG1 VAL  108    B   <-->  6731  CE1 PHE  179    D      3.65
+113.   2598  CG1 VAL  108    B   <-->  6733  CZ  PHE  179    D      3.46
+114.   2599  CG2 VAL  108    B   <-->  6366  O   GLN  130    D      3.84
+115.   2599  CG2 VAL  108    B   <-->  6398  CG2 VAL  134    D      3.50
+116.   2609  CB  PRO  110    B   <-->  6331  O   ASN  125    D      3.66
+117.   2610  CG  PRO  110    B   <-->  6341  OG1 THR  126    D      3.31
+118.   2974  O   GLY  159    B   <-->  6587  CA  GLY  159    D      3.68
+119.   2998  CG  LEU  163    B   <-->  6621  OG  SER  164    D      3.83
+120.   2999  CD1 LEU  163    B   <-->  6621  OG  SER  164    D      3.60
+121.   3000  CD2 LEU  163    B   <-->  6640  CD1 LEU  167    D      3.32
+
+Number of hydrogen bonds:          6
+
+Number of non-bonded contacts:   121
+

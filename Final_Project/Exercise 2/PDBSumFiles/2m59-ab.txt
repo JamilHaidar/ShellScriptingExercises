@@ -1,0 +1,51 @@
+List of atom-atom interactions across protein-protein interface
+---------------------------------------------------------------
+
+
+                 PDB code: 2m59   Chains A }{ B
+                 ------------------------------
+
+
+
+Non-bonded contacts
+-------------------
+
+       <----- A T O M   1 ----->       <----- A T O M   2 ----->
+
+       Atom Atom Res  Res              Atom Atom Res  Res
+        no. name name no.  Chain        no. name name no.  Chain  Distance
+  1.     87  C   GLU    6    A   <-->   709  OE1 GLU  106    B      3.51
+  2.     88  O   GLU    6    A   <-->   709  OE1 GLU  106    B      3.51
+  3.     89  CB  GLU    6    A   <-->   706  CB  GLU  106    B      3.48
+  4.     89  CB  GLU    6    A   <-->   707  CG  GLU  106    B      3.37
+  5.     89  CB  GLU    6    A   <-->   708  CD  GLU  106    B      3.79
+  6.     89  CB  GLU    6    A   <-->   709  OE1 GLU  106    B      3.27
+  7.     90  CG  GLU    6    A   <-->   706  CB  GLU  106    B      3.38
+  8.     90  CG  GLU    6    A   <-->   707  CG  GLU  106    B      3.70
+  9.     91  CD  GLU    6    A   <-->   706  CB  GLU  106    B      3.80
+ 10.     92  OE1 GLU    6    A   <-->   704  C   GLU  106    B      3.53
+ 11.     92  OE1 GLU    6    A   <-->   705  O   GLU  106    B      3.52
+ 12.     92  OE1 GLU    6    A   <-->   706  CB  GLU  106    B      3.30
+ 13.     92  OE1 GLU    6    A   <-->   717  N   ILE  107    B      3.88
+ 14.    100  N   ILE    7    A   <-->   709  OE1 GLU  106    B      3.87
+ 15.    144  CG2 ILE    9    A   <-->   780  CD1 LEU  110    B      3.18
+ 16.    163  CD1 LEU   10    A   <-->   761  CG2 ILE  109    B      3.18
+ 17.    164  CD2 LEU   10    A   <-->   761  CG2 ILE  109    B      3.87
+ 18.    164  CD2 LEU   10    A   <-->   781  CD2 LEU  110    B      3.09
+ 19.    313  CE1 PHE   20    A   <-->   952  CE3 TRP  121    B      3.62
+ 20.    313  CE1 PHE   20    A   <-->   954  CZ3 TRP  121    B      3.47
+ 21.    315  CZ  PHE   20    A   <-->   952  CE3 TRP  121    B      3.39
+ 22.    315  CZ  PHE   20    A   <-->   954  CZ3 TRP  121    B      3.35
+ 23.    335  CE3 TRP   21    A   <-->   930  CE1 PHE  120    B      3.61
+ 24.    335  CE3 TRP   21    A   <-->   932  CZ  PHE  120    B      3.39
+ 25.    337  CZ3 TRP   21    A   <-->   930  CE1 PHE  120    B      3.47
+ 26.    337  CZ3 TRP   21    A   <-->   932  CZ  PHE  120    B      3.35
+ 27.    375  CD2 LEU   23    A   <-->  1010  CD1 LEU  124    B      3.13
+ 28.    393  CD1 LEU   24    A   <-->   992  CD2 LEU  123    B      3.13
+ 29.    393  CD1 LEU   24    A   <-->  1065  CD1 ILE  127    B      3.51
+ 30.    447  CG2 ILE   27    A   <-->  1064  CG2 ILE  127    B      3.16
+ 31.    448  CD1 ILE   27    A   <-->  1010  CD1 LEU  124    B      3.52
+ 32.    523  CG2 VAL   31    A   <-->  1140  CG2 VAL  131    B      3.71
+
+Number of non-bonded contacts:    32
+

@@ -1,0 +1,92 @@
+List of atom-atom interactions across protein-protein interface
+---------------------------------------------------------------
+
+
+                 PDB code: 2k1k   Chains A }{ B
+                 ------------------------------
+
+
+
+Non-bonded contacts
+-------------------
+
+       <----- A T O M   1 ----->       <----- A T O M   2 ----->
+
+       Atom Atom Res  Res              Atom Atom Res  Res
+        no. name name no.  Chain        no. name name no.  Chain  Distance
+  1.    139  CA  GLY  546    A   <-->   735  OE2 GLU  547    B      3.02
+  2.    140  C   GLY  546    A   <-->   735  OE2 GLU  547    B      3.65
+  3.    141  O   GLY  546    A   <-->   735  OE2 GLU  547    B      3.67
+  4.    146  CA  GLU  547    A   <-->   781  CB  ALA  550    B      3.73
+  5.    147  C   GLU  547    A   <-->   781  CB  ALA  550    B      3.75
+  6.    148  O   GLU  547    A   <-->   781  CB  ALA  550    B      2.98
+  7.    153  OE2 GLU  547    A   <-->   721  CA  GLY  546    B      3.00
+  8.    153  OE2 GLU  547    A   <-->   722  C   GLY  546    B      3.63
+  9.    153  OE2 GLU  547    A   <-->   723  O   GLY  546    B      3.66
+ 10.    196  CA  ALA  550    A   <-->   793  CG2 VAL  551    B      3.63
+ 11.    197  C   ALA  550    A   <-->   787  N   VAL  551    B      3.77
+ 12.    197  C   ALA  550    A   <-->   788  CA  VAL  551    B      3.78
+ 13.    197  C   ALA  550    A   <-->   793  CG2 VAL  551    B      3.64
+ 14.    198  O   ALA  550    A   <-->   787  N   VAL  551    B      3.71
+ 15.    198  O   ALA  550    A   <-->   788  CA  VAL  551    B      3.25
+ 16.    198  O   ALA  550    A   <-->   791  CB  VAL  551    B      3.71
+ 17.    198  O   ALA  550    A   <-->   793  CG2 VAL  551    B      3.18
+ 18.    199  CB  ALA  550    A   <-->   728  CA  GLU  547    B      3.72
+ 19.    199  CB  ALA  550    A   <-->   729  C   GLU  547    B      3.75
+ 20.    199  CB  ALA  550    A   <-->   730  O   GLU  547    B      2.98
+ 21.    199  CB  ALA  550    A   <-->   781  CB  ALA  550    B      3.18
+ 22.    199  CB  ALA  550    A   <-->   787  N   VAL  551    B      3.71
+ 23.    199  CB  ALA  550    A   <-->   793  CG2 VAL  551    B      3.45
+ 24.    205  N   VAL  551    A   <-->   779  C   ALA  550    B      3.77
+ 25.    205  N   VAL  551    A   <-->   780  O   ALA  550    B      3.73
+ 26.    205  N   VAL  551    A   <-->   781  CB  ALA  550    B      3.69
+ 27.    206  CA  VAL  551    A   <-->   779  C   ALA  550    B      3.77
+ 28.    206  CA  VAL  551    A   <-->   780  O   ALA  550    B      3.25
+ 29.    208  O   VAL  551    A   <-->   843  CA  GLY  554    B      3.75
+ 30.    209  CB  VAL  551    A   <-->   780  O   ALA  550    B      3.71
+ 31.    210  CG1 VAL  551    A   <-->   843  CA  GLY  554    B      3.82
+ 32.    211  CG2 VAL  551    A   <-->   778  CA  ALA  550    B      3.62
+ 33.    211  CG2 VAL  551    A   <-->   779  C   ALA  550    B      3.65
+ 34.    211  CG2 VAL  551    A   <-->   780  O   ALA  550    B      3.21
+ 35.    211  CG2 VAL  551    A   <-->   781  CB  ALA  550    B      3.42
+ 36.    261  CA  GLY  554    A   <-->   790  O   VAL  551    B      3.79
+ 37.    261  CA  GLY  554    A   <-->   792  CG1 VAL  551    B      3.89
+ 38.    261  CA  GLY  554    A   <-->   853  CB  LEU  555    B      3.84
+ 39.    262  C   GLY  554    A   <-->   849  N   LEU  555    B      3.66
+ 40.    262  C   GLY  554    A   <-->   850  CA  LEU  555    B      3.54
+ 41.    262  C   GLY  554    A   <-->   853  CB  LEU  555    B      3.73
+ 42.    263  O   GLY  554    A   <-->   849  N   LEU  555    B      3.76
+ 43.    263  O   GLY  554    A   <-->   850  CA  LEU  555    B      3.18
+ 44.    263  O   GLY  554    A   <-->   853  CB  LEU  555    B      3.41
+ 45.    263  O   GLY  554    A   <-->   855  CD1 LEU  555    B      3.56
+ 46.    267  N   LEU  555    A   <-->   844  C   GLY  554    B      3.65
+ 47.    267  N   LEU  555    A   <-->   845  O   GLY  554    B      3.75
+ 48.    267  N   LEU  555    A   <-->   849  N   LEU  555    B      3.78
+ 49.    268  CA  LEU  555    A   <-->   844  C   GLY  554    B      3.54
+ 50.    268  CA  LEU  555    A   <-->   845  O   GLY  554    B      3.17
+ 51.    271  CB  LEU  555    A   <-->   843  CA  GLY  554    B      3.83
+ 52.    271  CB  LEU  555    A   <-->   844  C   GLY  554    B      3.71
+ 53.    271  CB  LEU  555    A   <-->   845  O   GLY  554    B      3.39
+ 54.    273  CD1 LEU  555    A   <-->   845  O   GLY  554    B      3.53
+ 55.    273  CD1 LEU  555    A   <-->   907  CA  GLY  558    B      3.43
+ 56.    325  CA  GLY  558    A   <-->   855  CD1 LEU  555    B      3.47
+ 57.    332  CA  ALA  559    A   <-->   959  CD2 LEU  562    B      3.78
+ 58.    334  O   ALA  559    A   <-->   959  CD2 LEU  562    B      3.55
+ 59.    335  CB  ALA  559    A   <-->   959  CD2 LEU  562    B      3.89
+ 60.    374  CB  LEU  562    A   <-->   959  CD2 LEU  562    B      3.54
+ 61.    375  CG  LEU  562    A   <-->   959  CD2 LEU  562    B      3.74
+ 62.    376  CD1 LEU  562    A   <-->   914  CA  ALA  559    B      3.41
+ 63.    376  CD1 LEU  562    A   <-->   915  C   ALA  559    B      3.61
+ 64.    376  CD1 LEU  562    A   <-->   916  O   ALA  559    B      3.16
+ 65.    376  CD1 LEU  562    A   <-->   917  CB  ALA  559    B      3.19
+ 66.    376  CD1 LEU  562    A   <-->   959  CD2 LEU  562    B      3.39
+ 67.    377  CD2 LEU  562    A   <-->   959  CD2 LEU  562    B      3.79
+ 68.    440  CD1 LEU  566    A   <-->  1022  CD1 LEU  566    B      3.21
+ 69.    532  CZ  ARG  571    A   <-->  1116  NH2 ARG  571    B      3.54
+ 70.    533  NH1 ARG  571    A   <-->  1114  CZ  ARG  571    B      3.25
+ 71.    533  NH1 ARG  571    A   <-->  1115  NH1 ARG  571    B      3.28
+ 72.    533  NH1 ARG  571    A   <-->  1116  NH2 ARG  571    B      3.28
+ 73.    534  NH2 ARG  571    A   <-->  1116  NH2 ARG  571    B      3.20
+
+Number of non-bonded contacts:    73
+

@@ -1,0 +1,65 @@
+List of atom-atom interactions across protein-protein interface
+---------------------------------------------------------------
+
+
+                 PDB code: 2l2t   Chains A }{ B
+                 ------------------------------
+
+
+
+Non-bonded contacts
+-------------------
+
+       <----- A T O M   1 ----->       <----- A T O M   2 ----->
+
+       Atom Atom Res  Res              Atom Atom Res  Res
+        no. name name no.  Chain        no. name name no.  Chain  Distance
+  1.      4  O   SER   42    A   <-->   738  CG2 THR   44    B      3.27
+  2.     17  OG1 THR   43    A   <-->   738  CG2 THR   44    B      3.80
+  3.     49  CB  PRO   45    A   <-->   767  C   PRO   46    B      3.66
+  4.     49  CB  PRO   45    A   <-->   768  O   PRO   46    B      3.78
+  5.     49  CB  PRO   45    A   <-->   779  N   GLN   47    B      3.45
+  6.     49  CB  PRO   45    A   <-->   780  CA  GLN   47    B      3.39
+  7.     59  N   GLN   46    A   <-->   783  CB  GLN   47    B      3.77
+  8.     63  CB  GLN   46    A   <-->   783  CB  GLN   47    B      3.74
+  9.     76  N   HIS   47    A   <-->   783  CB  GLN   47    B      3.83
+ 10.     76  N   HIS   47    A   <-->   784  CG  GLN   47    B      3.40
+ 11.     78  C   HIS   47    A   <-->   784  CG  GLN   47    B      3.46
+ 12.     79  O   HIS   47    A   <-->   784  CG  GLN   47    B      3.11
+ 13.     79  O   HIS   47    A   <-->   785  CD  GLN   47    B      3.53
+ 14.     79  O   HIS   47    A   <-->   787  NE2 GLN   47    B      3.63
+ 15.     81  CG  HIS   47    A   <-->   784  CG  GLN   47    B      3.67
+ 16.     82  ND1 HIS   47    A   <-->   784  CG  GLN   47    B      3.68
+ 17.     83  CD2 HIS   47    A   <-->   784  CG  GLN   47    B      3.63
+ 18.     84  CE1 HIS   47    A   <-->   784  CG  GLN   47    B      3.67
+ 19.     84  CE1 HIS   47    A   <-->   785  CD  GLN   47    B      3.68
+ 20.     84  CE1 HIS   47    A   <-->   786  OE1 GLN   47    B      3.31
+ 21.     85  NE2 HIS   47    A   <-->   784  CG  GLN   47    B      3.63
+ 22.     85  NE2 HIS   47    A   <-->   786  OE1 GLN   47    B      3.68
+ 23.     97  CB  ALA   48    A   <-->   787  NE2 GLN   47    B      3.47
+ 24.    142  CA  PRO   51    A   <-->   881  CD1 LEU   53    B      3.87
+ 25.    143  C   PRO   51    A   <-->   881  CD1 LEU   53    B      3.55
+ 26.    144  O   PRO   51    A   <-->   881  CD1 LEU   53    B      3.28
+ 27.    145  CB  PRO   51    A   <-->   881  CD1 LEU   53    B      3.54
+ 28.    158  O   LEU   52    A   <-->   927  CB  ALA   56    B      3.44
+ 29.    161  CD1 LEU   52    A   <-->   753  CD2 LEU   45    B      3.80
+ 30.    161  CD1 LEU   52    A   <-->   862  CA  PRO   52    B      3.85
+ 31.    161  CD1 LEU   52    A   <-->   863  C   PRO   52    B      3.53
+ 32.    161  CD1 LEU   52    A   <-->   864  O   PRO   52    B      3.24
+ 33.    161  CD1 LEU   52    A   <-->   865  CB  PRO   52    B      3.53
+ 34.    161  CD1 LEU   52    A   <-->   927  CB  ALA   56    B      3.85
+ 35.    162  CD2 LEU   52    A   <-->   753  CD2 LEU   45    B      3.81
+ 36.    206  O   ALA   55    A   <-->   934  CA  GLY   57    B      3.67
+ 37.    207  CB  ALA   55    A   <-->   878  O   LEU   53    B      3.39
+ 38.    214  CA  GLY   56    A   <-->   926  O   ALA   56    B      3.75
+ 39.    263  CA  GLY   60    A   <-->  1033  CG1 ILE   64    B      3.82
+ 40.    313  CG1 ILE   63    A   <-->   983  CA  GLY   61    B      3.79
+ 41.    314  CG2 ILE   63    A   <-->  1052  CG  LEU   65    B      3.58
+ 42.    314  CG2 ILE   63    A   <-->  1053  CD1 LEU   65    B      3.20
+ 43.    332  CG  LEU   64    A   <-->  1034  CG2 ILE   64    B      3.70
+ 44.    333  CD1 LEU   64    A   <-->  1034  CG2 ILE   64    B      3.22
+ 45.    334  CD2 LEU   64    A   <-->  1107  CG2 VAL   68    B      3.72
+ 46.    387  CG2 VAL   67    A   <-->  1054  CD2 LEU   65    B      3.90
+
+Number of non-bonded contacts:    46
+

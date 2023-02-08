@@ -1,0 +1,130 @@
+List of atom-atom interactions across protein-protein interface
+---------------------------------------------------------------
+
+
+                 PDB code: 5irx   Chains A }{ C
+                 ------------------------------
+
+
+
+Hydrogen bonds
+--------------
+
+       <----- A T O M   1 ----->       <----- A T O M   2 ----->
+
+       Atom Atom Res  Res              Atom Atom Res  Res
+        no. name name no.  Chain        no. name name no.  Chain  Distance
+  1.   1973  O   THR  597    A   <-->  6679  NE  ARG  455    C      2.84
+  2.   1973  O   THR  597    A   <-->  6682  NH2 ARG  455    C      2.73
+  3.   2183  O   LEU  647    A   <-->  7920  NZ  LYS  639    C      2.93
+  4.   2383  OH  TYR  671    A   <-->  7942  O   ILE  642    C      3.25
+
+Non-bonded contacts
+-------------------
+
+       <----- A T O M   1 ----->       <----- A T O M   2 ----->
+
+       Atom Atom Res  Res              Atom Atom Res  Res
+        no. name name no.  Chain        no. name name no.  Chain  Distance
+  1.   1822  CB  ARG  579    A   <-->  7502  OH  TYR  565    C      3.52
+  2.   1865  CG2 VAL  583    A   <-->  7495  CB  TYR  565    C      3.69
+  3.   1865  CG2 VAL  583    A   <-->  7496  CG  TYR  565    C      3.78
+  4.   1889  O   VAL  586    A   <-->  7368  CB  TRP  549    C      3.85
+  5.   1892  CG2 VAL  586    A   <-->  7367  O   TRP  549    C      3.22
+  6.   1899  CD1 PHE  587    A   <-->  7384  CG2 THR  550    C      3.67
+  7.   1901  CE1 PHE  587    A   <-->  7384  CG2 THR  550    C      3.64
+  8.   1902  CE2 PHE  587    A   <-->  7530  CD1 ILE  569    C      3.83
+  9.   1903  CZ  PHE  587    A   <-->  7530  CD1 ILE  569    C      3.62
+ 10.   1921  CE2 PHE  589    A   <-->  7375  CZ2 TRP  549    C      3.50
+ 11.   1921  CE2 PHE  589    A   <-->  7377  CH2 TRP  549    C      3.72
+ 12.   1924  CA  GLY  590    A   <-->  7368  CB  TRP  549    C      3.59
+ 13.   1924  CA  GLY  590    A   <-->  7369  CG  TRP  549    C      3.82
+ 14.   1924  CA  GLY  590    A   <-->  7370  CD1 TRP  549    C      3.90
+ 15.   1926  O   GLY  590    A   <-->  7348  CA  ALA  546    C      3.74
+ 16.   1946  C   THR  593    A   <-->  7346  CD2 LEU  545    C      3.64
+ 17.   1947  O   THR  593    A   <-->  7346  CD2 LEU  545    C      3.67
+ 18.   1948  CB  THR  593    A   <-->  7346  CD2 LEU  545    C      3.83
+ 19.   1949  OG1 THR  593    A   <-->  7346  CD2 LEU  545    C      3.30
+ 20.   1951  N   ALA  594    A   <-->  7346  CD2 LEU  545    C      3.65
+ 21.   1952  CA  ALA  594    A   <-->  7346  CD2 LEU  545    C      3.80
+ 22.   1954  O   ALA  594    A   <-->  7320  CG1 VAL  542    C      3.47
+ 23.   1954  O   ALA  594    A   <-->  7321  CG2 VAL  542    C      3.54
+ 24.   1955  CB  ALA  594    A   <-->  7320  CG1 VAL  542    C      3.68
+ 25.   1955  CB  ALA  594    A   <-->  7351  CB  ALA  546    C      3.83
+ 26.   1968  CG1 VAL  596    A   <-->  6656  CE1 TYR  453    C      3.56
+ 27.   1973  O   THR  597    A   <-->  6679  NE  ARG  455    C      2.84
+ 28.   1973  O   THR  597    A   <-->  6680  CZ  ARG  455    C      3.18
+ 29.   1973  O   THR  597    A   <-->  6682  NH2 ARG  455    C      2.73
+ 30.   1974  CB  THR  597    A   <-->  6646  O   ALA  452    C      3.57
+ 31.   1975  OG1 THR  597    A   <-->  7321  CG2 VAL  542    C      3.34
+ 32.   1976  CG2 THR  597    A   <-->  6645  C   ALA  452    C      3.63
+ 33.   1976  CG2 THR  597    A   <-->  6646  O   ALA  452    C      3.32
+ 34.   1976  CG2 THR  597    A   <-->  6648  N   TYR  453    C      3.81
+ 35.   1976  CG2 THR  597    A   <-->  6649  CA  TYR  453    C      3.69
+ 36.   1980  O   LEU  598    A   <-->  6682  NH2 ARG  455    C      3.48
+ 37.   2162  O   GLY  643    A   <-->  7956  CG  MET  644    C      3.29
+ 38.   2162  O   GLY  643    A   <-->  7957  SD  MET  644    C      3.36
+ 39.   2174  O   GLY  645    A   <-->  7956  CG  MET  644    C      3.83
+ 40.   2174  O   GLY  645    A   <-->  7957  SD  MET  644    C      3.54
+ 41.   2182  C   LEU  647    A   <-->  7920  NZ  LYS  639    C      3.88
+ 42.   2183  O   LEU  647    A   <-->  7918  CD  LYS  639    C      3.78
+ 43.   2183  O   LEU  647    A   <-->  7919  CE  LYS  639    C      3.35
+ 44.   2183  O   LEU  647    A   <-->  7920  NZ  LYS  639    C      2.93
+ 45.   2186  CD1 LEU  647    A   <-->  7957  SD  MET  644    C      3.67
+ 46.   2186  CD1 LEU  647    A   <-->  7958  CE  MET  644    C      3.74
+ 47.   2248  CD1 PHE  655    A   <-->  7301  CB  ALA  539    C      3.73
+ 48.   2250  CE1 PHE  655    A   <-->  7274  CA  GLU  536    C      3.69
+ 49.   2250  CE1 PHE  655    A   <-->  7297  N   ALA  539    C      3.89
+ 50.   2250  CE1 PHE  655    A   <-->  7301  CB  ALA  539    C      3.59
+ 51.   2251  CE2 PHE  655    A   <-->  7295  CG1 VAL  538    C      3.65
+ 52.   2252  CZ  PHE  655    A   <-->  7266  C   LYS  535    C      3.84
+ 53.   2252  CZ  PHE  655    A   <-->  7267  O   LYS  535    C      3.22
+ 54.   2252  CZ  PHE  655    A   <-->  7274  CA  GLU  536    C      3.64
+ 55.   2252  CZ  PHE  655    A   <-->  7295  CG1 VAL  538    C      3.48
+ 56.   2272  CG1 VAL  658    A   <-->  7330  CE1 PHE  543    C      3.64
+ 57.   2273  CG2 VAL  658    A   <-->  7301  CB  ALA  539    C      3.74
+ 58.   2299  CG2 ILE  661    A   <-->  7332  CZ  PHE  543    C      3.79
+ 59.   2307  CD1 LEU  662    A   <-->  7320  CG1 VAL  542    C      3.68
+ 60.   2308  CD2 LEU  662    A   <-->  7331  CE2 PHE  543    C      3.74
+ 61.   2308  CD2 LEU  662    A   <-->  7332  CZ  PHE  543    C      3.64
+ 62.   2324  CD2 LEU  664    A   <-->  7883  CD2 LEU  635    C      3.76
+ 63.   2347  CG1 VAL  667    A   <-->  7944  CG1 ILE  642    C      3.90
+ 64.   2347  CG1 VAL  667    A   <-->  7958  CE  MET  644    C      3.71
+ 65.   2356  CD1 ILE  668    A   <-->  7911  CZ  PHE  638    C      3.74
+ 66.   2379  CD2 TYR  671    A   <-->  7944  CG1 ILE  642    C      3.89
+ 67.   2381  CE2 TYR  671    A   <-->  7942  O   ILE  642    C      3.18
+ 68.   2381  CE2 TYR  671    A   <-->  7944  CG1 ILE  642    C      3.88
+ 69.   2382  CZ  TYR  671    A   <-->  7942  O   ILE  642    C      3.62
+ 70.   2383  OH  TYR  671    A   <-->  7942  O   ILE  642    C      3.25
+ 71.   2387  O   ILE  672    A   <-->  8255  SD  MET  682    C      3.83
+ 72.   2389  CG1 ILE  672    A   <-->  7946  CD1 ILE  642    C      3.77
+ 73.   2390  CG2 ILE  672    A   <-->  8256  CE  MET  682    C      3.78
+ 74.   2391  CD1 ILE  672    A   <-->  7946  CD1 ILE  642    C      3.68
+ 75.   2391  CD1 ILE  672    A   <-->  8202  CD1 LEU  675    C      3.82
+ 76.   2395  O   LEU  673    A   <-->  7556  CE  MET  572    C      3.59
+ 77.   2398  CD1 LEU  673    A   <-->  7562  CG1 ILE  573    C      3.68
+ 78.   2399  CD2 LEU  673    A   <-->  7553  CB  MET  572    C      3.69
+ 79.   2399  CD2 LEU  673    A   <-->  7556  CE  MET  572    C      3.73
+ 80.   2399  CD2 LEU  673    A   <-->  8256  CE  MET  682    C      3.71
+ 81.   2406  CD1 LEU  674    A   <-->  7530  CD1 ILE  569    C      3.69
+ 82.   2421  CG  ASN  676    A   <-->  8233  CG1 ILE  679    C      3.84
+ 83.   2421  CG  ASN  676    A   <-->  8235  CD1 ILE  679    C      3.88
+ 84.   2422  OD1 ASN  676    A   <-->  8235  CD1 ILE  679    C      3.86
+ 85.   2423  ND2 ASN  676    A   <-->  8233  CG1 ILE  679    C      3.51
+ 86.   2423  ND2 ASN  676    A   <-->  8235  CD1 ILE  679    C      3.60
+ 87.   2429  CG  MET  677    A   <-->  7521  SD  MET  568    C      3.86
+ 88.   2431  CE  MET  677    A   <-->  7492  CA  TYR  565    C      3.89
+ 89.   2431  CE  MET  677    A   <-->  7494  O   TYR  565    C      3.70
+ 90.   2431  CE  MET  677    A   <-->  7497  CD1 TYR  565    C      3.55
+ 91.   2431  CE  MET  677    A   <-->  7520  CG  MET  568    C      3.62
+ 92.   2431  CE  MET  677    A   <-->  7521  SD  MET  568    C      3.70
+ 93.   2451  O   ALA  680    A   <-->  8287  ND2 ASN  687    C      3.72
+ 94.   2452  CB  ALA  680    A   <-->  8278  CG1 VAL  686    C      3.87
+ 95.   2459  CD1 LEU  681    A   <-->  7499  CE1 TYR  565    C      3.54
+ 96.   2460  CD2 LEU  681    A   <-->  8278  CG1 VAL  686    C      3.80
+ 97.   2477  CB  GLU  684    A   <-->  8287  ND2 ASN  687    C      3.71
+
+Number of hydrogen bonds:          4
+
+Number of non-bonded contacts:    97
+

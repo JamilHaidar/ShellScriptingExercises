@@ -1,0 +1,53 @@
+List of atom-atom interactions across protein-protein interface
+---------------------------------------------------------------
+
+
+                 PDB code: 2l9u   Chains A }{ B
+                 ------------------------------
+
+
+
+Non-bonded contacts
+-------------------
+
+       <----- A T O M   1 ----->       <----- A T O M   2 ----->
+
+       Atom Atom Res  Res              Atom Atom Res  Res
+        no. name name no.  Chain        no. name name no.  Chain  Distance
+  1.    192  O   ILE  649    A   <-->   892  CD1 LEU  652    B      3.40
+  2.    194  CG1 ILE  649    A   <-->   855  CG1 ILE  649    B      3.74
+  3.    229  CB  LEU  652    A   <-->   890  CB  LEU  652    B      3.47
+  4.    229  CB  LEU  652    A   <-->   892  CD1 LEU  652    B      3.75
+  5.    231  CD1 LEU  652    A   <-->   853  O   ILE  649    B      3.42
+  6.    231  CD1 LEU  652    A   <-->   890  CB  LEU  652    B      3.75
+  7.    231  CD1 LEU  652    A   <-->   905  N   VAL  653    B      3.88
+  8.    231  CD1 LEU  652    A   <-->   911  CG2 VAL  653    B      3.17
+  9.    232  CD2 LEU  652    A   <-->   911  CG2 VAL  653    B      3.65
+ 10.    244  N   VAL  653    A   <-->   892  CD1 LEU  652    B      3.87
+ 11.    250  CG2 VAL  653    A   <-->   892  CD1 LEU  652    B      3.17
+ 12.    250  CG2 VAL  653    A   <-->   893  CD2 LEU  652    B      3.65
+ 13.    282  CG2 ILE  655    A   <-->   961  CG  PHE  656    B      3.73
+ 14.    282  CG2 ILE  655    A   <-->   962  CD1 PHE  656    B      3.50
+ 15.    282  CG2 ILE  655    A   <-->   964  CE1 PHE  656    B      3.67
+ 16.    300  CG  PHE  656    A   <-->   943  CG2 ILE  655    B      3.74
+ 17.    301  CD1 PHE  656    A   <-->   943  CG2 ILE  655    B      3.51
+ 18.    301  CD1 PHE  656    A   <-->  1016  CD1 LEU  659    B      3.35
+ 19.    303  CE1 PHE  656    A   <-->   943  CG2 ILE  655    B      3.68
+ 20.    303  CE1 PHE  656    A   <-->  1016  CD1 LEU  659    B      3.18
+ 21.    355  CD1 LEU  659    A   <-->   962  CD1 PHE  656    B      3.36
+ 22.    355  CD1 LEU  659    A   <-->   964  CE1 PHE  656    B      3.18
+ 23.    402  CD1 PHE  663    A   <-->  1066  CE2 PHE  663    B      3.84
+ 24.    402  CD1 PHE  663    A   <-->  1067  CZ  PHE  663    B      3.44
+ 25.    404  CE1 PHE  663    A   <-->  1065  CE1 PHE  663    B      3.18
+ 26.    404  CE1 PHE  663    A   <-->  1067  CZ  PHE  663    B      3.18
+ 27.    405  CE2 PHE  663    A   <-->  1063  CD1 PHE  663    B      3.83
+ 28.    406  CZ  PHE  663    A   <-->  1063  CD1 PHE  663    B      3.42
+ 29.    406  CZ  PHE  663    A   <-->  1065  CE1 PHE  663    B      3.18
+ 30.    406  CZ  PHE  663    A   <-->  1067  CZ  PHE  663    B      3.57
+ 31.    406  CZ  PHE  663    A   <-->  1147  CD  ARG  667    B      3.71
+ 32.    406  CZ  PHE  663    A   <-->  1150  NH1 ARG  667    B      3.43
+ 33.    486  CD  ARG  667    A   <-->  1067  CZ  PHE  663    B      3.73
+ 34.    489  NH1 ARG  667    A   <-->  1067  CZ  PHE  663    B      3.44
+
+Number of non-bonded contacts:    34
+

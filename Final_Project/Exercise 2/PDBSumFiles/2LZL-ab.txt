@@ -1,0 +1,129 @@
+List of atom-atom interactions across protein-protein interface
+---------------------------------------------------------------
+
+
+                 PDB code: 2lzl   Chains A }{ B
+                 ------------------------------
+
+
+
+Non-bonded contacts
+-------------------
+
+       <----- A T O M   1 ----->       <----- A T O M   2 ----->
+
+       Atom Atom Res  Res              Atom Atom Res  Res
+        no. name name no.  Chain        no. name name no.  Chain  Distance
+  1.     77  O   GLU  362    A   <-->   806  O   ASP  367    B      3.56
+  2.     77  O   GLU  362    A   <-->   807  CB  ASP  367    B      3.38
+  3.     77  O   GLU  362    A   <-->   810  OD2 ASP  367    B      3.89
+  4.    111  O   VAL  364    A   <-->   821  CD  GLU  368    B      3.47
+  5.    111  O   VAL  364    A   <-->   822  OE1 GLU  368    B      3.31
+  6.    111  O   VAL  364    A   <-->   823  OE2 GLU  368    B      2.87
+  7.    113  CG1 VAL  364    A   <-->   822  OE1 GLU  368    B      2.98
+  8.    139  N   ALA  366    A   <-->   823  OE2 GLU  368    B      3.84
+  9.    143  CB  ALA  366    A   <-->   820  CG  GLU  368    B      3.70
+ 10.    143  CB  ALA  366    A   <-->   821  CD  GLU  368    B      3.11
+ 11.    143  CB  ALA  366    A   <-->   822  OE1 GLU  368    B      2.94
+ 12.    143  CB  ALA  366    A   <-->   823  OE2 GLU  368    B      3.53
+ 13.    165  CB  GLU  368    A   <-->   834  CB  ALA  369    B      3.51
+ 14.    166  CG  GLU  368    A   <-->   820  CG  GLU  368    B      3.73
+ 15.    167  CD  GLU  368    A   <-->   819  CB  GLU  368    B      3.51
+ 16.    167  CD  GLU  368    A   <-->   820  CG  GLU  368    B      3.69
+ 17.    168  OE1 GLU  368    A   <-->   818  O   GLU  368    B      3.28
+ 18.    169  OE2 GLU  368    A   <-->   819  CB  GLU  368    B      3.22
+ 19.    169  OE2 GLU  368    A   <-->   820  CG  GLU  368    B      3.61
+ 20.    180  CB  ALA  369    A   <-->   834  CB  ALA  369    B      3.72
+ 21.    228  CE1 TYR  373    A   <-->   937  CD1 LEU  377    B      3.41
+ 22.    282  CG  LEU  377    A   <-->   938  CD2 LEU  377    B      3.85
+ 23.    283  CD1 LEU  377    A   <-->   882  CE1 TYR  373    B      3.41
+ 24.    284  CD2 LEU  377    A   <-->   936  CG  LEU  377    B      3.86
+ 25.    284  CD2 LEU  377    A   <-->   938  CD2 LEU  377    B      3.18
+ 26.    310  O   TYR  379    A   <-->  1039  CD2 PHE  384    B      3.48
+ 27.    310  O   TYR  379    A   <-->  1041  CE2 PHE  384    B      3.45
+ 28.    312  CG  TYR  379    A   <-->  1041  CE2 PHE  384    B      3.82
+ 29.    314  CD2 TYR  379    A   <-->  1039  CD2 PHE  384    B      3.69
+ 30.    314  CD2 TYR  379    A   <-->  1041  CE2 PHE  384    B      3.44
+ 31.    315  CE1 TYR  379    A   <-->  1041  CE2 PHE  384    B      3.72
+ 32.    316  CE2 TYR  379    A   <-->  1039  CD2 PHE  384    B      3.67
+ 33.    316  CE2 TYR  379    A   <-->  1041  CE2 PHE  384    B      3.19
+ 34.    316  CE2 TYR  379    A   <-->  1042  CZ  PHE  384    B      3.55
+ 35.    317  CZ  TYR  379    A   <-->  1041  CE2 PHE  384    B      3.35
+ 36.    317  CZ  TYR  379    A   <-->  1042  CZ  PHE  384    B      3.35
+ 37.    318  OH  TYR  379    A   <-->  1042  CZ  PHE  384    B      3.40
+ 38.    329  CA  GLY  380    A   <-->   983  CA  GLY  380    B      3.27
+ 39.    329  CA  GLY  380    A   <-->   984  C   GLY  380    B      3.27
+ 40.    329  CA  GLY  380    A   <-->   985  O   GLY  380    B      3.39
+ 41.    329  CA  GLY  380    A   <-->   989  N   VAL  381    B      3.89
+ 42.    330  C   GLY  380    A   <-->   983  CA  GLY  380    B      3.27
+ 43.    330  C   GLY  380    A   <-->   984  C   GLY  380    B      3.78
+ 44.    330  C   GLY  380    A   <-->   985  O   GLY  380    B      3.85
+ 45.    331  O   GLY  380    A   <-->   983  CA  GLY  380    B      3.39
+ 46.    331  O   GLY  380    A   <-->   984  C   GLY  380    B      3.85
+ 47.    331  O   GLY  380    A   <-->   985  O   GLY  380    B      3.61
+ 48.    335  N   VAL  381    A   <-->   983  CA  GLY  380    B      3.89
+ 49.    362  CB  PHE  383    A   <-->  1039  CD2 PHE  384    B      3.45
+ 50.    362  CB  PHE  383    A   <-->  1041  CE2 PHE  384    B      3.26
+ 51.    363  CG  PHE  383    A   <-->  1039  CD2 PHE  384    B      3.49
+ 52.    363  CG  PHE  383    A   <-->  1040  CE1 PHE  384    B      3.90
+ 53.    363  CG  PHE  383    A   <-->  1041  CE2 PHE  384    B      3.18
+ 54.    363  CG  PHE  383    A   <-->  1042  CZ  PHE  384    B      3.41
+ 55.    364  CD1 PHE  383    A   <-->  1041  CE2 PHE  384    B      3.85
+ 56.    364  CD1 PHE  383    A   <-->  1042  CZ  PHE  384    B      3.69
+ 57.    365  CD2 PHE  383    A   <-->  1033  CA  PHE  384    B      3.90
+ 58.    365  CD2 PHE  383    A   <-->  1037  CG  PHE  384    B      3.19
+ 59.    365  CD2 PHE  383    A   <-->  1038  CD1 PHE  384    B      3.27
+ 60.    365  CD2 PHE  383    A   <-->  1039  CD2 PHE  384    B      3.19
+ 61.    365  CD2 PHE  383    A   <-->  1040  CE1 PHE  384    B      3.36
+ 62.    365  CD2 PHE  383    A   <-->  1041  CE2 PHE  384    B      3.29
+ 63.    365  CD2 PHE  383    A   <-->  1042  CZ  PHE  384    B      3.37
+ 64.    367  CE2 PHE  383    A   <-->  1037  CG  PHE  384    B      3.69
+ 65.    367  CE2 PHE  383    A   <-->  1038  CD1 PHE  384    B      3.24
+ 66.    367  CE2 PHE  383    A   <-->  1040  CE1 PHE  384    B      3.21
+ 67.    367  CE2 PHE  383    A   <-->  1042  CZ  PHE  384    B      3.63
+ 68.    367  CE2 PHE  383    A   <-->  1097  CG2 ILE  387    B      3.70
+ 69.    368  CZ  PHE  383    A   <-->  1040  CE1 PHE  384    B      3.63
+ 70.    379  CA  PHE  384    A   <-->  1019  CD2 PHE  383    B      3.89
+ 71.    383  CG  PHE  384    A   <-->  1019  CD2 PHE  383    B      3.19
+ 72.    383  CG  PHE  384    A   <-->  1021  CE2 PHE  383    B      3.68
+ 73.    384  CD1 PHE  384    A   <-->  1019  CD2 PHE  383    B      3.26
+ 74.    384  CD1 PHE  384    A   <-->  1021  CE2 PHE  383    B      3.23
+ 75.    385  CD2 PHE  384    A   <-->   964  O   TYR  379    B      3.48
+ 76.    385  CD2 PHE  384    A   <-->   968  CD2 TYR  379    B      3.69
+ 77.    385  CD2 PHE  384    A   <-->   970  CE2 TYR  379    B      3.66
+ 78.    385  CD2 PHE  384    A   <-->  1016  CB  PHE  383    B      3.45
+ 79.    385  CD2 PHE  384    A   <-->  1017  CG  PHE  383    B      3.49
+ 80.    385  CD2 PHE  384    A   <-->  1019  CD2 PHE  383    B      3.19
+ 81.    386  CE1 PHE  384    A   <-->  1017  CG  PHE  383    B      3.90
+ 82.    386  CE1 PHE  384    A   <-->  1019  CD2 PHE  383    B      3.36
+ 83.    386  CE1 PHE  384    A   <-->  1021  CE2 PHE  383    B      3.21
+ 84.    386  CE1 PHE  384    A   <-->  1022  CZ  PHE  383    B      3.63
+ 85.    387  CE2 PHE  384    A   <-->   964  O   TYR  379    B      3.45
+ 86.    387  CE2 PHE  384    A   <-->   966  CG  TYR  379    B      3.83
+ 87.    387  CE2 PHE  384    A   <-->   968  CD2 TYR  379    B      3.44
+ 88.    387  CE2 PHE  384    A   <-->   969  CE1 TYR  379    B      3.73
+ 89.    387  CE2 PHE  384    A   <-->   970  CE2 TYR  379    B      3.19
+ 90.    387  CE2 PHE  384    A   <-->   971  CZ  TYR  379    B      3.35
+ 91.    387  CE2 PHE  384    A   <-->  1016  CB  PHE  383    B      3.26
+ 92.    387  CE2 PHE  384    A   <-->  1017  CG  PHE  383    B      3.18
+ 93.    387  CE2 PHE  384    A   <-->  1018  CD1 PHE  383    B      3.85
+ 94.    387  CE2 PHE  384    A   <-->  1019  CD2 PHE  383    B      3.28
+ 95.    388  CZ  PHE  384    A   <-->   970  CE2 TYR  379    B      3.56
+ 96.    388  CZ  PHE  384    A   <-->   971  CZ  TYR  379    B      3.36
+ 97.    388  CZ  PHE  384    A   <-->   972  OH  TYR  379    B      3.39
+ 98.    388  CZ  PHE  384    A   <-->  1017  CG  PHE  383    B      3.40
+ 99.    388  CZ  PHE  384    A   <-->  1018  CD1 PHE  383    B      3.69
+100.    388  CZ  PHE  384    A   <-->  1019  CD2 PHE  383    B      3.37
+101.    388  CZ  PHE  384    A   <-->  1021  CE2 PHE  383    B      3.63
+102.    442  CG1 ILE  387    A   <-->  1097  CG2 ILE  387    B      3.60
+103.    443  CG2 ILE  387    A   <-->  1021  CE2 PHE  383    B      3.70
+104.    443  CG2 ILE  387    A   <-->  1096  CG1 ILE  387    B      3.60
+105.    443  CG2 ILE  387    A   <-->  1097  CG2 ILE  387    B      3.51
+106.    443  CG2 ILE  387    A   <-->  1098  CD1 ILE  387    B      3.38
+107.    444  CD1 ILE  387    A   <-->  1097  CG2 ILE  387    B      3.38
+108.    549  CG2 THR  394    A   <-->  1218  CD2 LEU  395    B      3.48
+109.    564  CD2 LEU  395    A   <-->  1203  CG2 THR  394    B      3.45
+110.    616  CG  LEU  398    A   <-->  1271  CD1 LEU  398    B      3.61
+
+Number of non-bonded contacts:   110
+
